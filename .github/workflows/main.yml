@@ -27,9 +27,9 @@ jobs:
       run: | 
         python Options_in_future_date.py
 
-    - name: Run Politicians_trades.py script
+    - name: Run Politicians trades.py script
       run: |
-        python Politicians_trades.py
+        python Politicians trades.py
 
     - name: Configure Git to use GitHub token
       run: |

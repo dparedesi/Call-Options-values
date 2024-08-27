@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="update name of politicians trades.py">
-      <change afterPath="$PROJECT_DIR$/Politicians_trades.py" afterDir="false" />
-    </list>
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="update name of politicians_trades.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724774923457</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update name of politicians_trades.py">
+      <created>1724775061184</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775061185</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update name of politicians_trades.py">
+      <created>1724775103729</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775103729</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +163,7 @@
     <MESSAGE value="added libraries of politicians trades" />
     <MESSAGE value="update beautifulsoup4" />
     <MESSAGE value="update name of politicians trades.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="update name of politicians trades.py" />
+    <MESSAGE value="update name of politicians_trades.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="update name of politicians_trades.py" />
   </component>
 </project>

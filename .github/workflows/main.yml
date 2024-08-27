@@ -31,6 +31,11 @@ jobs:
       run: |
         python Politicians_trades.py
 
+    - name: List files after running scripts
+      run: |
+        ls -al
+        ls -al | grep '.csv'
+
     - name: Configure Git to use GitHub token
       run: |
         git config --global user.email "dparedesi@uni.pe"
@@ -40,7 +45,7 @@ jobs:
 
     - name: Commit CSV files
       run: |
-        git add top_100_stock_and_options_data.csv politicians_trades.csv
+        git add top_100_stock_and_options_data.csv politicians_trades.csv || echo "One or both files are missing!"
         git commit -m "Update CSV files"
         git push origin HEAD:${{ github.ref }}
       env:

@@ -31,6 +31,13 @@ jobs:
       run: |
         python Politicians_trades.py
 
+    - name: Configure Git to use GitHub token
+      run: |
+        git config --global user.email "dparedesi@uni.pe"
+        git config --global user.name "Daniel"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Commit CSV files and row count
       run: |
         git add top_100_stock_and_options_data.csv politicians_trades.csv row_count.txt

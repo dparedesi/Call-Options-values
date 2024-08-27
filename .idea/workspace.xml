@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="update Ticker">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="conditional notifications">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724778115379</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="conditional notifications">
+      <created>1724779725661</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724779725661</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -257,6 +264,7 @@
     <MESSAGE value="delete .csv" />
     <MESSAGE value="test changing orders" />
     <MESSAGE value="update Ticker" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Ticker" />
+    <MESSAGE value="conditional notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional notifications" />
   </component>
 </project>

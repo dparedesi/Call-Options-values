@@ -15,7 +15,7 @@ top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD"
                    "CELH", "WBA", "PARA", "AAP", "SHOP", "RUN", "LUV", "GS",
                    "KO", "SQ", "DELL", "ON", "ENPH", "SEDG", "UEC", "TMUS"]
 
-# List of interest
+# List of interest tickers
 top_100_tickers = [
     "ASTS", "FUBO", "RKLB", "UPST", "CVNA", "RUN", "SMCI", "CHWY", "NVDA",
     "HOOD", "DKNG", "CRWD", "PLTR", "SHOP", "CCJ", "CCL", "ON", "NU", "UBER",

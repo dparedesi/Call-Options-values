@@ -40,7 +40,7 @@ jobs:
 
     - name: Commit CSV files and row count
       run: |
-        git add top_100_stock_and_options_data.csv politicians_trades.csv row_count.txt
+        git add politicians_trades.csv top_100_stock_and_options_data.csv
         git commit -m "Update CSV files and row count"
         git push origin HEAD:${{ github.ref }}
       env:

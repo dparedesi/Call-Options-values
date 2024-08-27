@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="update name of commit">
-      <change beforePath="$PROJECT_DIR$/Options_in_future_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/Options_in_future_date.py" afterDir="false" />
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="delete file">
+      <change beforePath="$PROJECT_DIR$/Politicians_trades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Politicians_trades.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724781354203</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="generalize it">
+      <created>1724781404442</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1724781404442</updated>
+    </task>
+    <task id="LOCAL-00035" summary="delete file">
+      <created>1724781424394</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1724781424394</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -294,7 +308,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="vne" />
     <MESSAGE value="requirements file" />
     <MESSAGE value="manual triggering" />
     <MESSAGE value="commit CSV file" />
@@ -318,6 +331,8 @@
     <MESSAGE value="roll back. Mail notificataions didn't work" />
     <MESSAGE value="rolling back to last status ok" />
     <MESSAGE value="update name of commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="update name of commit" />
+    <MESSAGE value="generalize it" />
+    <MESSAGE value="delete file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
   </component>
 </project>

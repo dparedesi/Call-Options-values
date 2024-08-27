@@ -3,9 +3,33 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+from datetime import datetime, timedelta
+from dateutil import parser
+
+def parse_date(date_string):
+    if not date_string or not isinstance(date_string, str):
+        return None
+
+    today = datetime.now().date()
+    date_string = date_string.strip()
+
+    if 'Today' in date_string:
+        return today
+    elif 'Yesterday' in date_string:
+        return today - timedelta(days=1)
+    else:
+        try:
+            # Use dateutil parser for flexible date parsing
+            parsed_date = parser.parse(date_string, fuzzy=True)
+            return parsed_date.date()
+        except ValueError:
+            return None
+
+
+def format_date(date):
+    return date.strftime('%Y-%m-%d') if date else None
 
 # Base URL of the page to scrape (without the page number)
-base_url = "https://www.capitoltrades.com/trades?pageSize=500"
 base_url = "https://www.capitoltrades.com/trades?pageSize=1000&page="
 
 # Initialize lists to store the extracted data
@@ -53,19 +77,11 @@ while True:
         ticker = row.select_one('.q-column--issuer span')
         tickers.append(ticker.text.strip() if ticker else None)
 
-        pub_date_3 = row.select_one('.q-column--pubDate .text-size-3')
-        pub_date_2 = row.select_one('.q-column--pubDate .text-size-2')
-        publish_dates.append(
-            (pub_date_3.text.strip() if pub_date_3 else '') + " " +
-            (pub_date_2.text.strip() if pub_date_2 else '')
-        )
+        pub_date = row.select_one('.q-column--pubDate')
+        publish_dates.append(pub_date.text.strip() if pub_date else None)
 
-        trade_date_3 = row.select_one('.q-column--txDate .text-size-3')
-        trade_date_2 = row.select_one('.q-column--txDate .text-size-2')
-        trade_dates.append(
-            (trade_date_3.text.strip() if trade_date_3 else '') + " " +
-            (trade_date_2.text.strip() if trade_date_2 else '')
-        )
+        trade_date = row.select_one('.q-column--txDate')
+        trade_dates.append(trade_date.text.strip() if trade_date else None)
 
         filed_after = row.select_one('.q-column--reportingGap .q-value span')
         filed_after_days.append(filed_after.text.strip() if filed_after else None)
@@ -105,6 +121,10 @@ df = pd.DataFrame({
 
 # Update the 'Ticker' column
 df['Ticker'] = df['Ticker'].apply(lambda x: x.split(':')[0] if ':' in str(x) else x)
+
+# After creating the DataFrame, update these lines:
+df['Published Date'] = df['Published Date'].apply(parse_date).apply(format_date)
+df['Trade Date'] = df['Trade Date'].apply(parse_date).apply(format_date)
 
 # Print total time
 print(f"Completed in: {int(elapsed_time)} seconds...", end='\r')

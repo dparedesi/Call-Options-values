@@ -52,7 +52,7 @@ for index, ticker in enumerate(top_100_tickers, 1):
         pe_ratio = company_info.get('trailingPE', 'N/A')
         dividend_yield = company_info.get('dividendYield', 'N/A')
         if dividend_yield != 'N/A':
-            dividend_yield = f"{dividend_yield:.1%}"
+            dividend_yield = f"{dividend_yield:.2%}"
 
         # New data points
         forward_pe = company_info.get('forwardPE', 'N/A')

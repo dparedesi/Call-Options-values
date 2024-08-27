@@ -1,0 +1,501 @@
+Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Trade Size,Price
+Michael Collins,AERODROME FINANCE,$AERO,sell,13:05 Yesterday,4 Aug 2024,21,Undisclosed,15K-50K,0.653
+Michael Collins,AERODROME FINANCE,$AERO,buy,13:05 Yesterday,5 Aug 2024,20,Undisclosed,15K-50K,0.614
+Suzan DelBene,AUSTIN INDEPENDENT SCHOOL DISTRICT,N/A,buy,13:05 Yesterday,6 Aug 2024,17,Joint,15K-50K,
+Suzan DelBene,SCHOOL DISTRICT OF PHILADELPHIA,N/A,buy,13:05 Yesterday,5 Aug 2024,18,Joint,15K-50K,
+Suzan DelBene,TEXAS TRANSPORTATION COMMISSION,N/A,buy,13:05 Yesterday,12 Aug 2024,11,Joint,15K-50K,
+Richard Blumenthal,3G COURSER ONSHORE FUND LP,N/A,sell,23 Aug 2024,9 Jul 2024,42,Spouse,50K-100K,
+Richard Blumenthal,3G COURSER ONSHORE FUND LP,N/A,sell,23 Aug 2024,9 Jul 2024,42,Spouse,100K-250K,
+Richard Blumenthal,3G COURSER ONSHORE FUND LP,N/A,sell,23 Aug 2024,9 Jul 2024,42,Spouse,15K-50K,
+Richard Blumenthal,3G COURSER ONSHORE FUND LP,N/A,sell,23 Aug 2024,9 Jul 2024,42,Spouse,1K-15K,
+Marjorie Taylor Greene,Alphabet Inc,GOOGL:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,167.63
+Marjorie Taylor Greene,Amazon.com Inc,AMZN:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,180.11
+Marjorie Taylor Greene,FedEx Corp,FDX:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,291.52
+Marjorie Taylor Greene,Intel Corp,INTC:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,21.41
+Marjorie Taylor Greene,Kinder Morgan Inc,KMI:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,20.97
+Marjorie Taylor Greene,NVIDIA Corporation,NVDA:US,buy,23 Aug 2024,21 Aug 2024,1,Undisclosed,1K-15K,128.5
+Jared Moskowitz,A. O. Smith Corp,AOS:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,74.41
+Jared Moskowitz,Abbott Laboratories,ABT:US,sell,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,111.34
+Jared Moskowitz,Accenture PLC,ACN:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,315.77
+Jared Moskowitz,Air Products and Chemicals Inc,APD:US,sell,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,259.56
+Jared Moskowitz,Alphabet Inc,GOOGL:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,146.37
+Jared Moskowitz,Alphabet Inc,GOOGL:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,125.7
+Jared Moskowitz,Amgen Inc,AMGN:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,227.43
+Jared Moskowitz,Analog Devices Inc,ADI:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,191.97
+Jared Moskowitz,Apple Inc,AAPL:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,189.46
+Jared Moskowitz,Apple Inc,AAPL:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,185.04
+Jared Moskowitz,Atmos Energy Corp,ATO:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,115.47
+Jared Moskowitz,Automatic Data Processing Inc,ADP:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,229.47
+Jared Moskowitz,Berkshire Hathaway Inc,BRK/B:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,341.09
+Jared Moskowitz,Brown & Brown Inc,BRO:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,70.92
+Jared Moskowitz,Caterpillar Inc,CAT:US,sell,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,296.88
+Jared Moskowitz,Chevron Corp,CVX:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,153.58
+Jared Moskowitz,Citigroup Inc,C:US,sell,22 Aug 2024,14 Jul 2023,404,Undisclosed,15K-50K,45.75
+Jared Moskowitz,Costco Wholesale Corp,COST:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,546.7
+Jared Moskowitz,Costco Wholesale Corp,COST:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,663.1
+Jared Moskowitz,Cummins Inc,CMI:US,buy,22 Aug 2024,27 Sept 2023,329,Undisclosed,1K-15K,229.95
+Jared Moskowitz,Dollar General Corporation,DG:US,sell,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,163.16
+Jared Moskowitz,Elevance Health Inc,ELV:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,505.31
+Jared Moskowitz,Elevance Health Inc,ELV:US,buy,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,495.43
+Jared Moskowitz,Eli Lilly and Co,LLY:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,580.85
+Jared Moskowitz,Eli Lilly and Co,LLY:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,557.11
+Jared Moskowitz,Exxon Mobil Corp,XOM:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,100.94
+Jared Moskowitz,FactSet Research Systems Inc,FDS:US,buy,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,484.57
+Jared Moskowitz,The Home Depot Inc,HD:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,316.5
+Jared Moskowitz,Hormel Foods Corp,HRL:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,40.13
+Jared Moskowitz,Hormel Foods Corp,HRL:US,sell,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,31.94
+Jared Moskowitz,Intel Corp,INTC:US,sell,22 Aug 2024,14 Jul 2023,404,Undisclosed,15K-50K,33.15
+Jared Moskowitz,Henry (Jack) & Associates Inc,JKHY:US,sell,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,163.88
+Jared Moskowitz,Johnson & Johnson,JNJ:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,159.87
+Jared Moskowitz,Kimberly-Clark Corp,KMB:US,sell,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,123.43
+Jared Moskowitz,Linde PLC,LIN:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,388.91
+Jared Moskowitz,Lockheed Martin Corp,LMT:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,426.52
+Jared Moskowitz,Lowe's Cos Inc,LOW:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,228.74
+Jared Moskowitz,Mastercard Inc,MA:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,402.51
+Jared Moskowitz,McDonald's Corp,MCD:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,294.94
+Jared Moskowitz,McDonald's Corp,MCD:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,295.84
+Jared Moskowitz,Medtronic PLC,MDT:US,sell,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,82.73
+Jared Moskowitz,Medtronic PLC,MDT:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,87.65
+Jared Moskowitz,Merck & Co Inc,MRK:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,107.34
+Jared Moskowitz,Merck & Co Inc,MRK:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,109.84
+Jared Moskowitz,Microsoft Corp,MSFT:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,328.66
+Jared Moskowitz,Microsoft Corp,MSFT:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,345.24
+Jared Moskowitz,Mondelez International Inc,MDLZ:US,buy,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,76.54
+Jared Moskowitz,NextEra Energy Inc,NEE:US,sell,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,55.25
+Jared Moskowitz,NextEra Energy Inc,NEE:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,73.2
+Jared Moskowitz,Nike Inc,NKE:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,102.36
+Jared Moskowitz,Nike Inc,NKE:US,sell,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,101.76
+Jared Moskowitz,PepsiCo Inc,PEP:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,188.21
+Jared Moskowitz,Pfizer Inc,PFE:US,sell,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,35.78
+Jared Moskowitz,The Procter & Gamble Co,PG:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,150.05
+Jared Moskowitz,Public Service Enterprise Group Inc,PEG:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,63.84
+Jared Moskowitz,Raymond James Financial Inc,RJF:US,sell,22 Aug 2024,14 Jul 2023,404,Undisclosed,100K-250K,105.12
+Jared Moskowitz,Roper Technologies Inc,ROP:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,477.63
+Jared Moskowitz,RPM International Inc,RPM:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,108.55
+Jared Moskowitz,RTX Corp,RTX:US,sell,22 Aug 2024,27 Sept 2023,329,Undisclosed,1K-15K,72.88
+Jared Moskowitz,S&P Global Inc,SPGI:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,416.02
+Jared Moskowitz,S&P Global Inc,SPGI:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,422.48
+Jared Moskowitz,Snap-On Inc,SNA:US,buy,22 Aug 2024,1 Feb 2024,202,Undisclosed,1K-15K,290.05
+Jared Moskowitz,The Southern Co,SO:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,71.38
+Jared Moskowitz,The Southern Co,SO:US,sell,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,67.51
+Jared Moskowitz,Starbucks Corp,SBUX:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,101.61
+Jared Moskowitz,Steris PLC,STE:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,229.08
+Jared Moskowitz,Sysco Corporation,SYY:US,sell,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,70.29
+Jared Moskowitz,Target Corp,TGT:US,sell,22 Aug 2024,27 Sept 2023,329,Undisclosed,1K-15K,109.74
+Jared Moskowitz,Target Corp,TGT:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,130.92
+Jared Moskowitz,Texas Instruments Inc,TXN:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,180.85
+Jared Moskowitz,T-Mobile US Inc,TMUS:US,buy,22 Aug 2024,26 Dec 2023,239,Undisclosed,1K-15K,156.83
+Jared Moskowitz,T-Mobile US Inc,TMUS:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,158.95
+Jared Moskowitz,T-Mobile US Inc,TMUS:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,161.48
+Jared Moskowitz,Tractor Supply Co,TSCO:US,buy,22 Aug 2024,1 Sept 2023,355,Undisclosed,1K-15K,220.52
+Jared Moskowitz,Unitedhealth Group Inc,UNH:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,480.17
+Jared Moskowitz,Unitedhealth Group Inc,UNH:US,buy,22 Aug 2024,13 Feb 2024,190,Undisclosed,1K-15K,516.85
+Jared Moskowitz,Visa Inc,V:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,243.16
+Jared Moskowitz,Grainger (W.W.) Inc,GWW:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,15K-50K,763.35
+Jared Moskowitz,The Walt Disney Co,DIS:US,sell,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,88.62
+Jared Moskowitz,WEC Energy Group Inc,WEC:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,91.4
+Jared Moskowitz,West Pharmaceutical Services Inc,WST:US,buy,22 Aug 2024,14 Jul 2023,404,Undisclosed,1K-15K,385.13
+Jared Moskowitz,West Pharmaceutical Services Inc,WST:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,354.93
+Jared Moskowitz,Zoetis Inc,ZTS:US,buy,22 Aug 2024,28 Dec 2023,237,Undisclosed,1K-15K,197.16
+Jake Auchincloss,State Street Corporation,STT:US,sell,22 Aug 2024,16 Aug 2024,5,Spouse,15K-50K,81.18
+Sheldon Whitehouse,Johnson & Johnson,JNJ:US,sell,21 Aug 2024,3 Jul 2024,49,Spouse,15K-50K,145.69
+Sheldon Whitehouse,Conagra Brands Inc,CAG:US,sell,21 Aug 2024,30 Jul 2024,22,Spouse,1K-15K,30.38
+Sheldon Whitehouse,Johnson & Johnson,JNJ:US,sell,21 Aug 2024,3 Jul 2024,49,Self,15K-50K,145.69
+Sheldon Whitehouse,McDonald's Corp,MCD:US,sell,21 Aug 2024,3 Jul 2024,49,Self,1K-15K,250.0
+Sheldon Whitehouse,The Walt Disney Co,DIS:US,sell,21 Aug 2024,25 Jul 2024,27,Self,1K-15K,89.21
+Sheldon Whitehouse,Conagra Brands Inc,CAG:US,sell,21 Aug 2024,30 Jul 2024,22,Self,1K-15K,30.38
+Scott Franklin,Accenture PLC,ACN:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,323.15
+Scott Franklin,Accenture PLC,ACN:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,318.02
+Scott Franklin,Air Products and Chemicals Inc,APD:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,277.44
+Scott Franklin,Air Products and Chemicals Inc,APD:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,281.74
+Scott Franklin,Alphabet Inc,GOOGL:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,172.45
+Scott Franklin,Amgen Inc,AMGN:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,312.5
+Scott Franklin,Amgen Inc,AMGN:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,333.99
+Scott Franklin,Apple Inc,AAPL:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,207.23
+Scott Franklin,Apple Inc,AAPL:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,218.36
+Scott Franklin,BROOKLYN BANCORP INC,N/A,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,431.84
+Scott Franklin,Berkshire Hathaway Inc,BRK/B:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,425.3
+Scott Franklin,Chubb Ltd,CB:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,265.71
+Scott Franklin,Chubb Ltd,CB:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,271.32
+Scott Franklin,Cisco Systems Inc,CSCO:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,47.39
+Scott Franklin,Cisco Systems Inc,CSCO:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,50K-100K,45.16
+Scott Franklin,Costco Wholesale Corp,COST:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,816.88
+Scott Franklin,Costco Wholesale Corp,COST:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,816.89
+Scott Franklin,Discover Financial Services,DFS:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,136.17
+Scott Franklin,Discover Financial Services,DFS:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,50K-100K,125.27
+Scott Franklin,FIDELITY ADVISOR TOTAL BOND FUND,FBKWX:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,100K-250K,9.71
+Scott Franklin,FIDELITY ADVISOR TOTAL BOND FUND,FBKWX:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,15K-50K,9.71
+Scott Franklin,FIDELITY CONTRAFUND,FCNTX:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,15K-50K,18.98
+Scott Franklin,FIDELITY FLOATING RATE HIGH INCOME FUND,FFRHX:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,1K-15K,9.21
+Scott Franklin,FIDELITY MID CAP STOCK FUND,FMCSX:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,41.28
+Scott Franklin,Fidelity Nasdaq Composite Index ETF,ONEQ:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,15K-50K,65.01
+Scott Franklin,Fidelity Covington Trust - Fidelity Quality Factor ETF,FQAL:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,15K-50K,59.92
+Scott Franklin,FIRST TRUST SMID CAP RISING DIVIDEND ACHIEVERS ETF,N/A,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,33.27
+Scott Franklin,FIRST TRUST SMID CAP RISING DIVIDEND ACHIEVERS ETF,N/A,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,34.17
+Scott Franklin,General Dynamics Corp,GD:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,292.39
+Scott Franklin,General Dynamics Corp,GD:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,287.17
+Scott Franklin,INVESCO NASDAQ 100 ETF,N/A,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,180.18
+Scott Franklin,INVESCO NASDAQ 100 ETF,N/A,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,184.65
+Scott Franklin,Invesco QQQ Trust Series 1,QQQ:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,15K-50K,457.41
+Scott Franklin,Invesco QQQ Trust Series 1,QQQ:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,100K-250K,443.78
+Scott Franklin,iShares Core S&P 500 ETF,IVV:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,15K-50K,529.54
+Scott Franklin,iShares Core S&P Small-Cap ETF,IJR:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,114.35
+Scott Franklin,iShares Core S&P Small-Cap ETF,IJR:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,1K-15K,109.44
+Scott Franklin,iShares Core S&P Small-Cap ETF,IJR:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,50K-100K,109.44
+Scott Franklin,iShares Core Dividend Growth ETF,DGRO:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,15K-50K,58.55
+Scott Franklin,Johnson & Johnson,JNJ:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,15K-50K,158.9
+Scott Franklin,Johnson & Johnson,JNJ:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,164.14
+Scott Franklin,JPMorgan Chase & Co,JPM:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,207.96
+Scott Franklin,JPMorgan Chase & Co,JPM:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,200.34
+Scott Franklin,KENVUE INC,KVUE:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,1K-15K,20.86
+Scott Franklin,KENVUE INC,KVUE:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,< 1K,18.63
+Scott Franklin,Lockheed Martin Corp,LMT:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,548.86
+Scott Franklin,LORD ABBETT SHORT DURATION HIGH YIELD FUND,LSYIX:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,9.83
+Scott Franklin,LORD ABBETT SHORT DURATION HIGH YIELD FUND,LSYIX:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,
+Scott Franklin,LORD ABBETT ULTRA SHORT BOND FUND,LUBFX:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,100K-250K,10.01
+Scott Franklin,LORD ABBETT ULTRA SHORT BOND FUND,LUBFX:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,10.01
+Scott Franklin,LORD ABBETT ULTRA SHORT BOND FUND,LUBFX:US,sell,21 Aug 2024,6 Aug 2024,14,Spouse,1K-15K,10.01
+Scott Franklin,McDonald's Corp,MCD:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,1K-15K,269.37
+Scott Franklin,McDonald's Corp,MCD:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,276.69
+Scott Franklin,Merck & Co Inc,MRK:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,115.2
+Scott Franklin,Microsoft Corp,MSFT:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,399.61
+Scott Franklin,NextEra Energy Inc,NEE:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,50K-100K,76.97
+Scott Franklin,NextEra Energy Inc,NEE:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,78.39
+Scott Franklin,PepsiCo Inc,PEP:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,178.04
+Scott Franklin,Pfizer Inc,PFE:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,30.65
+Scott Franklin,Pfizer Inc,PFE:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,29.32
+Scott Franklin,The Procter & Gamble Co,PG:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,170.08
+Scott Franklin,Starbucks Corp,SBUX:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,75.88
+Scott Franklin,Starbucks Corp,SBUX:US,sell,21 Aug 2024,14 Aug 2024,6,Joint,1K-15K,93.9
+Scott Franklin,Starbucks Corp,SBUX:US,sell,21 Aug 2024,14 Aug 2024,6,Undisclosed,1K-15K,93.9
+Scott Franklin,Starbucks Corp,SBUX:US,sell,21 Aug 2024,14 Aug 2024,6,Undisclosed,100K-250K,93.9
+Scott Franklin,Starbucks Corp,SBUX:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,15K-50K,75.29
+Scott Franklin,Starbucks Corp,SBUX:US,sell,21 Aug 2024,14 Aug 2024,6,Spouse,1K-15K,93.9
+Scott Franklin,The Hershey Co,HSY:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,50K-100K,199.82
+Scott Franklin,The Hershey Co,HSY:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,199.08
+Scott Franklin,United Parcel Service Inc,UPS:US,buy,21 Aug 2024,2 Aug 2024,18,Undisclosed,1K-15K,128.06
+Scott Franklin,United Parcel Service Inc,UPS:US,buy,21 Aug 2024,7 Aug 2024,13,Undisclosed,15K-50K,123.32
+Scott Franklin,Walmart Inc,WMT:US,sell,21 Aug 2024,6 Aug 2024,14,Undisclosed,15K-50K,67.74
+Scott Franklin,Walmart Inc,WMT:US,sell,21 Aug 2024,1 Aug 2024,19,Undisclosed,1K-15K,69.79
+Jared Moskowitz,Abbott Laboratories,ABT:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,104.02
+Jared Moskowitz,The Allstate Corporation,ALL:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,158.43
+Jared Moskowitz,Amazon.com Inc,AMZN:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,200.0
+Jared Moskowitz,Amazon.com Inc,AMZN:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,200.0
+Jared Moskowitz,Broadcom Inc,AVGO:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,"1,703.31"
+Jared Moskowitz,Chubb Ltd,CB:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,252.51
+Jared Moskowitz,Comcast Corp,CMCSA:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,37.86
+Jared Moskowitz,FactSet Research Systems Inc,FDS:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,423.41
+Jared Moskowitz,JPMorgan Chase & Co,JPM:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,204.79
+Jared Moskowitz,Lowe's Cos Inc,LOW:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,213.89
+Jared Moskowitz,Mastercard Inc,MA:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,449.49
+Jared Moskowitz,Mondelez International Inc,MDLZ:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,66.98
+Jared Moskowitz,Northrop Grumman Corp,NOC:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,434.73
+Jared Moskowitz,Oracle Corp,ORCL:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,144.83
+Jared Moskowitz,The PNC Financial Services Group Inc,PNC:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,156.51
+Jared Moskowitz,The Sherwin-Williams Co,SHW:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,295.7
+Jared Moskowitz,The Sherwin-Williams Co,SHW:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,295.7
+Jared Moskowitz,Snap-On Inc,SNA:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,255.35
+Jared Moskowitz,The Southern Co,SO:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,78.04
+Jared Moskowitz,The Toronto-Dominion Bank,TD:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,55.23
+Jared Moskowitz,Waste Management Inc,WM:US,buy,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,210.33
+Jared Moskowitz,WEC Energy Group Inc,WEC:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,77.85
+Jared Moskowitz,Zoetis Inc,ZTS:US,sell,20 Aug 2024,5 Jul 2024,45,Undisclosed,1K-15K,174.96
+Thomas Kean Jr,Abbott Laboratories,ABT:US,buy,20 Aug 2024,23 Jul 2024,27,Undisclosed,1K-15K,103.92
+Markwayne Mullin,CITY OF FORT SMITH ARKANSAS,N/A,buy,20 Aug 2024,23 Jul 2024,27,Joint,50K-100K,
+Mark Warner,CITY OF RICHMOND VIRGINIA,N/A,buy,19 Aug 2024,31 Jul 2024,19,Self,500K-1M,
+Kathy Manning,Abbott Laboratories,ABT:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,103.2
+Kathy Manning,Abbott Laboratories,ABT:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,103.2
+Kathy Manning,AbbVie Inc,ABBV:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,165.96
+Kathy Manning,Accenture PLC,ACN:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,303.83
+Kathy Manning,Accenture PLC,ACN:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,303.83
+Kathy Manning,Air Products and Chemicals Inc,APD:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,251.0
+Kathy Manning,Air Products and Chemicals Inc,APD:US,sell,19 Aug 2024,2 Jul 2024,45,Undisclosed,1K-15K,251.0
+Kathy Manning,Alphabet Inc,GOOGL:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,185.24
+Kathy Manning,Alphabet Inc,GOOGL:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,185.24
+Kathy Manning,Alphabet Inc,GOOGL:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,185.24
+Kathy Manning,Alphabet Inc,GOOGL:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,186.61
+Kathy Manning,Alphabet Inc,GOOGL:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,186.61
+Kathy Manning,Amgen Inc,AMGN:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,310.77
+Kathy Manning,Aon PLC,AON:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,15K-50K,295.57
+Kathy Manning,Aon PLC,AON:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,295.57
+Kathy Manning,Aon PLC,AON:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,295.57
+Kathy Manning,Apple Inc,AAPL:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,220.27
+Kathy Manning,Apple Inc,AAPL:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,220.27
+Kathy Manning,Apple Inc,AAPL:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,220.27
+Kathy Manning,Caterpillar Inc,CAT:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,327.76
+Kathy Manning,Centene Corp,CNC:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,66.19
+Kathy Manning,Centene Corp,CNC:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,66.19
+Kathy Manning,Chubb Ltd,CB:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,255.57
+Kathy Manning,Chubb Ltd,CB:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,255.57
+Kathy Manning,Chubb Ltd,CB:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,255.57
+Kathy Manning,CME Group Inc,CME:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,197.08
+Kathy Manning,CME Group Inc,CME:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,197.08
+Kathy Manning,Costco Wholesale Corp,COST:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,859.36
+Kathy Manning,Expeditors International of Washington Inc,EXPD:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,121.22
+Kathy Manning,Garmin Ltd,GRMN:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,50K-100K,161.49
+Kathy Manning,Garmin Ltd,GRMN:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,161.49
+Kathy Manning,Garmin Ltd,GRMN:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,161.49
+Kathy Manning,The Home Depot Inc,HD:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,334.97
+Kathy Manning,The Home Depot Inc,HD:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,334.97
+Kathy Manning,The Home Depot Inc,HD:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,334.97
+Kathy Manning,Intuit Inc,INTU:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,656.22
+Kathy Manning,Johnson & Johnson,JNJ:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,146.03
+Kathy Manning,Johnson & Johnson,JNJ:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,146.03
+Kathy Manning,Lam Research Corp,LRCX:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,"1,072.82"
+Kathy Manning,Lockheed Martin Corp,LMT:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,465.7
+Kathy Manning,Lockheed Martin Corp,LMT:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,465.7
+Kathy Manning,Mastercard Inc,MA:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,444.65
+Kathy Manning,Mastercard Inc,MA:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,444.65
+Kathy Manning,Medtronic PLC,MDT:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,77.37
+Kathy Manning,Merck & Co Inc,MRK:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,127.72
+Kathy Manning,MICRON SOLUTIONS INC,N/A,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,
+Kathy Manning,Microsoft Corp,MSFT:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,15K-50K,459.28
+Kathy Manning,Microsoft Corp,MSFT:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,459.28
+Kathy Manning,Microsoft Corp,MSFT:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,459.28
+Kathy Manning,MSCI Inc,MSCI:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,491.42
+Kathy Manning,MSCI Inc,MSCI:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,491.42
+Kathy Manning,Nike Inc,NKE:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,15K-50K,76.04
+Kathy Manning,Nike Inc,NKE:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,76.04
+Kathy Manning,Nike Inc,NKE:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,76.04
+Kathy Manning,NVIDIA Corporation,NVDA:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,122.67
+Kathy Manning,NVIDIA Corporation,NVDA:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,122.67
+Kathy Manning,NVIDIA Corporation,NVDA:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,15K-50K,122.67
+Kathy Manning,Packaging Corp Of America,PKG:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,177.51
+Kathy Manning,The Procter & Gamble Co,PG:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,163.9
+Kathy Manning,QUALCOMM Inc,QCOM:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,200.16
+Kathy Manning,salesforce.com Inc,CRM:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,256.19
+Kathy Manning,salesforce.com Inc,CRM:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,256.19
+Kathy Manning,salesforce.com Inc,CRM:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,256.19
+Kathy Manning,SEVEN BRIDGES LONG SHORT EQUITY FUND LTD,N/A,sell,19 Aug 2024,26 Jul 2024,21,Spouse,100K-250K,
+Kathy Manning,SEVEN BRIDGES LONG SHORT EQUITY FUND LTD,N/A,sell,19 Aug 2024,30 Jul 2024,17,Undisclosed,500K-1M,
+Kathy Manning,SEVEN BRIDGES MULTI STRATEGY FUND LP,N/A,buy,19 Aug 2024,1 Aug 2024,15,Spouse,100K-250K,
+Kathy Manning,Sysco Corporation,SYY:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,70.59
+Kathy Manning,The TJX Companies Inc,TJX:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,110.2
+Kathy Manning,Visa Inc,V:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,268.23
+Kathy Manning,Visa Inc,V:US,buy,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,268.23
+Kathy Manning,Walmart Inc,WMT:US,sell,19 Aug 2024,2 Jul 2024,45,Spouse,1K-15K,68.07
+Chuck Fleischmann,BONDBLOXX B O Y T D US T ETF,XONE:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,49.545
+Chuck Fleischmann,INVESCO S&P MDCP QUALITY ETF,XMHQ:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,103.26
+Chuck Fleischmann,INVESCO S&P SMALLCAP QUALITY ETF,XSHQ:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,
+Chuck Fleischmann,iShares 1-5 Year Investment Grade Corp Bond ETF,IGSB:US,sell,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,51.62
+Chuck Fleischmann,ISHARES BB RAT CORP BOND ETF,HYBB:US,sell,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,46.48
+Chuck Fleischmann,PACER US SM CP CS CW 100 ETF,CALF:US,sell,19 Aug 2024,16 Jul 2024,31,Joint,15K-50K,46.65
+Chuck Fleischmann,SPDR S&P 600 Small Cap Growth ETF,SLYG:US,sell,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,93.91
+Chuck Fleischmann,SPDR Portfolio S&P 500 Growth ETF,SPYG:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,83.15
+Chuck Fleischmann,SPDR Series Trust - SPDR Portfolio S&P 500 Value ETF,SPYV:US,sell,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,50.72
+Chuck Fleischmann,SPDR S&P 400 Mid Cap Growth ETF,MDYG:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,15K-50K,89.18
+Chuck Fleischmann,SPDR PORTFOLIO HGH YD BD ETF,SPHY:US,buy,19 Aug 2024,16 Jul 2024,31,Joint,1K-15K,23.52
+Chuck Fleischmann,WILLIAM BLAIR LARGE CAP GROWTH FUND,LCGFX:US,buy,19 Aug 2024,8 Jul 2024,39,Joint,15K-50K,
+Chuck Fleischmann,SOLVENTUM CORP,SOLV:US,sell,19 Aug 2024,8 Jul 2024,39,Joint,1K-15K,49.64
+Chuck Fleischmann,DocuSign Inc,DOCU:US,sell,19 Aug 2024,9 Jul 2024,38,Joint,1K-15K,51.91
+Chuck Fleischmann,Snowflake Inc,SNOW:US,buy,19 Aug 2024,9 Jul 2024,38,Joint,1K-15K,137.46
+Michael McCaul,UC4K INVESTMENTS LLC,N/A,sell,16 Aug 2024,5 Jul 2024,41,Spouse,250K-500K,
+Michael McCaul,STATE OF MICHIGAN,N/A,sell,16 Aug 2024,10 Jul 2024,36,Spouse,100K-250K,
+Michael McCaul,RECURRING CAPITAL FUND IV LP,N/A,sell,16 Aug 2024,9 Jul 2024,37,Spouse,100K-250K,
+Michael McCaul,Visa Inc,V:US,sell,16 Aug 2024,25 Jul 2024,21,Spouse,100K-250K,253.74
+Michael McCaul,SAN ANTONIO INTERNATIONAL AIRPORT,N/A,sell,16 Aug 2024,31 Jul 2024,15,Spouse,100K-250K,
+Michael McCaul,CITY OF HOUSTON,N/A,sell,16 Aug 2024,18 Jul 2024,28,Spouse,50K-100K,
+Michael McCaul,CLEAR CREEK COUNTY,N/A,sell,16 Aug 2024,16 Jul 2024,30,Spouse,50K-100K,
+Michael McCaul,CITY OF HOUSTON,N/A,sell,16 Aug 2024,18 Jul 2024,28,Spouse,15K-50K,
+Michael McCaul,STATE OF CALIFORNIA,N/A,sell,16 Aug 2024,25 Jul 2024,21,Spouse,15K-50K,
+Michael McCaul,GE VERNOVA INC,GEV:US,sell,16 Aug 2024,19 Jul 2024,27,Spouse,15K-50K,163.34
+Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,16 Aug 2024,23 Jul 2024,23,Spouse,15K-50K,
+Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,16 Aug 2024,24 Jul 2024,22,Spouse,15K-50K,
+Michael McCaul,FULTON COUNTY GEORGIA,N/A,sell,16 Aug 2024,25 Jul 2024,21,Spouse,15K-50K,
+Michael McCaul,ConocoPhillips,COP:US,sell,16 Aug 2024,18 Jul 2024,28,Spouse,15K-50K,116.61
+Michael McCaul,TAMPA GENERAL HOSPITAL FOUNDATION INC,N/A,sell,16 Aug 2024,26 Jul 2024,20,Spouse,1K-15K,
+Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,16 Aug 2024,26 Jul 2024,20,Spouse,1K-15K,
+Michael McCaul,ALBANY ROAD STRATEGIC OPPORTUNITY FUND LLC,N/A,sell,16 Aug 2024,12 Jul 2024,34,Spouse,1K-15K,
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,31 Jul 2024,15,Spouse,1K-15K,43.33
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,2 Jul 2024,44,Spouse,1K-15K,
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,5 Jul 2024,41,Spouse,1K-15K,45.79
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,23 Jul 2024,23,Spouse,1K-15K,43.33
+Michael McCaul,Microsoft Corp,MSFT:US,sell,16 Aug 2024,15 Jul 2024,31,Spouse,1K-15K,453.96
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,23 Jul 2024,23,Spouse,1K-15K,
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,25 Jul 2024,21,Spouse,1K-15K,
+Michael McCaul,Alphabet Inc,GOOGL:US,sell,16 Aug 2024,15 Jul 2024,31,Spouse,1K-15K,186.53
+Michael McCaul,Netflix Inc,NFLX:US,sell,16 Aug 2024,16 Jul 2024,30,Spouse,1K-15K,656.32
+Michael McCaul,Safran SA,SAFRY:US,sell,16 Aug 2024,29 Jul 2024,17,Spouse,15K-50K,54.026
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,18 Jul 2024,28,Spouse,15K-50K,486.21
+Michael McCaul,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,N/A,sell,16 Aug 2024,26 Jul 2024,20,Spouse,15K-50K,
+Michael McCaul,Netflix Inc,NFLX:US,sell,16 Aug 2024,23 Jul 2024,23,Spouse,15K-50K,642.76
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,15 Jul 2024,31,Spouse,15K-50K,492.23
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,25 Jul 2024,21,Spouse,15K-50K,491.71
+Michael McCaul,SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY,N/A,sell,16 Aug 2024,9 Jul 2024,37,Spouse,15K-50K,
+Michael McCaul,STATE OF FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION,N/A,sell,16 Aug 2024,1 Jul 2024,45,Spouse,15K-50K,
+Michael McCaul,Taiwan Semiconductor Manufacturing Co Ltd,TSM:US,sell,16 Aug 2024,15 Jul 2024,31,Spouse,50K-100K,185.22
+Michael McCaul,COUNTY OF BROWARD,N/A,sell,16 Aug 2024,1 Jul 2024,45,Spouse,50K-100K,
+Michael McCaul,CITY OF DALLAS,N/A,sell,16 Aug 2024,29 Jul 2024,17,Spouse,50K-100K,
+Michael McCaul,WEST CHESTER AREA SCHOOL DISTRICT,N/A,sell,16 Aug 2024,2 Jul 2024,44,Spouse,50K-100K,
+Michael McCaul,METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA,N/A,sell,16 Aug 2024,29 Jul 2024,17,Spouse,100K-250K,
+Michael McCaul,CITY OF DALLAS,N/A,sell,16 Aug 2024,29 Jul 2024,17,Spouse,100K-250K,
+Michael McCaul,STATE OF WASHINGTON,N/A,sell,16 Aug 2024,1 Jul 2024,45,Spouse,100K-250K,
+Michael McCaul,The Kraft Heinz Co,KHC:US,sell,16 Aug 2024,2 Jul 2024,44,Spouse,50K-100K,32.0
+Michael McCaul,Dollar Tree Inc,DLTR:US,sell,16 Aug 2024,2 Jul 2024,44,Spouse,50K-100K,107.11
+Michael McCaul,Sensata Technologies Holding PLC,ST:US,sell,16 Aug 2024,2 Jul 2024,44,Spouse,15K-50K,37.69
+Michael McCaul,Warner Bros Discover Inc,WBD:US,sell,16 Aug 2024,2 Jul 2024,44,Spouse,100K-250K,7.2
+Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX:US,sell,16 Aug 2024,1 Jul 2024,45,Spouse,1K-15K,
+Michael McCaul,Vanguard Total Stock Market ETF,VTI:US,sell,16 Aug 2024,2 Jul 2024,44,Spouse,1K-15K,269.6
+Michael McCaul,DFA EMERGING MARKETS CORE EQUITY PORTFOLIO,DFCEX:US,sell,16 Aug 2024,1 Jul 2024,45,Spouse,1K-15K,
+Michael McCaul,UC4K INVESTMENTS LLC,N/A,sell,16 Aug 2024,5 Jul 2024,41,Child,250K-500K,
+Michael McCaul,STATE OF MICHIGAN,N/A,sell,16 Aug 2024,10 Jul 2024,36,Child,100K-250K,
+Michael McCaul,Visa Inc,V:US,sell,16 Aug 2024,25 Jul 2024,21,Child,100K-250K,253.74
+Michael McCaul,RECURRING CAPITAL FUND IV LP,N/A,sell,16 Aug 2024,9 Jul 2024,37,Child,50K-100K,
+Michael McCaul,SAN ANTONIO INTERNATIONAL AIRPORT,N/A,sell,16 Aug 2024,31 Jul 2024,15,Child,50K-100K,
+Michael McCaul,CITY OF HOUSTON,N/A,sell,16 Aug 2024,18 Jul 2024,28,Child,15K-50K,
+Michael McCaul,CLEAR CREEK COUNTY,N/A,sell,16 Aug 2024,16 Jul 2024,30,Child,15K-50K,
+Michael McCaul,CITY OF HOUSTON,N/A,sell,16 Aug 2024,18 Jul 2024,28,Child,15K-50K,
+Michael McCaul,STATE OF CALIFORNIA,N/A,sell,16 Aug 2024,25 Jul 2024,21,Child,15K-50K,
+Michael McCaul,GE VERNOVA INC,GEV:US,sell,16 Aug 2024,19 Jul 2024,27,Child,15K-50K,163.34
+Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,16 Aug 2024,23 Jul 2024,23,Child,15K-50K,
+Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,16 Aug 2024,24 Jul 2024,22,Child,15K-50K,
+Michael McCaul,ALBANY ROAD STRATEGIC OPPORTUNITY FUND LLC,N/A,sell,16 Aug 2024,12 Jul 2024,34,Child,15K-50K,
+Michael McCaul,ConocoPhillips,COP:US,sell,16 Aug 2024,18 Jul 2024,28,Child,15K-50K,116.61
+Michael McCaul,FULTON COUNTY GEORGIA,N/A,sell,16 Aug 2024,25 Jul 2024,21,Child,15K-50K,
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,31 Jul 2024,15,Child,1K-15K,43.33
+Michael McCaul,TAMPA GENERAL HOSPITAL FOUNDATION INC,N/A,sell,16 Aug 2024,26 Jul 2024,20,Child,1K-15K,
+Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,16 Aug 2024,26 Jul 2024,20,Child,1K-15K,
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,5 Jul 2024,41,Child,1K-15K,45.79
+Michael McCaul,MAYS (J.W.) INC,N/A,sell,16 Aug 2024,23 Jul 2024,23,Child,1K-15K,43.33
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,2 Jul 2024,44,Child,1K-15K,
+Michael McCaul,Microsoft Corp,MSFT:US,sell,16 Aug 2024,15 Jul 2024,31,Child,1K-15K,453.96
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,23 Jul 2024,23,Child,1K-15K,
+Michael McCaul,US TREASURY BILLS,N/A,sell,16 Aug 2024,25 Jul 2024,21,Child,1K-15K,
+Michael McCaul,Alphabet Inc,GOOGL:US,sell,16 Aug 2024,15 Jul 2024,31,Child,1K-15K,186.53
+Michael McCaul,Netflix Inc,NFLX:US,sell,16 Aug 2024,16 Jul 2024,30,Child,1K-15K,656.32
+Michael McCaul,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,N/A,sell,16 Aug 2024,26 Jul 2024,20,Child,1K-15K,
+Michael McCaul,Safran SA,SAFRY:US,sell,16 Aug 2024,29 Jul 2024,17,Child,1K-15K,54.026
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,18 Jul 2024,28,Child,15K-50K,486.21
+Michael McCaul,Netflix Inc,NFLX:US,sell,16 Aug 2024,23 Jul 2024,23,Child,15K-50K,642.76
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,15 Jul 2024,31,Child,15K-50K,492.23
+Michael McCaul,SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY,N/A,sell,16 Aug 2024,9 Jul 2024,37,Child,15K-50K,
+Michael McCaul,STATE OF FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION,N/A,sell,16 Aug 2024,1 Jul 2024,45,Child,15K-50K,
+Michael McCaul,The Goldman Sachs Group Inc,GS:US,sell,16 Aug 2024,25 Jul 2024,21,Child,15K-50K,491.71
+Michael McCaul,Taiwan Semiconductor Manufacturing Co Ltd,TSM:US,sell,16 Aug 2024,15 Jul 2024,31,Child,50K-100K,185.22
+Michael McCaul,COUNTY OF BROWARD,N/A,sell,16 Aug 2024,1 Jul 2024,45,Child,50K-100K,
+Michael McCaul,CITY OF DALLAS,N/A,sell,16 Aug 2024,29 Jul 2024,17,Child,50K-100K,
+Michael McCaul,WEST CHESTER AREA SCHOOL DISTRICT,N/A,sell,16 Aug 2024,2 Jul 2024,44,Child,50K-100K,
+Michael McCaul,METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA,N/A,sell,16 Aug 2024,29 Jul 2024,17,Child,50K-100K,
+Michael McCaul,CITY OF DALLAS,N/A,sell,16 Aug 2024,29 Jul 2024,17,Child,50K-100K,
+Michael McCaul,STATE OF WASHINGTON,N/A,sell,16 Aug 2024,1 Jul 2024,45,Child,100K-250K,
+Michael McCaul,The Kraft Heinz Co,KHC:US,sell,16 Aug 2024,2 Jul 2024,44,Child,1K-15K,32.0
+Michael McCaul,Dollar Tree Inc,DLTR:US,sell,16 Aug 2024,2 Jul 2024,44,Child,1K-15K,107.11
+Michael McCaul,Sensata Technologies Holding PLC,ST:US,sell,16 Aug 2024,2 Jul 2024,44,Child,1K-15K,37.69
+Michael McCaul,Warner Bros Discover Inc,WBD:US,sell,16 Aug 2024,2 Jul 2024,44,Child,15K-50K,7.2
+Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX:US,sell,16 Aug 2024,1 Jul 2024,45,Child,1K-15K,
+Michael McCaul,Vanguard Total Stock Market ETF,VTI:US,sell,16 Aug 2024,2 Jul 2024,44,Child,1K-15K,269.6
+Michael McCaul,DFA EMERGING MARKETS CORE EQUITY PORTFOLIO,DFCEX:US,sell,16 Aug 2024,1 Jul 2024,45,Child,1K-15K,
+Josh Gottheimer,3M Co,MMM:US,buy,16 Aug 2024,26 Jul 2024,20,Joint,1K-15K,127.16
+Josh Gottheimer,Abbott Laboratories,ABT:US,buy,16 Aug 2024,29 Jul 2024,17,Joint,1K-15K,104.77
+Josh Gottheimer,Advanced Micro Devices Inc,AMD:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,151.58
+Josh Gottheimer,Advanced Micro Devices Inc,AMD:US,sell,16 Aug 2024,31 Jul 2024,15,Joint,1K-15K,144.48
+Josh Gottheimer,Airbnb Inc,ABNB:US,sell,16 Aug 2024,9 Jul 2024,37,Joint,1K-15K,152.45
+Josh Gottheimer,Allianz SE,ALIZY:US,sell,16 Aug 2024,9 Jul 2024,37,Joint,1K-15K,28.111
+Josh Gottheimer,Alphabet Inc,GOOGL:US,buy,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,184.49
+Josh Gottheimer,Ambev SA,ABEV:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,2.11
+Josh Gottheimer,Ambev SA,ABEV:US,buy,16 Aug 2024,31 Jul 2024,15,Joint,1K-15K,2.06
+Josh Gottheimer,Amphenol Corp,APH:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,67.52
+Josh Gottheimer,Arista Networks Inc,ANET:US,sell,16 Aug 2024,29 Jul 2024,17,Joint,1K-15K,320.55
+Josh Gottheimer,AtriCure Inc,ATRC:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,24.17
+Josh Gottheimer,AutoZone Inc,AZO:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,"2,832.79"
+Josh Gottheimer,Block Inc,SQ:US,sell,16 Aug 2024,24 Jul 2024,22,Joint,1K-15K,61.71
+Josh Gottheimer,Block Inc,SQ:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,68.1
+Josh Gottheimer,D.R. Horton Inc,DHI:US,buy,16 Aug 2024,31 Jul 2024,15,Joint,1K-15K,179.93
+Josh Gottheimer,D.R. Horton Inc,DHI:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,173.84
+Josh Gottheimer,DBS Group Holdings Ltd,DBSDY:US,sell,16 Aug 2024,8 Jul 2024,38,Joint,1K-15K,110.269
+Josh Gottheimer,Eli Lilly and Co,LLY:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,914.37
+Josh Gottheimer,FLYWIRE CORP,FLYW:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,18.19
+Josh Gottheimer,Freeport-McMoRan Inc,FCX:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,45.9
+Josh Gottheimer,Genmab A/S,GMAB:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,27.75
+Josh Gottheimer,Heartland Express Inc,HTLD:US,sell,16 Aug 2024,26 Jul 2024,20,Joint,1K-15K,13.18
+Josh Gottheimer,Helen of Troy Ltd,HELE:US,sell,16 Aug 2024,12 Jul 2024,34,Joint,1K-15K,64.07
+Josh Gottheimer,HubSpot Inc,HUBS:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,592.58
+Josh Gottheimer,Intuit Inc,INTU:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,650.77
+Josh Gottheimer,Intuitive Surgical Inc,ISRG:US,buy,16 Aug 2024,22 Jul 2024,24,Joint,1K-15K,461.12
+Josh Gottheimer,La-Z-Boy Inc,LZB:US,buy,16 Aug 2024,16 Jul 2024,30,Joint,1K-15K,42.19
+Josh Gottheimer,Marriott International Inc,MAR:US,sell,16 Aug 2024,9 Jul 2024,37,Joint,1K-15K,237.52
+Josh Gottheimer,Mastercard Inc,MA:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,437.61
+Josh Gottheimer,Mastercard Inc,MA:US,buy,16 Aug 2024,18 Jul 2024,28,Joint,1K-15K,448.72
+Josh Gottheimer,Mastercard Inc,MA:US,buy,16 Aug 2024,31 Jul 2024,15,Joint,1K-15K,463.71
+Josh Gottheimer,McDonald's Corp,MCD:US,buy,16 Aug 2024,9 Jul 2024,37,Joint,1K-15K,245.82
+Josh Gottheimer,McKesson Corp,MCK:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,586.34
+Josh Gottheimer,Medpace Holdings Inc,MEDP:US,sell,16 Aug 2024,26 Jul 2024,20,Joint,1K-15K,381.47
+Josh Gottheimer,Meta Platforms Inc,META:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,504.68
+Josh Gottheimer,Netflix Inc,NFLX:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,673.61
+Josh Gottheimer,Northrop Grumman Corp,NOC:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,437.94
+Josh Gottheimer,Pacific Premier Bancorp Inc,PPBI:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,27.25
+Josh Gottheimer,PARAGON 28 INC,N/A,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,8.1
+Josh Gottheimer,PT Telekomunikasi Indonesia (Persero) TBK,TLK:US,buy,16 Aug 2024,31 Jul 2024,15,Spouse,1K-15K,17.84
+Josh Gottheimer,PT Telekomunikasi Indonesia (Persero) TBK,TLK:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,19.8
+Josh Gottheimer,Regeneron Pharmaceuticals Inc,REGN:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,"1,057.02"
+Josh Gottheimer,Roche Holding AG,RHHBY:US,buy,16 Aug 2024,23 Jul 2024,23,Joint,1K-15K,38.284
+Josh Gottheimer,salesforce.com Inc,CRM:US,sell,16 Aug 2024,22 Jul 2024,24,Joint,1K-15K,254.08
+Josh Gottheimer,SCHNEIDER NATIONAL INC,SNDR:US,buy,16 Aug 2024,26 Jul 2024,20,Joint,1K-15K,26.38
+Josh Gottheimer,Shell PLC,SHEL:US,buy,16 Aug 2024,5 Jul 2024,41,Joint,1K-15K,73.25
+Josh Gottheimer,Shionogi & Co Ltd,SGIOY:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,10.735
+Josh Gottheimer,SHOALS TECHNOLOGIES GRP INC,SHLS:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,6.59
+Josh Gottheimer,Sony Group Corporation,SONY:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,92.83
+Josh Gottheimer,SPRINGWORKS THERAPEUTICS INC,SWTX:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,37.72
+Josh Gottheimer,Taiwan Semiconductor Manufacturing Co Ltd,TSM:US,sell,16 Aug 2024,5 Jul 2024,41,Joint,1K-15K,183.99
+Josh Gottheimer,Tesla Inc,TSLA:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,209.86
+Josh Gottheimer,Tesla Inc,TSLA:US,sell,16 Aug 2024,29 Jul 2024,17,Joint,1K-15K,232.1
+Josh Gottheimer,Tesla Inc,TSLA:US,sell,16 Aug 2024,24 Jul 2024,22,Joint,1K-15K,215.99
+Josh Gottheimer,Trane Technologies PLC,TT:US,sell,16 Aug 2024,1 Jul 2024,45,Joint,1K-15K,321.36
+Josh Gottheimer,Viavi Solutions Inc,VIAV:US,buy,16 Aug 2024,19 Jul 2024,27,Joint,1K-15K,7.45
+Susan Collins,Thermo Fisher Scientific Inc,TMO:US,buy,16 Aug 2024,17 Jul 2024,29,Spouse,15K-50K,
+John Fetterman,Concentrix Corp,CNXC:US,sell,15 Aug 2024,19 Jul 2024,27,Child,1K-15K,
+John Fetterman,Concentrix Corp,CNXC:US,buy,15 Aug 2024,19 Jul 2024,27,Child,1K-15K,
+Greg Landsman,Adobe Inc,ADBE:US,buy,15 Aug 2024,12 Jan 2023,580,Spouse,1K-15K,344.54
+Greg Landsman,Adobe Inc,ADBE:US,buy,15 Aug 2024,23 May 2023,449,Spouse,1K-15K,370.42
+Greg Landsman,Alphabet Inc,GOOGL:US,sell,15 Aug 2024,29 May 2024,77,Spouse,1K-15K,175.9
+Greg Landsman,Alphabet Inc,GOOGL:US,buy,15 Aug 2024,12 Oct 2023,307,Joint,1K-15K,138.97
+Greg Landsman,Alphabet Inc,GOOGL:US,sell,15 Aug 2024,14 Dec 2023,244,Joint,1K-15K,131.94
+Greg Landsman,Amazon.com Inc,AMZN:US,buy,15 Aug 2024,12 Apr 2024,124,Joint,1K-15K,186.13
+Greg Landsman,Amazon.com Inc,AMZN:US,buy,15 Aug 2024,3 Jun 2024,72,Undisclosed,1K-15K,178.34
+Greg Landsman,Ameriprise Financial Inc,AMP:US,buy,15 Aug 2024,12 Jan 2023,580,Spouse,1K-15K,331.17
+Greg Landsman,Ameriprise Financial Inc,AMP:US,buy,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,328.2
+Greg Landsman,Ameriprise Financial Inc,AMP:US,sell,15 Aug 2024,24 Apr 2023,478,Joint,1K-15K,312.91
+Greg Landsman,Analog Devices Inc,ADI:US,buy,15 Aug 2024,24 Apr 2023,478,Joint,1K-15K,186.96
+Greg Landsman,Analog Devices Inc,ADI:US,sell,15 Aug 2024,30 May 2023,442,Joint,1K-15K,177.43
+Greg Landsman,Apple Inc,AAPL:US,buy,15 Aug 2024,6 Jun 2023,435,Spouse,1K-15K,179.21
+Greg Landsman,Apple Inc,AAPL:US,sell,15 Aug 2024,29 May 2024,77,Spouse,1K-15K,190.29
+Greg Landsman,Blackrock Inc,BLK:US,buy,15 Aug 2024,12 Jan 2023,580,Spouse,1K-15K,753.96
+Greg Landsman,Blackrock Inc,BLK:US,buy,15 Aug 2024,2 Feb 2023,559,Joint,1K-15K,770.73
+Greg Landsman,Blackrock Inc,BLK:US,sell,15 Aug 2024,9 Mar 2023,524,Joint,1K-15K,651.28
+Greg Landsman,Cadence Design Systems Inc,CDNS:US,buy,15 Aug 2024,16 Nov 2023,272,Joint,1K-15K,266.99
+Greg Landsman,Cadence Design Systems Inc,CDNS:US,buy,15 Aug 2024,15 Nov 2023,273,Spouse,1K-15K,265.79
+Greg Landsman,Cadence Design Systems Inc,CDNS:US,sell,15 Aug 2024,12 Apr 2024,124,Joint,1K-15K,305.85
+Greg Landsman,Cencora Inc,COR:US,buy,15 Aug 2024,29 May 2024,77,Spouse,15K-50K,219.06
+Greg Landsman,Cheniere Energy Inc,LNG:US,buy,15 Aug 2024,19 Sept 2023,330,Spouse,1K-15K,161.61
+Greg Landsman,Costco Wholesale Corp,COST:US,buy,15 Aug 2024,12 Jan 2023,580,Spouse,1K-15K,482.43
+Greg Landsman,Costco Wholesale Corp,COST:US,buy,15 Aug 2024,15 May 2024,91,Joint,1K-15K,787.04
+Greg Landsman,CrowdStrike Holdings Inc,CRWD:US,sell,15 Aug 2024,2 May 2024,104,Joint,1K-15K,303.54
+Greg Landsman,CrowdStrike Holdings Inc,CRWD:US,buy,15 Aug 2024,23 May 2023,449,Spouse,1K-15K,143.9
+Greg Landsman,CrowdStrike Holdings Inc,CRWD:US,buy,15 Aug 2024,18 Dec 2023,240,Joint,1K-15K,259.8
+Greg Landsman,Diamondback Energy Inc,FANG:US,sell,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,144.1
+Greg Landsman,Diamondback Energy Inc,FANG:US,buy,15 Aug 2024,18 Oct 2023,301,Joint,1K-15K,169.92
+Greg Landsman,Diamondback Energy Inc,FANG:US,sell,15 Aug 2024,16 Nov 2023,272,Joint,1K-15K,152.5
+Greg Landsman,Diamondback Energy Inc,FANG:US,buy,15 Aug 2024,17 Jul 2024,28,Joint,15K-50K,210.94
+Greg Landsman,Dollar General Corporation,DG:US,sell,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,226.23
+Greg Landsman,Eli Lilly and Co,LLY:US,buy,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,352.01
+Greg Landsman,Eli Lilly and Co,LLY:US,sell,15 Aug 2024,2 Feb 2023,559,Joint,1K-15K,330.7
+Greg Landsman,Eli Lilly and Co,LLY:US,buy,15 Aug 2024,11 May 2023,461,Joint,1K-15K,435.55
+Greg Landsman,Eli Lilly and Co,LLY:US,sell,15 Aug 2024,3 Jun 2024,72,Joint,1K-15K,831.26
+Greg Landsman,The Estee Lauder Cos Inc,EL:US,sell,15 Aug 2024,15 Aug 2023,365,Spouse,1K-15K,163.52
+Greg Landsman,Exxon Mobil Corp,XOM:US,sell,15 Aug 2024,29 May 2024,77,Spouse,1K-15K,113.63
+Greg Landsman,Honeywell International Inc,HON:US,sell,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,204.24
+Greg Landsman,HORIZON PHARMACIES INC,N/A,buy,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,
+Greg Landsman,HORIZON PHARMACIES INC,N/A,sell,15 Aug 2024,1 Feb 2023,560,Joint,1K-15K,
+Greg Landsman,Horizon Therapeutics Public Ltd Co,HZNP:US,sell,15 Aug 2024,3 Feb 2023,558,Spouse,1K-15K,109.68
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,buy,15 Aug 2024,4 May 2023,468,Joint,1K-15K,303.21
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,buy,15 Aug 2024,30 May 2023,442,Joint,1K-15K,307.07
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,sell,15 Aug 2024,2 Aug 2023,378,Joint,1K-15K,313.87
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,sell,15 Aug 2024,12 Oct 2023,307,Joint,1K-15K,266.12
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,buy,15 Aug 2024,1 Feb 2023,560,Spouse,1K-15K,251.19
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,sell,15 Aug 2024,17 Jul 2024,28,Joint,15K-50K,426.23
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,buy,15 Aug 2024,20 Jun 2024,55,Joint,15K-50K,432.55
+Greg Landsman,Intuitive Surgical Inc,ISRG:US,sell,15 Aug 2024,17 Jul 2024,28,Spouse,1K-15K,426.23
+Greg Landsman,L3Harris Technologies Inc,LHX:US,buy,15 Aug 2024,17 Jul 2024,28,Spouse,1K-15K,238.25
+Greg Landsman,Linde PLC,LIN:US,sell,15 Aug 2024,18 Jan 2023,574,Joint,1K-15K,324.34
+Greg Landsman,Linde PLC,LIN:US,sell,15 Aug 2024,22 Jun 2023,419,Joint,1K-15K,372.64
+Greg Landsman,Microsoft Corp,MSFT:US,buy,15 Aug 2024,30 May 2023,442,Joint,1K-15K,331.21

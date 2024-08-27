@@ -1,5 +1,4 @@
 yfinance
 pandas
 requests
-BeautifulSoup
-time
+beautifulsoup4

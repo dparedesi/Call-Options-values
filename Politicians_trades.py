@@ -99,9 +99,12 @@ df = pd.DataFrame({
     'Trade Date': trade_dates,
     'Filed After (Days)': filed_after_days,
     'Owner': owners,
-    'Trade Size': trade_sizes,
-    'Price': prices
+    'Price': prices,
+    'Trade Size': trade_sizes
 })
+
+# Update the 'Ticker' column
+df['Ticker'] = df['Ticker'].apply(lambda x: x.split(':')[0] if ':' in str(x) else x)
 
 # Print total time
 print(f"Completed in: {int(elapsed_time)} seconds...", end='\r')

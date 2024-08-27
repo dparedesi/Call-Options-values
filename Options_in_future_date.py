@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import datetime
+import os
 
 # List of top 100 tickers (sample list of tickers, you can adjust)
 top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD", "PLTR", "AVGO",
@@ -146,7 +147,9 @@ df = pd.DataFrame(data)
 df = df.sort_values('Breakeven increase', ascending=True)
 
 # Save the sorted data to a CSV file (optional)
-df.to_csv('top_100_stock_and_options_data.csv', index=False)
+file_path = os.path.join(os.getcwd(), 'top_100_stock_and_options_data.csv')  # Ensure it saves in the root of the repo
+df.to_csv(file_path, index=False, encoding='utf-8')
+print(f"File saved to: {file_path}")
 
 # Show the first few rows of the sorted DataFrame
 # print(df[['Ticker', 'Stock Price', 'Breakeven increase', 'Company Description']].head())

@@ -1,5 +1,27 @@
-your-repo/
-├── .github/
-│   └── workflows/
-│       └── run_python_script.yml
-└── Options_in_future_date.py
+name: Run Python Script Daily
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt || true
+
+    - name: Run Python script
+      run: |
+        python Options_in_future_date.py

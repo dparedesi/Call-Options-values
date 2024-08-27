@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="fix credentials" />
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="rolling back to last status ok">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +234,28 @@
       <option name="project" value="LOCAL" />
       <updated>1724779953041</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="roll back. Mail notificataions didn't work">
+      <created>1724780314043</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1724780314043</updated>
+    </task>
+    <task id="LOCAL-00029" summary="rolling back to last status ok">
+      <created>1724780357589</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724780357589</updated>
+    </task>
+    <task id="LOCAL-00030" summary="rolling back to last status ok">
+      <created>1724780486606</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724780486606</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -271,6 +294,8 @@
     <MESSAGE value="update Ticker" />
     <MESSAGE value="conditional notifications" />
     <MESSAGE value="fix credentials" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix credentials" />
+    <MESSAGE value="roll back. Mail notificataions didn't work" />
+    <MESSAGE value="rolling back to last status ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="rolling back to last status ok" />
   </component>
 </project>

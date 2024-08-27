@@ -1,2 +1,5 @@
 yfinance
 pandas
+requests
+BeautifulSoup
+time

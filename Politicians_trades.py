@@ -107,5 +107,6 @@ print(f"Completed in: {int(elapsed_time)} seconds...", end='\r')
 
 # Save the DataFrame to a CSV file in Google Drive
 file_path = 'politicians_trades.csv'  # Change the path as needed
+print(df)
 df.to_csv(file_path, index=False, encoding='utf-8')
 print(f"File saved to: {file_path}")

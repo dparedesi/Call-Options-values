@@ -1,6 +1,5 @@
 import yfinance as yf
 import pandas as pd
-import datetime
 import os
 
 # List of top 100 tickers (sample list of tickers, you can adjust)
@@ -16,10 +15,7 @@ top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD"
                    "CELH", "WBA", "PARA", "AAP", "SHOP", "RUN", "LUV", "GS",
                    "KO", "SQ", "DELL", "ON", "ENPH", "SEDG", "UEC", "TMUS"]
 
-# Target expiration month and year
-target_month, target_year = 1, 2026
-
-#List of interest
+# List of interest
 top_100_tickers = [
     "ASTS", "FUBO", "RKLB", "UPST", "CVNA", "RUN", "SMCI", "CHWY", "NVDA",
     "HOOD", "DKNG", "CRWD", "PLTR", "SHOP", "CCJ", "CCL", "ON", "NU", "UBER",
@@ -33,6 +29,34 @@ data = []
 
 # Total number of tickers
 total_tickers = len(top_100_tickers)
+
+# Find the maximum common expiration date
+all_expiration_dates = []
+for ticker in top_100_tickers:
+    try:
+        stock = yf.Ticker(ticker)
+        all_expiration_dates.append(set(stock.options))
+    except Exception as e:
+        print(f"Error fetching expiration dates for {ticker}: {e}")
+
+common_dates = set.intersection(*all_expiration_dates)
+if len(common_dates) > 0:
+    max_common_date = max(common_dates)
+else:
+    # If no common date, find the date that's available for at least 90% of tickers
+    date_counts = {}
+    for dates in all_expiration_dates:
+        for date in dates:
+            date_counts[date] = date_counts.get(date, 0) + 1
+
+    threshold = 0.9 * len(top_100_tickers)
+    eligible_dates = [date for date, count in date_counts.items() if count >= threshold]
+
+    if eligible_dates:
+        max_common_date = max(eligible_dates)
+    else:
+        print("No date is available for at least 90% of tickers. Using individual max dates.")
+        max_common_date = None
 
 # Loop through each ticker
 for index, ticker in enumerate(top_100_tickers, 1):
@@ -84,19 +108,10 @@ for index, ticker in enumerate(top_100_tickers, 1):
         # Fetch option expiration dates
         expiration_dates = stock.options
 
-        # Find the last day of the target month
-        if target_month == 12:
-            next_month = datetime.datetime(target_year + 1, 1, 1)
+        if max_common_date and max_common_date in expiration_dates:
+            expiration_date = max_common_date
         else:
-            next_month = datetime.datetime(target_year, target_month + 1, 1)
-        target_date = next_month - datetime.timedelta(days=1)
-        valid_dates = [date for date in expiration_dates if datetime.datetime.strptime(date, '%Y-%m-%d') <= target_date]
-
-        if not valid_dates:
-            print(f"\nNo valid expiration date found for {ticker}")
-            continue
-
-        expiration_date = max(valid_dates)
+            expiration_date = max(expiration_dates)
 
         # Fetch the option chain for the expiration date
         option_chain = stock.option_chain(expiration_date)
@@ -108,7 +123,6 @@ for index, ticker in enumerate(top_100_tickers, 1):
 
         # Calculate Breakeven increase
         breakeven_increase = (closest_call['lastPrice'] + closest_call['strike']) / stock_price - 1
-        breakeven_increase_formatted = f"{breakeven_increase:.1%}"
 
         # Calculate Attractiveness
         attractiveness = (fifty_two_week_upside > breakeven_increase and
@@ -121,7 +135,7 @@ for index, ticker in enumerate(top_100_tickers, 1):
             'Call Contract Price': closest_call['lastPrice'],
             'Strike Price': closest_call['strike'],
             'Expiration Date': expiration_date,
-            'Breakeven increase': breakeven_increase_formatted,
+            'Breakeven increase': breakeven_increase,
             'Company Description': company_description,
             'P/E Ratio': pe_ratio,
             'Forward P/E': forward_pe,

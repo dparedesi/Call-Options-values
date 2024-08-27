@@ -23,9 +23,13 @@ jobs:
       run: |
         pip install -r requirements.txt || true
 
-    - name: Run Python script
+    - name: Run Options_in_future_date.py script
       run: | 
         python Options_in_future_date.py
+
+    - name: Run Politicians_trades.py script
+      run: |
+        python Politicians_trades.py
 
     - name: Configure Git to use GitHub token
       run: |
@@ -34,10 +38,10 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit CSV file
+    - name: Commit CSV files
       run: |
-        git add top_100_stock_and_options_data.csv
-        git commit -m "Update CSV file"
+        git add top_100_stock_and_options_data.csv politicians_trades.csv
+        git commit -m "Update CSV files"
         git push origin HEAD:${{ github.ref }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

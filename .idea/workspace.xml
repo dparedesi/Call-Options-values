@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="Updated version of your workflow with a check to list files after running the Python scripts:" />
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="print(df) politicians">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Politicians_trades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Politicians_trades.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724775585140</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="testing">
+      <created>1724775813693</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775813693</updated>
+    </task>
+    <task id="LOCAL-00018" summary="print(df) politicians">
+      <created>1724776095106</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724776095106</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +200,8 @@
     <MESSAGE value="update name of politicians trades.py" />
     <MESSAGE value="update name of politicians_trades.py" />
     <MESSAGE value="Updated version of your workflow with a check to list files after running the Python scripts:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated version of your workflow with a check to list files after running the Python scripts:" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="print(df) politicians" />
+    <option name="LAST_COMMIT_MESSAGE" value="print(df) politicians" />
   </component>
 </project>

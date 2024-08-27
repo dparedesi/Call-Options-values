@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -105,8 +106,8 @@ df = pd.DataFrame({
 # Print total time
 print(f"Completed in: {int(elapsed_time)} seconds...", end='\r')
 
-# Save the DataFrame to a CSV file in Google Drive
-file_path = 'politicians_trades.csv'  # Change the path as needed
+# After scraping, save the DataFrame to a CSV file in the root directory of the repo
+file_path = os.path.join(os.getcwd(), 'politicians_trades.csv')  # Ensure it saves in the root of the repo
 print(df)
 df.to_csv(file_path, index=False, encoding='utf-8')
 print(f"File saved to: {file_path}")

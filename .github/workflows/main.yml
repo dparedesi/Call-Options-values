@@ -40,7 +40,7 @@ jobs:
 
     - name: Commit CSV files
       run: |
-        git add top_100_stock_and_options_data.csv politicians_trades.csv || echo "One or both files are missing!"
+        git add politicians_trades.csv top_100_stock_and_options_data.csv || echo "One or both files are missing!"
         git commit -m "Update CSV files"
         git push origin HEAD:${{ github.ref }}
       env:

@@ -26,4 +26,11 @@ jobs:
     - name: Run Python script
       run: | 
         python Options_in_future_date.py
-    
+
+    - name: Commit CSV file
+      run: |
+        git config --global user.email "dparedesi@uni.pe"
+        git config --global user.name "Daniel"
+        git add top_100_stock_and_options_data.csv
+        git commit -m "Update CSV file"
+        git push

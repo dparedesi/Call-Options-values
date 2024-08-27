@@ -113,7 +113,3 @@ print(f"Completed in: {int(elapsed_time)} seconds...", end='\r')
 file_path = os.path.join(os.getcwd(), 'politicians_trades.csv')  # Ensure it saves in the root of the repo
 df.to_csv(file_path, index=False, encoding='utf-8')
 print(f"File saved to: {file_path}")
-
-row_count = len(df)
-with open('row_count.txt', 'w') as f:
-    f.write(f"{row_count}")

@@ -46,17 +46,3 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Check row count and send notification
-      run: |
-        row_count=$(cat row_count.txt)
-        if [ "$row_count" -gt 10 ]; then
-          echo "Row count: $row_count"
-          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               -H "Accept: application/vnd.github.v3+json" \
-               -d "{\"body\": \"Row count from the latest CSV: $row_count\"}" \
-               https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments
-        else
-          echo "Row count is $row_count, no notification needed."
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

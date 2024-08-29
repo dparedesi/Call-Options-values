@@ -21,7 +21,7 @@ top_100_tickers = [
     "HOOD", "DKNG", "CRWD", "PLTR", "SHOP", "CCJ", "CCL", "ON", "NU", "UBER",
     "TSM", "AVGO", "META", "NFLX", "CMG", "ZM", "AMZN", "GOOGL", "TGT",
     "MSFT", "AAPL", "V", "MA", "WMT", "JPM", "T", "KO", "ENPH", "SEDG",
-    "UEC", "TMUS"
+    "UEC", "TMUS","AFRM"
 ]
 
 # Initialize an empty list to hold the data

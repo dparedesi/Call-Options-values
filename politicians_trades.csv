@@ -1,4 +1,9 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Spouse,438.31,1K-15K
+Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Spouse,438.31,1K-15K
+Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Self,438.31,1K-15K
+Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Self,438.31,15K-50K
+Max Miller,AIX VENTURES FUND II LP,N/A,buy,2024-08-29,2024-08-22,6,Undisclosed,,1K-15K
 Sean Casten,MYNO CARBON CORP,N/A,buy,2024-08-28,2024-07-30,28,Undisclosed,,15K-50K
 Michael Collins,AERODROME FINANCE,$AERO,sell,2024-08-26,2024-08-04,21,Undisclosed,0.653,15K-50K
 Michael Collins,AERODROME FINANCE,$AERO,buy,2024-08-26,2024-08-05,20,Undisclosed,0.614,15K-50K
@@ -494,8 +499,3 @@ Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2023-08-02,378,Joint,3
 Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2023-10-12,307,Joint,266.12,1K-15K
 Greg Landsman,Intuitive Surgical Inc,ISRG,buy,2024-08-15,2023-02-01,560,Spouse,251.19,1K-15K
 Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2024-07-17,28,Joint,426.23,15K-50K
-Greg Landsman,Intuitive Surgical Inc,ISRG,buy,2024-08-15,2024-06-20,55,Joint,432.55,15K-50K
-Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2024-07-17,28,Spouse,426.23,1K-15K
-Greg Landsman,L3Harris Technologies Inc,LHX,buy,2024-08-15,2024-07-17,28,Spouse,238.25,1K-15K
-Greg Landsman,Linde PLC,LIN,sell,2024-08-15,2023-01-18,574,Joint,324.34,1K-15K
-Greg Landsman,Linde PLC,LIN,sell,2024-08-15,2023-06-22,419,Joint,372.64,1K-15K

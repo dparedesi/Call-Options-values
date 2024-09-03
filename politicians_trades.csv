@@ -1,4 +1,157 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,50K-100K
+Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,50K-100K
+Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,15K-50K
+Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,50K-100K
+John James,Abbott Laboratories,ABT,buy,2024-09-03,2023-11-10,297,Undisclosed,93.97,1K-15K
+John James,AbbVie Inc,ABBV,buy,2024-09-03,2023-11-10,297,Undisclosed,138.59,1K-15K
+John James,Accenture PLC,ACN,buy,2024-09-03,2023-11-10,297,Undisclosed,319.69,1K-15K
+John James,Advanced Micro Devices Inc,AMD,buy,2024-09-03,2023-11-10,297,Undisclosed,118.59,1K-15K
+John James,Air Products and Chemicals Inc,APD,buy,2024-09-03,2024-05-29,96,Undisclosed,260.27,1K-15K
+John James,Air Products and Chemicals Inc,APD,buy,2024-09-03,2024-06-03,91,Undisclosed,270.91,1K-15K
+John James,Allegion PLC,ALLE,buy,2024-09-03,2023-11-10,297,Undisclosed,103.49,1K-15K
+John James,Alphabet Inc,GOOGL,buy,2024-09-03,2023-11-10,297,Undisclosed,132.59,1K-15K
+John James,Alphabet Inc,GOOGL,buy,2024-09-03,2023-11-10,297,Undisclosed,134.06,1K-15K
+John James,Amazon.com Inc,AMZN,buy,2024-09-03,2023-11-10,297,Undisclosed,143.56,1K-15K
+John James,American Electric Power Co Inc,AEP,buy,2024-09-03,2023-11-10,297,Undisclosed,77.7,1K-15K
+John James,American Express Co,AXP,buy,2024-09-03,2023-11-10,297,Undisclosed,154.38,1K-15K
+John James,American Express Co,AXP,sell,2024-09-03,2024-05-29,96,Undisclosed,235.94,1K-15K
+John James,American Express Co,AXP,sell,2024-09-03,2024-06-03,91,Undisclosed,236.88,1K-15K
+John James,Analog Devices Inc,ADI,buy,2024-09-03,2023-11-10,297,Undisclosed,172.32,1K-15K
+John James,Apple Inc,AAPL,buy,2024-09-03,2023-11-10,297,Undisclosed,186.4,1K-15K
+John James,Applied Materials Inc,AMAT,buy,2024-09-03,2023-11-10,297,Undisclosed,150.68,1K-15K
+John James,Aptiv PLC,APTV,buy,2024-09-03,2023-11-10,297,Undisclosed,75.93,1K-15K
+John James,AT&T Inc,T,buy,2024-09-03,2023-11-10,297,Undisclosed,15.64,1K-15K
+John James,Automatic Data Processing Inc,ADP,buy,2024-09-03,2023-11-10,297,Undisclosed,228.49,1K-15K
+John James,Avantor Inc,AVTR,buy,2024-09-03,2023-11-10,297,Undisclosed,18.56,1K-15K
+John James,Axalta Coating Systems Ltd,AXTA,buy,2024-09-03,2023-11-10,297,Undisclosed,29.77,1K-15K
+John James,Axalta Coating Systems Ltd,AXTA,sell,2024-09-03,2024-05-06,119,Undisclosed,35.48,1K-15K
+John James,Bank of America Corp,BAC,buy,2024-09-03,2023-11-10,297,Undisclosed,27.68,1K-15K
+John James,Becton Dickinson and Co,BDX,buy,2024-09-03,2023-11-10,297,Undisclosed,234.65,1K-15K
+John James,Berkshire Hathaway Inc,BRK/B,buy,2024-09-03,2023-11-10,297,Undisclosed,350.56,1K-15K
+John James,Blackrock Inc,BLK,buy,2024-09-03,2023-11-10,297,Undisclosed,665.0,1K-15K
+John James,BP PLC,BP,buy,2024-09-03,2023-11-16,291,Undisclosed,35.02,1K-15K
+John James,Bristol-Myers Squibb Co,BMY,buy,2024-09-03,2023-11-10,297,Undisclosed,50.61,1K-15K
+John James,Bristol-Myers Squibb Co,BMY,sell,2024-09-03,2024-01-18,228,Undisclosed,50.09,1K-15K
+John James,Broadcom Inc,AVGO,buy,2024-09-03,2023-11-10,297,Undisclosed,957.52,1K-15K
+John James,Cardinal Health Inc,CAH,buy,2024-09-03,2024-05-02,123,Undisclosed,102.98,1K-15K
+John James,Cardinal Health Inc,CAH,buy,2024-09-03,2024-06-03,91,Undisclosed,99.51,1K-15K
+John James,Caterpillar Inc,CAT,sell,2024-09-03,2024-02-05,210,Undisclosed,321.4,1K-15K
+John James,Caterpillar Inc,CAT,buy,2024-09-03,2023-11-10,297,Undisclosed,239.68,1K-15K
+John James,Chevron Corp,CVX,buy,2024-09-03,2023-11-10,297,Undisclosed,142.95,1K-15K
+John James,Chubb Ltd,CB,buy,2024-09-03,2023-11-10,297,Undisclosed,222.44,1K-15K
+John James,Ciena Corp,CIEN,buy,2024-09-03,2023-11-10,297,Undisclosed,44.13,1K-15K
+John James,Cisco Systems Inc,CSCO,buy,2024-09-03,2023-11-10,297,Undisclosed,52.59,1K-15K
+John James,CME Group Inc,CME,buy,2024-09-03,2023-11-10,297,Undisclosed,217.11,1K-15K
+John James,The Coca-Cola Co,KO,buy,2024-09-03,2023-11-10,297,Undisclosed,56.72,1K-15K
+John James,Cognizant Technology Solutions Corp,CTSH,buy,2024-09-03,2023-11-10,297,Undisclosed,65.95,1K-15K
+John James,Comcast Corp,CMCSA,buy,2024-09-03,2023-11-10,297,Undisclosed,41.91,1K-15K
+John James,ConocoPhillips,COP,buy,2024-09-03,2023-11-10,297,Undisclosed,115.61,1K-15K
+John James,Corteva Inc,CTVA,buy,2024-09-03,2023-11-10,297,Undisclosed,43.55,1K-15K
+John James,Crown Castle International Corp,CCI,buy,2024-09-03,2024-05-02,123,Undisclosed,96.44,1K-15K
+John James,Crown Castle International Corp,CCI,buy,2024-09-03,2024-05-16,109,Undisclosed,104.02,1K-15K
+John James,Cummins Inc,CMI,buy,2024-09-03,2023-11-10,297,Undisclosed,219.02,1K-15K
+John James,Diageo PLC,DEO,buy,2024-09-03,2024-03-05,181,Undisclosed,149.04,1K-15K
+John James,Discover Financial Services,DFS,buy,2024-09-03,2024-07-18,46,Undisclosed,142.89,1K-15K
+John James,Dollar General Corporation,DG,sell,2024-09-03,2024-06-03,91,Undisclosed,139.56,1K-15K
+John James,Dollar General Corporation,DG,buy,2024-09-03,2023-11-10,297,Undisclosed,117.94,1K-15K
+John James,Dollar Tree Inc,DLTR,buy,2024-09-03,2023-11-10,297,Undisclosed,114.08,1K-15K
+John James,Eaton Corp PLC,ETN,buy,2024-09-03,2023-11-10,297,Undisclosed,221.82,1K-15K
+John James,Electronic Arts Inc,EA,buy,2024-09-03,2024-03-01,185,Undisclosed,140.79,1K-15K
+John James,Electronic Arts Inc,EA,buy,2024-09-03,2024-02-23,192,Undisclosed,142.59,1K-15K
+John James,Elevance Health Inc,ELV,buy,2024-09-03,2023-11-10,297,Undisclosed,458.25,1K-15K
+John James,Elevance Health Inc,ELV,buy,2024-09-03,2023-11-16,291,Undisclosed,463.61,1K-15K
+John James,Entergy corporation,ETR,buy,2024-09-03,2023-11-10,297,Undisclosed,96.61,1K-15K
+John James,EOG Resources Inc,EOG,buy,2024-09-03,2023-11-10,297,Undisclosed,122.7,1K-15K
+John James,Exxon Mobil Corp,XOM,buy,2024-09-03,2023-11-10,297,Undisclosed,103.75,1K-15K
+John James,Fidelity National Financial Inc FNF Group,FNF,buy,2024-09-03,2024-05-15,110,Undisclosed,52.03,1K-15K
+John James,Fortive Corp,FTV,buy,2024-09-03,2023-11-10,297,Undisclosed,65.83,1K-15K
+John James,Fox Corp,FOXA,buy,2024-09-03,2023-11-10,297,Undisclosed,30.13,1K-15K
+John James,Fox Corp,FOXA,sell,2024-09-03,2023-12-22,255,Undisclosed,29.81,1K-15K
+John James,The Home Depot Inc,HD,buy,2024-09-03,2023-11-10,297,Undisclosed,291.59,1K-15K
+John James,Honeywell International Inc,HON,buy,2024-09-03,2023-11-10,297,Undisclosed,186.71,1K-15K
+John James,Humana Inc,HUM,buy,2024-09-03,2023-11-10,297,Undisclosed,493.11,1K-15K
+John James,Icon PLC,ICLR,buy,2024-09-03,2024-06-12,82,Undisclosed,319.78,1K-15K
+John James,Illinois Tool Works Inc,ITW,buy,2024-09-03,2023-11-10,297,Undisclosed,232.49,1K-15K
+John James,Intercontinental Exchange Inc,ICE,buy,2024-09-03,2023-11-10,297,Undisclosed,109.78,1K-15K
+John James,International Business Machines Corp,IBM,buy,2024-09-03,2023-11-10,297,Undisclosed,149.02,1K-15K
+John James,Johnson & Johnson,JNJ,buy,2024-09-03,2023-11-10,297,Undisclosed,147.25,1K-15K
+John James,JPMorgan Chase & Co,JPM,buy,2024-09-03,2023-11-10,297,Undisclosed,146.43,1K-15K
+John James,KLA Corp,KLAC,buy,2024-09-03,2023-11-10,297,Undisclosed,534.25,1K-15K
+John James,KLA Corp,KLAC,sell,2024-09-03,2024-06-26,68,Undisclosed,813.3,1K-15K
+John James,Laboratory Corp of America Holdings,LH,sell,2024-09-03,2024-03-06,180,Undisclosed,217.8,1K-15K
+John James,Laboratory Corp of America Holdings,LH,buy,2024-09-03,2023-11-10,297,Undisclosed,204.78,1K-15K
+John James,Lam Research Corp,LRCX,buy,2024-09-03,2023-11-10,297,Undisclosed,685.43,1K-15K
+John James,Lam Research Corp,LRCX,sell,2024-09-03,2024-07-30,34,Undisclosed,854.86,1K-15K
+John James,Las Vegas Sands Corp,LVS,buy,2024-09-03,2023-11-10,297,Undisclosed,47.75,1K-15K
+John James,Linde PLC,LIN,buy,2024-09-03,2023-11-10,297,Undisclosed,399.84,1K-15K
+John James,Lockheed Martin Corp,LMT,buy,2024-09-03,2023-11-10,297,Undisclosed,444.87,1K-15K
+John James,LPL Financial Holdings Inc,LPLA,buy,2024-09-03,2023-11-10,297,Undisclosed,228.57,1K-15K
+John James,LPL Financial Holdings Inc,LPLA,sell,2024-09-03,2024-07-18,46,Undisclosed,218.92,1K-15K
+John James,Marsh & McLennan Companies Inc,MMC,buy,2024-09-03,2023-11-10,297,Undisclosed,200.45,1K-15K
+John James,Marvell Technology Inc,MRVL,buy,2024-09-03,2023-11-10,297,Undisclosed,54.62,1K-15K
+John James,McDonald's Corp,MCD,buy,2024-09-03,2023-11-10,297,Undisclosed,267.79,1K-15K
+John James,Medtronic PLC,MDT,buy,2024-09-03,2023-11-10,297,Undisclosed,70.68,1K-15K
+John James,Medtronic PLC,MDT,buy,2024-09-03,2024-06-18,76,Undisclosed,79.75,1K-15K
+John James,Medtronic PLC,MDT,sell,2024-09-03,2024-06-03,91,Undisclosed,82.12,1K-15K
+John James,Merck & Co Inc,MRK,buy,2024-09-03,2023-11-10,297,Undisclosed,101.39,1K-15K
+John James,Meta Platforms Inc,META,buy,2024-09-03,2023-11-10,297,Undisclosed,328.77,1K-15K
+John James,Microchip Technology Inc,MCHP,buy,2024-09-03,2023-11-10,297,Undisclosed,77.56,1K-15K
+John James,Micron Technology Inc,MU,buy,2024-09-03,2023-11-10,297,Undisclosed,75.36,1K-15K
+John James,Microsoft Corp,MSFT,buy,2024-09-03,2023-11-10,297,Undisclosed,369.67,15K-50K
+John James,Mondelez International Inc,MDLZ,buy,2024-09-03,2023-11-10,297,Undisclosed,69.12,1K-15K
+John James,Mondelez International Inc,MDLZ,sell,2024-09-03,2024-03-05,181,Undisclosed,70.84,1K-15K
+John James,Monster Beverage Corp,MNST,sell,2024-09-03,2024-06-03,91,Undisclosed,51.89,1K-15K
+John James,Monster Beverage Corp,MNST,buy,2024-09-03,2023-11-10,297,Undisclosed,55.28,1K-15K
+John James,Morgan Stanley,MS,buy,2024-09-03,2023-11-10,297,Undisclosed,75.33,1K-15K
+John James,Northrop Grumman Corp,NOC,buy,2024-09-03,2023-11-10,297,Undisclosed,463.27,1K-15K
+John James,Novo Nordisk A/S,NVO,buy,2024-09-03,2023-11-10,297,Undisclosed,101.19,1K-15K
+John James,NVIDIA Corporation,NVDA,buy,2024-09-03,2024-02-09,206,Undisclosed,721.33,1K-15K
+John James,NVIDIA Corporation,NVDA,buy,2024-09-03,2024-03-13,173,Undisclosed,908.88,1K-15K
+John James,NVIDIA Corporation,NVDA,buy,2024-09-03,2024-03-26,160,Undisclosed,925.61,1K-15K
+John James,Otis Worldwide Corp,OTIS,buy,2024-09-03,2023-11-10,297,Undisclosed,82.03,1K-15K
+John James,Parker-Hannifin Corp,PH,buy,2024-09-03,2023-11-10,297,Undisclosed,419.45,1K-15K
+John James,PepsiCo Inc,PEP,buy,2024-09-03,2023-11-10,297,Undisclosed,166.92,1K-15K
+John James,Philip Morris International Inc,PM,buy,2024-09-03,2023-11-10,297,Undisclosed,89.7,1K-15K
+John James,Philip Morris International Inc,PM,sell,2024-09-03,2024-04-09,146,Undisclosed,91.07,1K-15K
+John James,The PNC Financial Services Group Inc,PNC,buy,2024-09-03,2023-11-10,297,Undisclosed,120.43,1K-15K
+John James,PPG Industries Inc,PPG,buy,2024-09-03,2023-11-10,297,Undisclosed,128.81,1K-15K
+John James,The Procter & Gamble Co,PG,buy,2024-09-03,2023-11-10,297,Undisclosed,151.41,1K-15K
+John James,The Progressive Corp,PGR,buy,2024-09-03,2023-11-10,297,Undisclosed,160.39,1K-15K
+John James,The Progressive Corp,PGR,sell,2024-09-03,2024-04-10,145,Undisclosed,206.15,1K-15K
+John James,The Progressive Corp,PGR,sell,2024-09-03,2024-05-02,123,Undisclosed,209.03,1K-15K
+John James,Reinsurance Group of America Inc,RGA,buy,2024-09-03,2023-11-10,297,Undisclosed,162.15,1K-15K
+John James,Ross Stores Inc,ROST,buy,2024-09-03,2023-11-10,297,Undisclosed,123.33,1K-15K
+John James,Ross Stores Inc,ROST,sell,2024-09-03,2024-08-13,20,Undisclosed,141.65,1K-15K
+John James,Sanofi,SNY,buy,2024-09-03,2023-11-10,297,Undisclosed,45.92,1K-15K
+John James,Shell PLC,SHEL,buy,2024-09-03,2023-11-10,297,Undisclosed,65.6,1K-15K
+John James,Skechers U S A Inc,SKX,buy,2024-09-03,2023-11-10,297,Undisclosed,50.03,1K-15K
+John James,Sony Group Corporation,SONY,buy,2024-09-03,2023-11-10,297,Undisclosed,85.94,1K-15K
+John James,The Southern Co,SO,buy,2024-09-03,2023-11-10,297,Undisclosed,68.1,1K-15K
+John James,Tenet Healthcare Corp,THC,buy,2024-09-03,2023-11-10,297,Undisclosed,53.79,1K-15K
+John James,Texas Instruments Inc,TXN,buy,2024-09-03,2023-11-10,297,Undisclosed,147.19,1K-15K
+John James,Thermo Fisher Scientific Inc,TMO,buy,2024-09-03,2024-03-06,180,Undisclosed,591.5,1K-15K
+John James,World Wrestling Entertainment Inc,WWE,buy,2024-09-03,2023-11-10,297,Undisclosed,79.26,1K-15K
+John James,Trane Technologies PLC,TT,buy,2024-09-03,2023-11-10,297,Undisclosed,225.48,1K-15K
+John James,Unilever PLC,UL,buy,2024-09-03,2023-11-10,297,Undisclosed,48.44,1K-15K
+John James,Unilever PLC,UL,sell,2024-09-03,2024-05-06,119,Undisclosed,52.15,1K-15K
+John James,Union Pacific Corp,UNP,buy,2024-09-03,2023-11-10,297,Undisclosed,211.49,1K-15K
+John James,United Parcel Service Inc,UPS,buy,2024-09-03,2023-11-10,297,Undisclosed,138.11,1K-15K
+John James,Unitedhealth Group Inc,UNH,buy,2024-09-03,2023-11-10,297,Undisclosed,541.21,1K-15K
+John James,Valero Energy Corp,VLO,buy,2024-09-03,2023-11-10,297,Undisclosed,122.67,1K-15K
+John James,Veeva Systems Inc,VEEV,buy,2024-09-03,2023-11-10,297,Undisclosed,165.08,1K-15K
+John James,Veeva Systems Inc,VEEV,sell,2024-09-03,2024-07-16,48,Undisclosed,187.16,1K-15K
+John James,Verizon Communications Inc,VZ,sell,2024-09-03,2024-03-26,160,Undisclosed,40.85,1K-15K
+John James,Verizon Communications Inc,VZ,buy,2024-09-03,2023-11-10,297,Undisclosed,35.71,1K-15K
+John James,Visa Inc,V,buy,2024-09-03,2023-11-10,297,Undisclosed,245.25,1K-15K
+John James,Visa Inc,V,sell,2024-09-03,2024-01-05,241,Undisclosed,259.69,1K-15K
+John James,Voya Financial Inc,VOYA,sell,2024-09-03,2024-07-05,59,Undisclosed,69.94,1K-15K
+John James,Voya Financial Inc,VOYA,buy,2024-09-03,2023-11-10,297,Undisclosed,69.47,1K-15K
+John James,Walmart Inc,WMT,buy,2024-09-03,2023-11-10,297,Undisclosed,166.19,1K-15K
+John James,Waste Management Inc,WM,buy,2024-09-03,2023-11-10,297,Undisclosed,171.77,1K-15K
+John James,Wells Fargo & Co,WFC,buy,2024-09-03,2023-11-10,297,Undisclosed,40.89,1K-15K
+John James,Westinghouse Air Brake Technologies Corp,WAB,buy,2024-09-03,2024-02-14,201,Undisclosed,135.09,1K-15K
+John James,Zebra Technologies Corp,ZBRA,buy,2024-09-03,2023-11-10,297,Undisclosed,206.18,1K-15K
 Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Spouse,438.31,1K-15K
 Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Spouse,438.31,1K-15K
 Jerry Moran,Berkshire Hathaway Inc,BRK/B,sell,2024-08-29,2024-07-29,31,Self,438.31,1K-15K
@@ -346,156 +499,3 @@ Michael McCaul,DFA EMERGING MARKETS CORE EQUITY PORTFOLIO,DFCEX,sell,2024-08-16,
 Michael McCaul,UC4K INVESTMENTS LLC,N/A,sell,2024-08-16,2024-07-05,41,Child,,250K-500K
 Michael McCaul,STATE OF MICHIGAN,N/A,sell,2024-08-16,2024-07-10,36,Child,,100K-250K
 Michael McCaul,Visa Inc,V,sell,2024-08-16,2024-07-25,21,Child,253.74,100K-250K
-Michael McCaul,RECURRING CAPITAL FUND IV LP,N/A,sell,2024-08-16,2024-07-09,37,Child,,50K-100K
-Michael McCaul,SAN ANTONIO INTERNATIONAL AIRPORT,N/A,sell,2024-08-16,2024-07-31,15,Child,,50K-100K
-Michael McCaul,CITY OF HOUSTON,N/A,sell,2024-08-16,2024-07-18,28,Child,,15K-50K
-Michael McCaul,CLEAR CREEK COUNTY,N/A,sell,2024-08-16,2024-07-16,30,Child,,15K-50K
-Michael McCaul,CITY OF HOUSTON,N/A,sell,2024-08-16,2024-07-18,28,Child,,15K-50K
-Michael McCaul,STATE OF CALIFORNIA,N/A,sell,2024-08-16,2024-07-25,21,Child,,15K-50K
-Michael McCaul,GE VERNOVA INC,GEV,sell,2024-08-16,2024-07-19,27,Child,163.34,15K-50K
-Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,2024-08-16,2024-07-23,23,Child,,15K-50K
-Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,2024-08-16,2024-07-24,22,Child,,15K-50K
-Michael McCaul,ALBANY ROAD STRATEGIC OPPORTUNITY FUND LLC,N/A,sell,2024-08-16,2024-07-12,34,Child,,15K-50K
-Michael McCaul,ConocoPhillips,COP,sell,2024-08-16,2024-07-18,28,Child,116.61,15K-50K
-Michael McCaul,FULTON COUNTY GEORGIA,N/A,sell,2024-08-16,2024-07-25,21,Child,,15K-50K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-31,15,Child,43.33,1K-15K
-Michael McCaul,TAMPA GENERAL HOSPITAL FOUNDATION INC,N/A,sell,2024-08-16,2024-07-26,20,Child,,1K-15K
-Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,2024-08-16,2024-07-26,20,Child,,1K-15K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-05,41,Child,45.79,1K-15K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-23,23,Child,43.33,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-02,44,Child,,1K-15K
-Michael McCaul,Microsoft Corp,MSFT,sell,2024-08-16,2024-07-15,31,Child,453.96,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-23,23,Child,,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-25,21,Child,,1K-15K
-Michael McCaul,Alphabet Inc,GOOGL,sell,2024-08-16,2024-07-15,31,Child,186.53,1K-15K
-Michael McCaul,Netflix Inc,NFLX,sell,2024-08-16,2024-07-16,30,Child,656.32,1K-15K
-Michael McCaul,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,N/A,sell,2024-08-16,2024-07-26,20,Child,,1K-15K
-Michael McCaul,Safran SA,SAFRY,sell,2024-08-16,2024-07-29,17,Child,54.026,1K-15K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-18,28,Child,486.21,15K-50K
-Michael McCaul,Netflix Inc,NFLX,sell,2024-08-16,2024-07-23,23,Child,642.76,15K-50K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-15,31,Child,492.23,15K-50K
-Michael McCaul,SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY,N/A,sell,2024-08-16,2024-07-09,37,Child,,15K-50K
-Michael McCaul,STATE OF FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION,N/A,sell,2024-08-16,2024-07-01,45,Child,,15K-50K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-25,21,Child,491.71,15K-50K
-Michael McCaul,Taiwan Semiconductor Manufacturing Co Ltd,TSM,sell,2024-08-16,2024-07-15,31,Child,185.22,50K-100K
-Michael McCaul,COUNTY OF BROWARD,N/A,sell,2024-08-16,2024-07-01,45,Child,,50K-100K
-Michael McCaul,CITY OF DALLAS,N/A,sell,2024-08-16,2024-07-29,17,Child,,50K-100K
-Michael McCaul,WEST CHESTER AREA SCHOOL DISTRICT,N/A,sell,2024-08-16,2024-07-02,44,Child,,50K-100K
-Michael McCaul,METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA,N/A,sell,2024-08-16,2024-07-29,17,Child,,50K-100K
-Michael McCaul,CITY OF DALLAS,N/A,sell,2024-08-16,2024-07-29,17,Child,,50K-100K
-Michael McCaul,STATE OF WASHINGTON,N/A,sell,2024-08-16,2024-07-01,45,Child,,100K-250K
-Michael McCaul,The Kraft Heinz Co,KHC,sell,2024-08-16,2024-07-02,44,Child,32.0,1K-15K
-Michael McCaul,Dollar Tree Inc,DLTR,sell,2024-08-16,2024-07-02,44,Child,107.11,1K-15K
-Michael McCaul,Sensata Technologies Holding PLC,ST,sell,2024-08-16,2024-07-02,44,Child,37.69,1K-15K
-Michael McCaul,Warner Bros Discover Inc,WBD,sell,2024-08-16,2024-07-02,44,Child,7.2,15K-50K
-Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX,sell,2024-08-16,2024-07-01,45,Child,,1K-15K
-Michael McCaul,Vanguard Total Stock Market ETF,VTI,sell,2024-08-16,2024-07-02,44,Child,269.6,1K-15K
-Michael McCaul,DFA EMERGING MARKETS CORE EQUITY PORTFOLIO,DFCEX,sell,2024-08-16,2024-07-01,45,Child,,1K-15K
-Josh Gottheimer,3M Co,MMM,buy,2024-08-16,2024-07-26,20,Joint,127.16,1K-15K
-Josh Gottheimer,Abbott Laboratories,ABT,buy,2024-08-16,2024-07-29,17,Joint,104.77,1K-15K
-Josh Gottheimer,Advanced Micro Devices Inc,AMD,buy,2024-08-16,2024-07-19,27,Joint,151.58,1K-15K
-Josh Gottheimer,Advanced Micro Devices Inc,AMD,sell,2024-08-16,2024-07-31,15,Joint,144.48,1K-15K
-Josh Gottheimer,Airbnb Inc,ABNB,sell,2024-08-16,2024-07-09,37,Joint,152.45,1K-15K
-Josh Gottheimer,Allianz SE,ALIZY,sell,2024-08-16,2024-07-09,37,Joint,28.111,1K-15K
-Josh Gottheimer,Alphabet Inc,GOOGL,buy,2024-08-16,2024-07-01,45,Joint,184.49,1K-15K
-Josh Gottheimer,Ambev SA,ABEV,buy,2024-08-16,2024-07-19,27,Joint,2.11,1K-15K
-Josh Gottheimer,Ambev SA,ABEV,buy,2024-08-16,2024-07-31,15,Joint,2.06,1K-15K
-Josh Gottheimer,Amphenol Corp,APH,sell,2024-08-16,2024-07-01,45,Joint,67.52,1K-15K
-Josh Gottheimer,Arista Networks Inc,ANET,sell,2024-08-16,2024-07-29,17,Joint,320.55,1K-15K
-Josh Gottheimer,AtriCure Inc,ATRC,buy,2024-08-16,2024-07-19,27,Joint,24.17,1K-15K
-Josh Gottheimer,AutoZone Inc,AZO,sell,2024-08-16,2024-07-01,45,Joint,"2,832.79",1K-15K
-Josh Gottheimer,Block Inc,SQ,sell,2024-08-16,2024-07-24,22,Joint,61.71,1K-15K
-Josh Gottheimer,Block Inc,SQ,buy,2024-08-16,2024-07-19,27,Joint,68.1,1K-15K
-Josh Gottheimer,D.R. Horton Inc,DHI,buy,2024-08-16,2024-07-31,15,Joint,179.93,1K-15K
-Josh Gottheimer,D.R. Horton Inc,DHI,buy,2024-08-16,2024-07-19,27,Joint,173.84,1K-15K
-Josh Gottheimer,DBS Group Holdings Ltd,DBSDY,sell,2024-08-16,2024-07-08,38,Joint,110.269,1K-15K
-Josh Gottheimer,Eli Lilly and Co,LLY,sell,2024-08-16,2024-07-01,45,Joint,914.37,1K-15K
-Josh Gottheimer,FLYWIRE CORP,FLYW,buy,2024-08-16,2024-07-19,27,Joint,18.19,1K-15K
-Josh Gottheimer,Freeport-McMoRan Inc,FCX,buy,2024-08-16,2024-07-19,27,Joint,45.9,1K-15K
-Josh Gottheimer,Genmab A/S,GMAB,buy,2024-08-16,2024-07-19,27,Joint,27.75,1K-15K
-Josh Gottheimer,Heartland Express Inc,HTLD,sell,2024-08-16,2024-07-26,20,Joint,13.18,1K-15K
-Josh Gottheimer,Helen of Troy Ltd,HELE,sell,2024-08-16,2024-07-12,34,Joint,64.07,1K-15K
-Josh Gottheimer,HubSpot Inc,HUBS,sell,2024-08-16,2024-07-01,45,Joint,592.58,1K-15K
-Josh Gottheimer,Intuit Inc,INTU,sell,2024-08-16,2024-07-01,45,Joint,650.77,1K-15K
-Josh Gottheimer,Intuitive Surgical Inc,ISRG,buy,2024-08-16,2024-07-22,24,Joint,461.12,1K-15K
-Josh Gottheimer,La-Z-Boy Inc,LZB,buy,2024-08-16,2024-07-16,30,Joint,42.19,1K-15K
-Josh Gottheimer,Marriott International Inc,MAR,sell,2024-08-16,2024-07-09,37,Joint,237.52,1K-15K
-Josh Gottheimer,Mastercard Inc,MA,sell,2024-08-16,2024-07-01,45,Joint,437.61,1K-15K
-Josh Gottheimer,Mastercard Inc,MA,buy,2024-08-16,2024-07-18,28,Joint,448.72,1K-15K
-Josh Gottheimer,Mastercard Inc,MA,buy,2024-08-16,2024-07-31,15,Joint,463.71,1K-15K
-Josh Gottheimer,McDonald's Corp,MCD,buy,2024-08-16,2024-07-09,37,Joint,245.82,1K-15K
-Josh Gottheimer,McKesson Corp,MCK,sell,2024-08-16,2024-07-01,45,Joint,586.34,1K-15K
-Josh Gottheimer,Medpace Holdings Inc,MEDP,sell,2024-08-16,2024-07-26,20,Joint,381.47,1K-15K
-Josh Gottheimer,Meta Platforms Inc,META,sell,2024-08-16,2024-07-01,45,Joint,504.68,1K-15K
-Josh Gottheimer,Netflix Inc,NFLX,sell,2024-08-16,2024-07-01,45,Joint,673.61,1K-15K
-Josh Gottheimer,Northrop Grumman Corp,NOC,buy,2024-08-16,2024-07-19,27,Joint,437.94,1K-15K
-Josh Gottheimer,Pacific Premier Bancorp Inc,PPBI,buy,2024-08-16,2024-07-19,27,Joint,27.25,1K-15K
-Josh Gottheimer,PARAGON 28 INC,N/A,buy,2024-08-16,2024-07-19,27,Joint,8.1,1K-15K
-Josh Gottheimer,PT Telekomunikasi Indonesia (Persero) TBK,TLK,buy,2024-08-16,2024-07-31,15,Spouse,17.84,1K-15K
-Josh Gottheimer,PT Telekomunikasi Indonesia (Persero) TBK,TLK,buy,2024-08-16,2024-07-19,27,Joint,19.8,1K-15K
-Josh Gottheimer,Regeneron Pharmaceuticals Inc,REGN,sell,2024-08-16,2024-07-01,45,Joint,"1,057.02",1K-15K
-Josh Gottheimer,Roche Holding AG,RHHBY,buy,2024-08-16,2024-07-23,23,Joint,38.284,1K-15K
-Josh Gottheimer,salesforce.com Inc,CRM,sell,2024-08-16,2024-07-22,24,Joint,254.08,1K-15K
-Josh Gottheimer,SCHNEIDER NATIONAL INC,SNDR,buy,2024-08-16,2024-07-26,20,Joint,26.38,1K-15K
-Josh Gottheimer,Shell PLC,SHEL,buy,2024-08-16,2024-07-05,41,Joint,73.25,1K-15K
-Josh Gottheimer,Shionogi & Co Ltd,SGIOY,buy,2024-08-16,2024-07-19,27,Joint,10.735,1K-15K
-Josh Gottheimer,SHOALS TECHNOLOGIES GRP INC,SHLS,buy,2024-08-16,2024-07-19,27,Joint,6.59,1K-15K
-Josh Gottheimer,Sony Group Corporation,SONY,buy,2024-08-16,2024-07-19,27,Joint,92.83,1K-15K
-Josh Gottheimer,SPRINGWORKS THERAPEUTICS INC,SWTX,buy,2024-08-16,2024-07-19,27,Joint,37.72,1K-15K
-Josh Gottheimer,Taiwan Semiconductor Manufacturing Co Ltd,TSM,sell,2024-08-16,2024-07-05,41,Joint,183.99,1K-15K
-Josh Gottheimer,Tesla Inc,TSLA,sell,2024-08-16,2024-07-01,45,Joint,209.86,1K-15K
-Josh Gottheimer,Tesla Inc,TSLA,sell,2024-08-16,2024-07-29,17,Joint,232.1,1K-15K
-Josh Gottheimer,Tesla Inc,TSLA,sell,2024-08-16,2024-07-24,22,Joint,215.99,1K-15K
-Josh Gottheimer,Trane Technologies PLC,TT,sell,2024-08-16,2024-07-01,45,Joint,321.36,1K-15K
-Josh Gottheimer,Viavi Solutions Inc,VIAV,buy,2024-08-16,2024-07-19,27,Joint,7.45,1K-15K
-Susan Collins,Thermo Fisher Scientific Inc,TMO,buy,2024-08-16,2024-07-17,29,Spouse,,15K-50K
-John Fetterman,Concentrix Corp,CNXC,sell,2024-08-15,2024-07-19,27,Child,,1K-15K
-John Fetterman,Concentrix Corp,CNXC,buy,2024-08-15,2024-07-19,27,Child,,1K-15K
-Greg Landsman,Adobe Inc,ADBE,buy,2024-08-15,2023-01-12,580,Spouse,344.54,1K-15K
-Greg Landsman,Adobe Inc,ADBE,buy,2024-08-15,2023-05-23,449,Spouse,370.42,1K-15K
-Greg Landsman,Alphabet Inc,GOOGL,sell,2024-08-15,2024-05-29,77,Spouse,175.9,1K-15K
-Greg Landsman,Alphabet Inc,GOOGL,buy,2024-08-15,2023-10-12,307,Joint,138.97,1K-15K
-Greg Landsman,Alphabet Inc,GOOGL,sell,2024-08-15,2023-12-14,244,Joint,131.94,1K-15K
-Greg Landsman,Amazon.com Inc,AMZN,buy,2024-08-15,2024-04-12,124,Joint,186.13,1K-15K
-Greg Landsman,Amazon.com Inc,AMZN,buy,2024-08-15,2024-06-03,72,Undisclosed,178.34,1K-15K
-Greg Landsman,Ameriprise Financial Inc,AMP,buy,2024-08-15,2023-01-12,580,Spouse,331.17,1K-15K
-Greg Landsman,Ameriprise Financial Inc,AMP,buy,2024-08-15,2023-01-18,574,Joint,328.2,1K-15K
-Greg Landsman,Ameriprise Financial Inc,AMP,sell,2024-08-15,2023-04-24,478,Joint,312.91,1K-15K
-Greg Landsman,Analog Devices Inc,ADI,buy,2024-08-15,2023-04-24,478,Joint,186.96,1K-15K
-Greg Landsman,Analog Devices Inc,ADI,sell,2024-08-15,2023-05-30,442,Joint,177.43,1K-15K
-Greg Landsman,Apple Inc,AAPL,buy,2024-08-15,2023-06-06,435,Spouse,179.21,1K-15K
-Greg Landsman,Apple Inc,AAPL,sell,2024-08-15,2024-05-29,77,Spouse,190.29,1K-15K
-Greg Landsman,Blackrock Inc,BLK,buy,2024-08-15,2023-01-12,580,Spouse,753.96,1K-15K
-Greg Landsman,Blackrock Inc,BLK,buy,2024-08-15,2023-02-02,559,Joint,770.73,1K-15K
-Greg Landsman,Blackrock Inc,BLK,sell,2024-08-15,2023-03-09,524,Joint,651.28,1K-15K
-Greg Landsman,Cadence Design Systems Inc,CDNS,buy,2024-08-15,2023-11-16,272,Joint,266.99,1K-15K
-Greg Landsman,Cadence Design Systems Inc,CDNS,buy,2024-08-15,2023-11-15,273,Spouse,265.79,1K-15K
-Greg Landsman,Cadence Design Systems Inc,CDNS,sell,2024-08-15,2024-04-12,124,Joint,305.85,1K-15K
-Greg Landsman,Cencora Inc,COR,buy,2024-08-15,2024-05-29,77,Spouse,219.06,15K-50K
-Greg Landsman,Cheniere Energy Inc,LNG,buy,2024-08-15,2023-09-19,330,Spouse,161.61,1K-15K
-Greg Landsman,Costco Wholesale Corp,COST,buy,2024-08-15,2023-01-12,580,Spouse,482.43,1K-15K
-Greg Landsman,Costco Wholesale Corp,COST,buy,2024-08-15,2024-05-15,91,Joint,787.04,1K-15K
-Greg Landsman,CrowdStrike Holdings Inc,CRWD,sell,2024-08-15,2024-05-02,104,Joint,303.54,1K-15K
-Greg Landsman,CrowdStrike Holdings Inc,CRWD,buy,2024-08-15,2023-05-23,449,Spouse,143.9,1K-15K
-Greg Landsman,CrowdStrike Holdings Inc,CRWD,buy,2024-08-15,2023-12-18,240,Joint,259.8,1K-15K
-Greg Landsman,Diamondback Energy Inc,FANG,sell,2024-08-15,2023-01-18,574,Joint,144.1,1K-15K
-Greg Landsman,Diamondback Energy Inc,FANG,buy,2024-08-15,2023-10-18,301,Joint,169.92,1K-15K
-Greg Landsman,Diamondback Energy Inc,FANG,sell,2024-08-15,2023-11-16,272,Joint,152.5,1K-15K
-Greg Landsman,Diamondback Energy Inc,FANG,buy,2024-08-15,2024-07-17,28,Joint,210.94,15K-50K
-Greg Landsman,Dollar General Corporation,DG,sell,2024-08-15,2023-01-18,574,Joint,226.23,1K-15K
-Greg Landsman,Eli Lilly and Co,LLY,buy,2024-08-15,2023-01-18,574,Joint,352.01,1K-15K
-Greg Landsman,Eli Lilly and Co,LLY,sell,2024-08-15,2023-02-02,559,Joint,330.7,1K-15K
-Greg Landsman,Eli Lilly and Co,LLY,buy,2024-08-15,2023-05-11,461,Joint,435.55,1K-15K
-Greg Landsman,Eli Lilly and Co,LLY,sell,2024-08-15,2024-06-03,72,Joint,831.26,1K-15K
-Greg Landsman,The Estee Lauder Cos Inc,EL,sell,2024-08-15,2023-08-15,365,Spouse,163.52,1K-15K
-Greg Landsman,Exxon Mobil Corp,XOM,sell,2024-08-15,2024-05-29,77,Spouse,113.63,1K-15K
-Greg Landsman,Honeywell International Inc,HON,sell,2024-08-15,2023-01-18,574,Joint,204.24,1K-15K
-Greg Landsman,HORIZON PHARMACIES INC,N/A,buy,2024-08-15,2023-01-18,574,Joint,,1K-15K
-Greg Landsman,HORIZON PHARMACIES INC,N/A,sell,2024-08-15,2023-02-01,560,Joint,,1K-15K
-Greg Landsman,Horizon Therapeutics Public Ltd Co,HZNP,sell,2024-08-15,2023-02-03,558,Spouse,109.68,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,buy,2024-08-15,2023-05-04,468,Joint,303.21,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,buy,2024-08-15,2023-05-30,442,Joint,307.07,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2023-08-02,378,Joint,313.87,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2023-10-12,307,Joint,266.12,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,buy,2024-08-15,2023-02-01,560,Spouse,251.19,1K-15K
-Greg Landsman,Intuitive Surgical Inc,ISRG,sell,2024-08-15,2024-07-17,28,Joint,426.23,15K-50K

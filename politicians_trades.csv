@@ -1,4 +1,8 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Morgan McGarvey,Delta Air Lines Inc,DAL,sell,2024-09-04,2024-07-23,42,Spouse,43.61,1K-15K
+Mike Kelly,DEVELOPMENT AUTHORITY OF BURKE COUNTY,N/A,buy,2024-09-04,2024-08-08,26,Spouse,,50K-100K
+Mike Kelly,DEVELOPMENT AUTHORITY OF BURKE COUNTY,N/A,buy,2024-09-04,2024-08-28,6,Spouse,,100K-250K
+Don Beyer,GARDEN OF EDEN LLC,N/A,sell,2024-09-04,2024-08-30,5,Joint,,5M-25M
 Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,50K-100K
 Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,50K-100K
 Tom Carper,US TREASURY BILLS,N/A,sell,2024-09-03,2024-08-01,33,Spouse,,15K-50K
@@ -495,7 +499,3 @@ Michael McCaul,Sensata Technologies Holding PLC,ST,sell,2024-08-16,2024-07-02,44
 Michael McCaul,Warner Bros Discover Inc,WBD,sell,2024-08-16,2024-07-02,44,Spouse,7.2,100K-250K
 Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX,sell,2024-08-16,2024-07-01,45,Spouse,,1K-15K
 Michael McCaul,Vanguard Total Stock Market ETF,VTI,sell,2024-08-16,2024-07-02,44,Spouse,269.6,1K-15K
-Michael McCaul,DFA EMERGING MARKETS CORE EQUITY PORTFOLIO,DFCEX,sell,2024-08-16,2024-07-01,45,Spouse,,1K-15K
-Michael McCaul,UC4K INVESTMENTS LLC,N/A,sell,2024-08-16,2024-07-05,41,Child,,250K-500K
-Michael McCaul,STATE OF MICHIGAN,N/A,sell,2024-08-16,2024-07-10,36,Child,,100K-250K
-Michael McCaul,Visa Inc,V,sell,2024-08-16,2024-07-25,21,Child,253.74,100K-250K

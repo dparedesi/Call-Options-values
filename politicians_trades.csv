@@ -1,4 +1,27 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Marjorie Taylor Greene,Alphabet Inc,GOOGL,buy,2024-09-05,2024-09-03,1,Undisclosed,158.61,1K-15K
+Marjorie Taylor Greene,Amazon.com Inc,AMZN,buy,2024-09-05,2024-09-03,1,Undisclosed,176.25,1K-15K
+Marjorie Taylor Greene,Apple Inc,AAPL,buy,2024-09-05,2024-09-03,1,Undisclosed,222.77,1K-15K
+Marjorie Taylor Greene,Schwab (Charles) Corp,SCHW,buy,2024-09-05,2024-09-03,1,Undisclosed,64.79,1K-15K
+Marjorie Taylor Greene,Corning Inc,GLW,buy,2024-09-05,2024-09-03,1,Undisclosed,40.67,1K-15K
+Marjorie Taylor Greene,CrowdStrike Holdings Inc,CRWD,buy,2024-09-05,2024-09-03,1,Undisclosed,266.6,1K-15K
+Marjorie Taylor Greene,Digital Realty Trust Inc,DLR,buy,2024-09-05,2024-09-03,1,Undisclosed,149.79,1K-15K
+Marjorie Taylor Greene,Glaxosmithkline PLC,GSK,buy,2024-09-05,2024-09-03,1,Undisclosed,43.44,1K-15K
+Marjorie Taylor Greene,Lululemon Athletica Inc,LULU,buy,2024-09-05,2024-09-03,1,Undisclosed,258.08,1K-15K
+Marjorie Taylor Greene,NVIDIA Corporation,NVDA,buy,2024-09-05,2024-09-03,1,Undisclosed,108.0,1K-15K
+Marjorie Taylor Greene,Palo Alto Networks Inc,PANW,buy,2024-09-05,2024-09-03,1,Undisclosed,355.07,1K-15K
+Marjorie Taylor Greene,QUALCOMM Inc,QCOM,buy,2024-09-05,2024-09-03,1,Undisclosed,163.24,1K-15K
+Marjorie Taylor Greene,Tesla Inc,TSLA,buy,2024-09-05,2024-09-03,1,Undisclosed,210.6,1K-15K
+Marjorie Taylor Greene,United Parcel Service Inc,UPS,buy,2024-09-05,2024-09-03,1,Undisclosed,127.5,1K-15K
+Kathy Manning,Pfizer Inc,PFE,sell,2024-09-05,2024-08-09,26,Spouse,28.55,1K-15K
+Kathy Manning,SB DPC FUND LP,N/A,buy,2024-09-05,2024-08-29,6,Undisclosed,,15K-50K
+Kathy Manning,SEVEN BRIDGES ENERGY OPPORTUNITIES FUND III LP,N/A,buy,2024-09-05,2024-08-08,27,Undisclosed,,50K-100K
+Kathy Manning,SEVEN BRIDGES PRIVATE EQUITY OPPORTUNITIES FUND II LP,N/A,buy,2024-09-05,2024-08-08,27,Undisclosed,,15K-50K
+Kathy Manning,Starbucks Corp,SBUX,sell,2024-09-05,2024-08-09,26,Spouse,75.09,1K-15K
+Virginia Foxx,Alliance Resource Partners LP,ARLP,buy,2024-09-05,2024-08-14,21,Undisclosed,23.2,1K-15K
+Virginia Foxx,AT&T Inc,T,buy,2024-09-05,2024-08-01,34,Undisclosed,21.14,1K-15K
+Virginia Foxx,Energy Transfer LP,ET,buy,2024-09-05,2024-08-19,16,Undisclosed,16.3,1K-15K
+Virginia Foxx,Hercules Capital Inc,HTGC,buy,2024-09-05,2024-08-20,15,Undisclosed,18.27,1K-15K
 Sheldon Whitehouse,Snowflake Inc,SNOW,sell,2024-09-04,2024-08-15,20,Spouse,127.05,1K-15K
 Morgan McGarvey,Delta Air Lines Inc,DAL,sell,2024-09-04,2024-07-23,42,Spouse,43.61,1K-15K
 Mike Kelly,DEVELOPMENT AUTHORITY OF BURKE COUNTY,N/A,buy,2024-09-04,2024-08-08,26,Spouse,,50K-100K
@@ -476,26 +499,3 @@ Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-05,41,Spouse,45.79,1K
 Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-23,23,Spouse,43.33,1K-15K
 Michael McCaul,Microsoft Corp,MSFT,sell,2024-08-16,2024-07-15,31,Spouse,453.96,1K-15K
 Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-23,23,Spouse,,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-25,21,Spouse,,1K-15K
-Michael McCaul,Alphabet Inc,GOOGL,sell,2024-08-16,2024-07-15,31,Spouse,186.53,1K-15K
-Michael McCaul,Netflix Inc,NFLX,sell,2024-08-16,2024-07-16,30,Spouse,656.32,1K-15K
-Michael McCaul,Safran SA,SAFRY,sell,2024-08-16,2024-07-29,17,Spouse,54.026,15K-50K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-18,28,Spouse,486.21,15K-50K
-Michael McCaul,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,N/A,sell,2024-08-16,2024-07-26,20,Spouse,,15K-50K
-Michael McCaul,Netflix Inc,NFLX,sell,2024-08-16,2024-07-23,23,Spouse,642.76,15K-50K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-15,31,Spouse,492.23,15K-50K
-Michael McCaul,The Goldman Sachs Group Inc,GS,sell,2024-08-16,2024-07-25,21,Spouse,491.71,15K-50K
-Michael McCaul,SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY,N/A,sell,2024-08-16,2024-07-09,37,Spouse,,15K-50K
-Michael McCaul,STATE OF FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION,N/A,sell,2024-08-16,2024-07-01,45,Spouse,,15K-50K
-Michael McCaul,Taiwan Semiconductor Manufacturing Co Ltd,TSM,sell,2024-08-16,2024-07-15,31,Spouse,185.22,50K-100K
-Michael McCaul,COUNTY OF BROWARD,N/A,sell,2024-08-16,2024-07-01,45,Spouse,,50K-100K
-Michael McCaul,CITY OF DALLAS,N/A,sell,2024-08-16,2024-07-29,17,Spouse,,50K-100K
-Michael McCaul,WEST CHESTER AREA SCHOOL DISTRICT,N/A,sell,2024-08-16,2024-07-02,44,Spouse,,50K-100K
-Michael McCaul,METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA,N/A,sell,2024-08-16,2024-07-29,17,Spouse,,100K-250K
-Michael McCaul,CITY OF DALLAS,N/A,sell,2024-08-16,2024-07-29,17,Spouse,,100K-250K
-Michael McCaul,STATE OF WASHINGTON,N/A,sell,2024-08-16,2024-07-01,45,Spouse,,100K-250K
-Michael McCaul,The Kraft Heinz Co,KHC,sell,2024-08-16,2024-07-02,44,Spouse,32.0,50K-100K
-Michael McCaul,Dollar Tree Inc,DLTR,sell,2024-08-16,2024-07-02,44,Spouse,107.11,50K-100K
-Michael McCaul,Sensata Technologies Holding PLC,ST,sell,2024-08-16,2024-07-02,44,Spouse,37.69,15K-50K
-Michael McCaul,Warner Bros Discover Inc,WBD,sell,2024-08-16,2024-07-02,44,Spouse,7.2,100K-250K
-Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX,sell,2024-08-16,2024-07-01,45,Spouse,,1K-15K

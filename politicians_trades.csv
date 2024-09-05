@@ -1,4 +1,5 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Sheldon Whitehouse,Snowflake Inc,SNOW,sell,2024-09-04,2024-08-15,20,Spouse,127.05,1K-15K
 Morgan McGarvey,Delta Air Lines Inc,DAL,sell,2024-09-04,2024-07-23,42,Spouse,43.61,1K-15K
 Mike Kelly,DEVELOPMENT AUTHORITY OF BURKE COUNTY,N/A,buy,2024-09-04,2024-08-08,26,Spouse,,50K-100K
 Mike Kelly,DEVELOPMENT AUTHORITY OF BURKE COUNTY,N/A,buy,2024-09-04,2024-08-28,6,Spouse,,100K-250K
@@ -498,4 +499,3 @@ Michael McCaul,Dollar Tree Inc,DLTR,sell,2024-08-16,2024-07-02,44,Spouse,107.11,
 Michael McCaul,Sensata Technologies Holding PLC,ST,sell,2024-08-16,2024-07-02,44,Spouse,37.69,15K-50K
 Michael McCaul,Warner Bros Discover Inc,WBD,sell,2024-08-16,2024-07-02,44,Spouse,7.2,100K-250K
 Michael McCaul,VANGUARD LONG TERM TAX EXEMPT FUND,VWLUX,sell,2024-08-16,2024-07-01,45,Spouse,,1K-15K
-Michael McCaul,Vanguard Total Stock Market ETF,VTI,sell,2024-08-16,2024-07-02,44,Spouse,269.6,1K-15K

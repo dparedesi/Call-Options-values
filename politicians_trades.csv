@@ -1,4 +1,7 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Chellie Pingree,US TREASURY NOTE,N/A,buy,2024-09-06,2024-08-09,27,Undisclosed,,15K-50K
+Debbie Wasserman Schultz,Hecla Mining Co,HL,buy,2024-09-06,2024-08-09,27,Child,5.04,1K-15K
+Eleanor Holmes Norton,Berkshire Hathaway Inc,BRK/B,sell,2024-09-06,2024-08-27,9,Undisclosed,460.63,15K-50K
 John Hickenlooper,LINEAGE INC -REDH,N/A,buy,2024-09-05,2024-07-25,42,Spouse,80.78,50K-100K
 Shelley Moore Capito,Nike Inc,NKE,buy,2024-09-05,2024-08-28,8,Spouse,82.79,1K-15K
 Shelley Moore Capito,Broadcom Inc,AVGO,buy,2024-09-05,2024-08-27,9,Spouse,161.39,1K-15K
@@ -496,6 +499,3 @@ Michael McCaul,FULTON COUNTY GEORGIA,N/A,sell,2024-08-16,2024-07-25,21,Spouse,,1
 Michael McCaul,ConocoPhillips,COP,sell,2024-08-16,2024-07-18,28,Spouse,116.61,15K-50K
 Michael McCaul,TAMPA GENERAL HOSPITAL FOUNDATION INC,N/A,sell,2024-08-16,2024-07-26,20,Spouse,,1K-15K
 Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,2024-08-16,2024-07-26,20,Spouse,,1K-15K
-Michael McCaul,ALBANY ROAD STRATEGIC OPPORTUNITY FUND LLC,N/A,sell,2024-08-16,2024-07-12,34,Spouse,,1K-15K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-31,15,Spouse,43.33,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-02,44,Spouse,,1K-15K

@@ -1,4 +1,8 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+John Hickenlooper,LINEAGE INC -REDH,N/A,buy,2024-09-05,2024-07-25,42,Spouse,80.78,50K-100K
+Shelley Moore Capito,Nike Inc,NKE,buy,2024-09-05,2024-08-28,8,Spouse,82.79,1K-15K
+Shelley Moore Capito,Broadcom Inc,AVGO,buy,2024-09-05,2024-08-27,9,Spouse,161.39,1K-15K
+Shelley Moore Capito,Norfolk Southern Corp,NSC,sell,2024-09-05,2024-08-22,14,Spouse,237.1,1K-15K
 Marjorie Taylor Greene,Alphabet Inc,GOOGL,buy,2024-09-05,2024-09-03,1,Undisclosed,158.61,1K-15K
 Marjorie Taylor Greene,Amazon.com Inc,AMZN,buy,2024-09-05,2024-09-03,1,Undisclosed,176.25,1K-15K
 Marjorie Taylor Greene,Apple Inc,AAPL,buy,2024-09-05,2024-09-03,1,Undisclosed,222.77,1K-15K
@@ -495,7 +499,3 @@ Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,2024-08-16,2024-07-26,2
 Michael McCaul,ALBANY ROAD STRATEGIC OPPORTUNITY FUND LLC,N/A,sell,2024-08-16,2024-07-12,34,Spouse,,1K-15K
 Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-31,15,Spouse,43.33,1K-15K
 Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-02,44,Spouse,,1K-15K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-05,41,Spouse,45.79,1K-15K
-Michael McCaul,MAYS (J.W.) INC,N/A,sell,2024-08-16,2024-07-23,23,Spouse,43.33,1K-15K
-Michael McCaul,Microsoft Corp,MSFT,sell,2024-08-16,2024-07-15,31,Spouse,453.96,1K-15K
-Michael McCaul,US TREASURY BILLS,N/A,sell,2024-08-16,2024-07-23,23,Spouse,,1K-15K

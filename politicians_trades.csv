@@ -1,4 +1,136 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+John James,Abbott Laboratories,ABT,sell,2024-09-09,2024-09-04,2,Undisclosed,114.4,1K-15K
+John James,AbbVie Inc,ABBV,sell,2024-09-09,2024-09-04,2,Undisclosed,197.01,1K-15K
+John James,Accenture PLC,ACN,sell,2024-09-09,2024-09-04,2,Undisclosed,343.99,1K-15K
+John James,Advanced Micro Devices Inc,AMD,sell,2024-09-09,2024-09-04,2,Undisclosed,140.87,1K-15K
+John James,Air Products and Chemicals Inc,APD,sell,2024-09-09,2024-09-04,2,Undisclosed,274.67,1K-15K
+John James,Alphabet Inc,GOOGL,sell,2024-09-09,2024-09-04,2,Undisclosed,156.45,1K-15K
+John James,Alphabet Inc,GOOGL,sell,2024-09-09,2024-08-28,9,Undisclosed,164.5,1K-15K
+John James,Alphabet Inc,GOOGL,sell,2024-09-09,2024-09-04,2,Undisclosed,157.81,1K-15K
+John James,Amazon.com Inc,AMZN,sell,2024-09-09,2024-09-04,2,Undisclosed,173.33,1K-15K
+John James,Ameren Corporation,AEE,sell,2024-09-09,2024-09-04,2,Undisclosed,83.82,1K-15K
+John James,American Electric Power Co Inc,AEP,sell,2024-09-09,2024-09-04,2,Undisclosed,102.43,1K-15K
+John James,Analog Devices Inc,ADI,sell,2024-09-09,2024-09-04,2,Undisclosed,221.8,1K-15K
+John James,Apple Inc,AAPL,sell,2024-09-09,2024-09-04,2,Undisclosed,220.85,1K-15K
+John James,Applied Materials Inc,AMAT,sell,2024-09-09,2024-09-04,2,Undisclosed,182.38,1K-15K
+John James,Aptiv PLC,APTV,sell,2024-09-09,2024-09-04,2,Undisclosed,69.46,1K-15K
+John James,AT&T Inc,T,sell,2024-09-09,2024-09-04,2,Undisclosed,20.57,1K-15K
+John James,Automatic Data Processing Inc,ADP,sell,2024-09-09,2024-09-04,2,Undisclosed,275.22,1K-15K
+John James,AvalonBay Communities Inc,AVB,sell,2024-09-09,2024-09-04,2,Undisclosed,227.16,1K-15K
+John James,Avantor Inc,AVTR,sell,2024-09-09,2024-09-04,2,Undisclosed,25.06,1K-15K
+John James,Avery Dennison Corp,AVY,sell,2024-09-09,2024-09-04,2,Undisclosed,218.9,1K-15K
+John James,Bank of America Corp,BAC,sell,2024-09-09,2024-09-04,2,Undisclosed,40.5,1K-15K
+John James,Becton Dickinson and Co,BDX,sell,2024-09-09,2024-09-04,2,Undisclosed,236.34,1K-15K
+John James,Berkshire Hathaway Inc,BRK/B,sell,2024-09-09,2024-09-04,2,Undisclosed,478.57,1K-15K
+John James,Blackrock Inc,BLK,sell,2024-09-09,2024-09-04,2,Undisclosed,886.49,1K-15K
+John James,Blackstone Group Inc,BX,sell,2024-09-09,2024-09-04,2,Undisclosed,137.85,< 1K
+John James,Booz Allen Hamilton Holding Corporation,BAH,sell,2024-09-09,2024-09-04,2,Undisclosed,156.8,1K-15K
+John James,BP PLC,BP,sell,2024-09-09,2024-09-04,2,Undisclosed,32.41,1K-15K
+John James,Broadcom Inc,AVGO,sell,2024-09-09,2024-09-04,2,Undisclosed,154.12,1K-15K
+John James,Cardinal Health Inc,CAH,sell,2024-09-09,2024-09-04,2,Undisclosed,113.91,1K-15K
+John James,CDW Corp,CDW,sell,2024-09-09,2024-09-04,2,Undisclosed,214.48,1K-15K
+John James,Chevron Corp,CVX,sell,2024-09-09,2024-09-04,2,Undisclosed,142.07,1K-15K
+John James,Chubb Ltd,CB,sell,2024-09-09,2024-09-04,2,Undisclosed,290.94,1K-15K
+John James,Ciena Corp,CIEN,sell,2024-09-09,2024-09-04,2,Undisclosed,54.93,1K-15K
+John James,Cisco Systems Inc,CSCO,sell,2024-09-09,2024-09-04,2,Undisclosed,49.7,1K-15K
+John James,CME Group Inc,CME,sell,2024-09-09,2024-09-04,2,Undisclosed,216.0,1K-15K
+John James,The Coca-Cola Co,KO,sell,2024-09-09,2024-09-04,2,Undisclosed,72.56,1K-15K
+John James,Cognizant Technology Solutions Corp,CTSH,sell,2024-09-09,2024-09-04,2,Undisclosed,77.32,1K-15K
+John James,Comcast Corp,CMCSA,sell,2024-09-09,2024-09-04,2,Undisclosed,38.67,1K-15K
+John James,ConocoPhillips,COP,sell,2024-09-09,2024-09-04,2,Undisclosed,108.56,1K-15K
+John James,Corteva Inc,CTVA,sell,2024-09-09,2024-09-04,2,Undisclosed,55.5,1K-15K
+John James,Crown Castle International Corp,CCI,sell,2024-09-09,2024-09-04,2,Undisclosed,113.83,1K-15K
+John James,Cummins Inc,CMI,sell,2024-09-09,2024-09-04,2,Undisclosed,301.73,1K-15K
+John James,Diageo PLC,DEO,sell,2024-09-09,2024-09-04,2,Undisclosed,129.41,1K-15K
+John James,Discover Financial Services,DFS,sell,2024-09-09,2024-09-04,2,Undisclosed,135.08,1K-15K
+John James,Dollar Tree Inc,DLTR,sell,2024-09-09,2024-09-04,2,Undisclosed,63.56,1K-15K
+John James,The Dun & Bradstreet Corp,DNB,sell,2024-09-09,2024-09-04,2,Undisclosed,11.86,1K-15K
+John James,eBay Inc,EBAY,sell,2024-09-09,2024-09-04,2,Undisclosed,58.95,1K-15K
+John James,Electronic Arts Inc,EA,sell,2024-09-09,2024-09-04,2,Undisclosed,147.08,1K-15K
+John James,Elevance Health Inc,ELV,sell,2024-09-09,2024-09-04,2,Undisclosed,547.31,1K-15K
+John James,Entergy corporation,ETR,sell,2024-09-09,2024-09-04,2,Undisclosed,122.53,1K-15K
+John James,EOG Resources Inc,EOG,sell,2024-09-09,2024-09-04,2,Undisclosed,122.78,1K-15K
+John James,Exxon Mobil Corp,XOM,sell,2024-09-09,2024-09-04,2,Undisclosed,114.06,1K-15K
+John James,Fidelity National Financial Inc FNF Group,FNF,sell,2024-09-09,2024-09-04,2,Undisclosed,59.14,1K-15K
+John James,Fortive Corp,FTV,sell,2024-09-09,2024-09-04,2,Undisclosed,71.69,1K-15K
+John James,General Mills Inc,GIS,sell,2024-09-09,2024-09-04,2,Undisclosed,73.58,1K-15K
+John James,Genuine Parts Co,GPC,sell,2024-09-09,2024-09-04,2,Undisclosed,141.2,1K-15K
+John James,The Home Depot Inc,HD,sell,2024-09-09,2024-09-04,2,Undisclosed,364.67,1K-15K
+John James,Honeywell International Inc,HON,sell,2024-09-09,2024-09-04,2,Undisclosed,205.54,1K-15K
+John James,Humana Inc,HUM,sell,2024-09-09,2024-09-04,2,Undisclosed,371.4,1K-15K
+John James,Icon PLC,ICLR,sell,2024-09-09,2024-09-04,2,Undisclosed,312.52,1K-15K
+John James,Illinois Tool Works Inc,ITW,sell,2024-09-09,2024-09-04,2,Undisclosed,244.73,1K-15K
+John James,Intercontinental Exchange Inc,ICE,sell,2024-09-09,2024-09-04,2,Undisclosed,162.43,1K-15K
+John James,International Business Machines Corp,IBM,sell,2024-09-09,2024-09-04,2,Undisclosed,204.11,1K-15K
+John James,Johnson & Johnson,JNJ,sell,2024-09-09,2024-09-04,2,Undisclosed,167.36,1K-15K
+John James,JPMorgan Chase & Co,JPM,sell,2024-09-09,2024-09-04,2,Undisclosed,219.33,1K-15K
+John James,KLA Corp,KLAC,sell,2024-09-09,2024-09-04,2,Undisclosed,745.11,1K-15K
+John James,Lam Research Corp,LRCX,sell,2024-09-09,2024-09-04,2,Undisclosed,764.44,1K-15K
+John James,Linde PLC,LIN,sell,2024-09-09,2024-09-04,2,Undisclosed,472.13,1K-15K
+John James,Lockheed Martin Corp,LMT,sell,2024-09-09,2024-09-04,2,Undisclosed,574.78,1K-15K
+John James,Marsh & McLennan Companies Inc,MMC,sell,2024-09-09,2024-09-04,2,Undisclosed,231.42,1K-15K
+John James,Marvell Technology Inc,MRVL,sell,2024-09-09,2024-09-04,2,Undisclosed,70.87,1K-15K
+John James,McDonald's Corp,MCD,sell,2024-09-09,2024-09-04,2,Undisclosed,288.03,1K-15K
+John James,Medtronic PLC,MDT,sell,2024-09-09,2024-09-04,2,Undisclosed,91.03,1K-15K
+John James,Merck & Co Inc,MRK,sell,2024-09-09,2024-09-04,2,Undisclosed,115.8,1K-15K
+John James,Meta Platforms Inc,META,sell,2024-09-09,2024-09-04,2,Undisclosed,512.74,1K-15K
+John James,Microchip Technology Inc,MCHP,sell,2024-09-09,2024-09-04,2,Undisclosed,76.89,1K-15K
+John James,Micron Technology Inc,MU,sell,2024-09-09,2024-09-04,2,Undisclosed,89.29,1K-15K
+John James,Microsoft Corp,MSFT,sell,2024-09-09,2024-09-04,2,Undisclosed,408.9,15K-50K
+John James,Mondelez International Inc,MDLZ,sell,2024-09-09,2024-09-04,2,Undisclosed,75.27,1K-15K
+John James,Morgan Stanley,MS,sell,2024-09-09,2024-09-04,2,Undisclosed,100.15,1K-15K
+John James,NextEra Energy Inc,NEE,sell,2024-09-09,2024-09-04,2,Undisclosed,81.08,1K-15K
+John James,Northrop Grumman Corp,NOC,sell,2024-09-09,2024-09-04,2,Undisclosed,523.68,1K-15K
+John James,Novo Nordisk A/S,NVO,sell,2024-09-09,2024-09-04,2,Undisclosed,134.53,1K-15K
+John James,NVIDIA Corporation,NVDA,sell,2024-09-09,2024-09-04,2,Undisclosed,106.21,1K-15K
+John James,Otis Worldwide Corp,OTIS,sell,2024-09-09,2024-09-04,2,Undisclosed,94.26,1K-15K
+John James,Packaging Corp Of America,PKG,sell,2024-09-09,2024-09-04,2,Undisclosed,204.56,1K-15K
+John James,Parker-Hannifin Corp,PH,sell,2024-09-09,2024-09-04,2,Undisclosed,576.95,1K-15K
+John James,PepsiCo Inc,PEP,sell,2024-09-09,2024-09-04,2,Undisclosed,178.52,1K-15K
+John James,The PNC Financial Services Group Inc,PNC,sell,2024-09-09,2024-09-04,2,Undisclosed,182.36,1K-15K
+John James,PPG Industries Inc,PPG,sell,2024-09-09,2024-09-04,2,Undisclosed,126.67,1K-15K
+John James,The Procter & Gamble Co,PG,sell,2024-09-09,2024-09-04,2,Undisclosed,175.9,1K-15K
+John James,Prologis Inc,PLD,sell,2024-09-09,2024-09-04,2,Undisclosed,128.27,1K-15K
+John James,Public Service Enterprise Group Inc,PEG,sell,2024-09-09,2024-09-04,2,Undisclosed,80.99,1K-15K
+John James,Public Storage,PSA,sell,2024-09-09,2024-09-04,2,Undisclosed,343.95,1K-15K
+John James,Reinsurance Group of America Inc,RGA,sell,2024-09-09,2024-09-04,2,Undisclosed,219.59,1K-15K
+John James,Ross Stores Inc,ROST,sell,2024-09-09,2024-08-28,9,Undisclosed,149.9,1K-15K
+John James,RTX Corp,RTX,sell,2024-09-09,2024-09-04,2,Undisclosed,121.11,1K-15K
+John James,Sanofi,SNY,sell,2024-09-09,2024-09-04,2,Undisclosed,58.53,1K-15K
+John James,Shell PLC,SHEL,sell,2024-09-09,2024-09-04,2,Undisclosed,68.51,1K-15K
+John James,Skechers U S A Inc,SKX,sell,2024-09-09,2024-09-04,2,Undisclosed,67.39,1K-15K
+John James,Sony Group Corporation,SONY,sell,2024-09-09,2024-09-04,2,Undisclosed,94.46,1K-15K
+John James,The Southern Co,SO,sell,2024-09-09,2024-09-04,2,Undisclosed,89.13,1K-15K
+John James,Tenet Healthcare Corp,THC,sell,2024-09-09,2024-09-04,2,Undisclosed,162.12,1K-15K
+John James,Texas Instruments Inc,TXN,sell,2024-09-09,2024-09-04,2,Undisclosed,204.0,1K-15K
+John James,The Bank of New York Mellon Corp,BK,sell,2024-09-09,2024-09-04,2,Undisclosed,67.74,1K-15K
+John James,Thermo Fisher Scientific Inc,TMO,sell,2024-09-09,2024-09-04,2,Undisclosed,611.9,1K-15K
+John James,The TJX Companies Inc,TJX,sell,2024-09-09,2024-09-04,2,Undisclosed,117.52,1K-15K
+John James,The TJX Companies Inc,TJX,buy,2024-09-09,2024-04-25,134,Undisclosed,96.42,1K-15K
+John James,World Wrestling Entertainment Inc,WWE,sell,2024-09-09,2024-09-04,2,Undisclosed,117.96,1K-15K
+John James,Trane Technologies PLC,TT,sell,2024-09-09,2024-09-04,2,Undisclosed,346.53,1K-15K
+John James,Uber Technologies Inc,UBER,sell,2024-09-09,2024-09-04,2,Undisclosed,71.56,1K-15K
+John James,Uber Technologies Inc,UBER,buy,2024-09-09,2024-08-28,9,Undisclosed,71.85,1K-15K
+John James,Union Pacific Corp,UNP,sell,2024-09-09,2024-09-04,2,Undisclosed,255.7,1K-15K
+John James,United Parcel Service Inc,UPS,sell,2024-09-09,2024-08-28,9,Undisclosed,127.19,1K-15K
+John James,Unitedhealth Group Inc,UNH,sell,2024-09-09,2024-09-04,2,Undisclosed,604.18,1K-15K
+John James,Valero Energy Corp,VLO,sell,2024-09-09,2024-09-04,2,Undisclosed,139.63,1K-15K
+John James,Visa Inc,V,sell,2024-09-09,2024-09-04,2,Undisclosed,280.49,1K-15K
+John James,Walmart Inc,WMT,sell,2024-09-09,2024-09-04,2,Undisclosed,77.24,1K-15K
+John James,The Walt Disney Co,DIS,sell,2024-09-09,2024-09-04,2,Undisclosed,89.25,1K-15K
+John James,Waste Management Inc,WM,sell,2024-09-09,2024-09-04,2,Undisclosed,209.32,1K-15K
+John James,WEC Energy Group Inc,WEC,sell,2024-09-09,2024-09-04,2,Undisclosed,94.54,1K-15K
+John James,Wells Fargo & Co,WFC,sell,2024-09-09,2024-09-04,2,Undisclosed,58.12,1K-15K
+John James,Westinghouse Air Brake Technologies Corp,WAB,sell,2024-09-09,2024-09-04,2,Undisclosed,164.04,1K-15K
+John James,Zebra Technologies Corp,ZBRA,sell,2024-09-09,2024-09-04,2,Undisclosed,328.87,1K-15K
+Lance Gooden,Marathon Oil Corp,MRO,sell,2024-09-09,2024-07-23,45,Undisclosed,27.84,1K-15K
+Lance Gooden,SOTHERLY HOTELS INC,N/A,sell,2024-09-09,2024-07-23,45,Undisclosed,1.29,1K-15K
+Suzan DelBene,STATE OF MARYLAND,N/A,sell,2024-09-09,2024-08-29,11,Joint,,500K-1M
+Suzan DelBene,Microsoft Corp,MSFT,sell,2024-09-09,2024-08-31,9,Joint,,100K-250K
+Suzan DelBene,CITY OF SEATTLE,N/A,buy,2024-09-09,2024-08-23,17,Undisclosed,,1K-15K
+Suzan DelBene,UTAH TRANSIT AUTHORITY,N/A,buy,2024-09-09,2024-08-29,11,Joint,,500K-1M
+Earl Blumenauer,Northwest Natural Holding Co,NWN,buy,2024-09-09,2024-08-15,22,Spouse,38.64,1K-15K
+Earl Blumenauer,US TREASURY NOTE,N/A,buy,2024-09-09,2024-08-29,8,Spouse,,15K-50K
 Chellie Pingree,US TREASURY NOTE,N/A,buy,2024-09-06,2024-08-09,27,Undisclosed,,15K-50K
 Debbie Wasserman Schultz,Hecla Mining Co,HL,buy,2024-09-06,2024-08-09,27,Child,5.04,1K-15K
 Eleanor Holmes Norton,Berkshire Hathaway Inc,BRK/B,sell,2024-09-06,2024-08-27,9,Undisclosed,460.63,15K-50K
@@ -367,135 +499,3 @@ Scott Franklin,Starbucks Corp,SBUX,buy,2024-08-21,2024-08-07,13,Undisclosed,75.2
 Scott Franklin,Starbucks Corp,SBUX,sell,2024-08-21,2024-08-14,6,Spouse,93.9,1K-15K
 Scott Franklin,The Hershey Co,HSY,buy,2024-08-21,2024-08-07,13,Undisclosed,199.82,50K-100K
 Scott Franklin,The Hershey Co,HSY,buy,2024-08-21,2024-08-02,18,Undisclosed,199.08,1K-15K
-Scott Franklin,United Parcel Service Inc,UPS,buy,2024-08-21,2024-08-02,18,Undisclosed,128.06,1K-15K
-Scott Franklin,United Parcel Service Inc,UPS,buy,2024-08-21,2024-08-07,13,Undisclosed,123.32,15K-50K
-Scott Franklin,Walmart Inc,WMT,sell,2024-08-21,2024-08-06,14,Undisclosed,67.74,15K-50K
-Scott Franklin,Walmart Inc,WMT,sell,2024-08-21,2024-08-01,19,Undisclosed,69.79,1K-15K
-Jared Moskowitz,Abbott Laboratories,ABT,buy,2024-08-20,2024-07-05,45,Undisclosed,104.02,1K-15K
-Jared Moskowitz,The Allstate Corporation,ALL,sell,2024-08-20,2024-07-05,45,Undisclosed,158.43,1K-15K
-Jared Moskowitz,Amazon.com Inc,AMZN,buy,2024-08-20,2024-07-05,45,Undisclosed,200.0,1K-15K
-Jared Moskowitz,Amazon.com Inc,AMZN,buy,2024-08-20,2024-07-05,45,Undisclosed,200.0,1K-15K
-Jared Moskowitz,Broadcom Inc,AVGO,buy,2024-08-20,2024-07-05,45,Undisclosed,"1,703.31",1K-15K
-Jared Moskowitz,Chubb Ltd,CB,buy,2024-08-20,2024-07-05,45,Undisclosed,252.51,1K-15K
-Jared Moskowitz,Comcast Corp,CMCSA,sell,2024-08-20,2024-07-05,45,Undisclosed,37.86,1K-15K
-Jared Moskowitz,FactSet Research Systems Inc,FDS,sell,2024-08-20,2024-07-05,45,Undisclosed,423.41,1K-15K
-Jared Moskowitz,JPMorgan Chase & Co,JPM,buy,2024-08-20,2024-07-05,45,Undisclosed,204.79,1K-15K
-Jared Moskowitz,Lowe's Cos Inc,LOW,sell,2024-08-20,2024-07-05,45,Undisclosed,213.89,1K-15K
-Jared Moskowitz,Mastercard Inc,MA,sell,2024-08-20,2024-07-05,45,Undisclosed,449.49,1K-15K
-Jared Moskowitz,Mondelez International Inc,MDLZ,sell,2024-08-20,2024-07-05,45,Undisclosed,66.98,1K-15K
-Jared Moskowitz,Northrop Grumman Corp,NOC,sell,2024-08-20,2024-07-05,45,Undisclosed,434.73,1K-15K
-Jared Moskowitz,Oracle Corp,ORCL,buy,2024-08-20,2024-07-05,45,Undisclosed,144.83,1K-15K
-Jared Moskowitz,The PNC Financial Services Group Inc,PNC,sell,2024-08-20,2024-07-05,45,Undisclosed,156.51,1K-15K
-Jared Moskowitz,The Sherwin-Williams Co,SHW,buy,2024-08-20,2024-07-05,45,Undisclosed,295.7,1K-15K
-Jared Moskowitz,The Sherwin-Williams Co,SHW,buy,2024-08-20,2024-07-05,45,Undisclosed,295.7,1K-15K
-Jared Moskowitz,Snap-On Inc,SNA,sell,2024-08-20,2024-07-05,45,Undisclosed,255.35,1K-15K
-Jared Moskowitz,The Southern Co,SO,buy,2024-08-20,2024-07-05,45,Undisclosed,78.04,1K-15K
-Jared Moskowitz,The Toronto-Dominion Bank,TD,sell,2024-08-20,2024-07-05,45,Undisclosed,55.23,1K-15K
-Jared Moskowitz,Waste Management Inc,WM,buy,2024-08-20,2024-07-05,45,Undisclosed,210.33,1K-15K
-Jared Moskowitz,WEC Energy Group Inc,WEC,sell,2024-08-20,2024-07-05,45,Undisclosed,77.85,1K-15K
-Jared Moskowitz,Zoetis Inc,ZTS,sell,2024-08-20,2024-07-05,45,Undisclosed,174.96,1K-15K
-Thomas Kean Jr,Abbott Laboratories,ABT,buy,2024-08-20,2024-07-23,27,Undisclosed,103.92,1K-15K
-Markwayne Mullin,CITY OF FORT SMITH ARKANSAS,N/A,buy,2024-08-20,2024-07-23,27,Joint,,50K-100K
-Mark Warner,CITY OF RICHMOND VIRGINIA,N/A,buy,2024-08-19,2024-07-31,19,Self,,500K-1M
-Kathy Manning,Abbott Laboratories,ABT,buy,2024-08-19,2024-07-02,45,Spouse,103.2,1K-15K
-Kathy Manning,Abbott Laboratories,ABT,buy,2024-08-19,2024-07-02,45,Spouse,103.2,1K-15K
-Kathy Manning,AbbVie Inc,ABBV,buy,2024-08-19,2024-07-02,45,Spouse,165.96,1K-15K
-Kathy Manning,Accenture PLC,ACN,sell,2024-08-19,2024-07-02,45,Spouse,303.83,1K-15K
-Kathy Manning,Accenture PLC,ACN,sell,2024-08-19,2024-07-02,45,Spouse,303.83,1K-15K
-Kathy Manning,Air Products and Chemicals Inc,APD,sell,2024-08-19,2024-07-02,45,Spouse,251.0,1K-15K
-Kathy Manning,Air Products and Chemicals Inc,APD,sell,2024-08-19,2024-07-02,45,Undisclosed,251.0,1K-15K
-Kathy Manning,Alphabet Inc,GOOGL,sell,2024-08-19,2024-07-02,45,Spouse,185.24,1K-15K
-Kathy Manning,Alphabet Inc,GOOGL,sell,2024-08-19,2024-07-02,45,Spouse,185.24,1K-15K
-Kathy Manning,Alphabet Inc,GOOGL,sell,2024-08-19,2024-07-02,45,Spouse,185.24,1K-15K
-Kathy Manning,Alphabet Inc,GOOGL,sell,2024-08-19,2024-07-02,45,Spouse,186.61,1K-15K
-Kathy Manning,Alphabet Inc,GOOGL,sell,2024-08-19,2024-07-02,45,Spouse,186.61,1K-15K
-Kathy Manning,Amgen Inc,AMGN,buy,2024-08-19,2024-07-02,45,Spouse,310.77,1K-15K
-Kathy Manning,Aon PLC,AON,sell,2024-08-19,2024-07-02,45,Spouse,295.57,15K-50K
-Kathy Manning,Aon PLC,AON,sell,2024-08-19,2024-07-02,45,Spouse,295.57,1K-15K
-Kathy Manning,Aon PLC,AON,sell,2024-08-19,2024-07-02,45,Spouse,295.57,1K-15K
-Kathy Manning,Apple Inc,AAPL,buy,2024-08-19,2024-07-02,45,Spouse,220.27,1K-15K
-Kathy Manning,Apple Inc,AAPL,buy,2024-08-19,2024-07-02,45,Spouse,220.27,1K-15K
-Kathy Manning,Apple Inc,AAPL,buy,2024-08-19,2024-07-02,45,Spouse,220.27,1K-15K
-Kathy Manning,Caterpillar Inc,CAT,sell,2024-08-19,2024-07-02,45,Spouse,327.76,1K-15K
-Kathy Manning,Centene Corp,CNC,buy,2024-08-19,2024-07-02,45,Spouse,66.19,1K-15K
-Kathy Manning,Centene Corp,CNC,buy,2024-08-19,2024-07-02,45,Spouse,66.19,1K-15K
-Kathy Manning,Chubb Ltd,CB,sell,2024-08-19,2024-07-02,45,Spouse,255.57,1K-15K
-Kathy Manning,Chubb Ltd,CB,sell,2024-08-19,2024-07-02,45,Spouse,255.57,1K-15K
-Kathy Manning,Chubb Ltd,CB,sell,2024-08-19,2024-07-02,45,Spouse,255.57,1K-15K
-Kathy Manning,CME Group Inc,CME,sell,2024-08-19,2024-07-02,45,Spouse,197.08,1K-15K
-Kathy Manning,CME Group Inc,CME,sell,2024-08-19,2024-07-02,45,Spouse,197.08,1K-15K
-Kathy Manning,Costco Wholesale Corp,COST,buy,2024-08-19,2024-07-02,45,Spouse,859.36,1K-15K
-Kathy Manning,Expeditors International of Washington Inc,EXPD,buy,2024-08-19,2024-07-02,45,Spouse,121.22,1K-15K
-Kathy Manning,Garmin Ltd,GRMN,buy,2024-08-19,2024-07-02,45,Spouse,161.49,50K-100K
-Kathy Manning,Garmin Ltd,GRMN,buy,2024-08-19,2024-07-02,45,Spouse,161.49,1K-15K
-Kathy Manning,Garmin Ltd,GRMN,buy,2024-08-19,2024-07-02,45,Spouse,161.49,1K-15K
-Kathy Manning,The Home Depot Inc,HD,buy,2024-08-19,2024-07-02,45,Spouse,334.97,1K-15K
-Kathy Manning,The Home Depot Inc,HD,buy,2024-08-19,2024-07-02,45,Spouse,334.97,1K-15K
-Kathy Manning,The Home Depot Inc,HD,buy,2024-08-19,2024-07-02,45,Spouse,334.97,1K-15K
-Kathy Manning,Intuit Inc,INTU,sell,2024-08-19,2024-07-02,45,Spouse,656.22,1K-15K
-Kathy Manning,Johnson & Johnson,JNJ,buy,2024-08-19,2024-07-02,45,Spouse,146.03,1K-15K
-Kathy Manning,Johnson & Johnson,JNJ,buy,2024-08-19,2024-07-02,45,Spouse,146.03,1K-15K
-Kathy Manning,Lam Research Corp,LRCX,buy,2024-08-19,2024-07-02,45,Spouse,"1,072.82",1K-15K
-Kathy Manning,Lockheed Martin Corp,LMT,sell,2024-08-19,2024-07-02,45,Spouse,465.7,1K-15K
-Kathy Manning,Lockheed Martin Corp,LMT,sell,2024-08-19,2024-07-02,45,Spouse,465.7,1K-15K
-Kathy Manning,Mastercard Inc,MA,buy,2024-08-19,2024-07-02,45,Spouse,444.65,1K-15K
-Kathy Manning,Mastercard Inc,MA,buy,2024-08-19,2024-07-02,45,Spouse,444.65,1K-15K
-Kathy Manning,Medtronic PLC,MDT,sell,2024-08-19,2024-07-02,45,Spouse,77.37,1K-15K
-Kathy Manning,Merck & Co Inc,MRK,buy,2024-08-19,2024-07-02,45,Spouse,127.72,1K-15K
-Kathy Manning,MICRON SOLUTIONS INC,N/A,buy,2024-08-19,2024-07-02,45,Spouse,,1K-15K
-Kathy Manning,Microsoft Corp,MSFT,buy,2024-08-19,2024-07-02,45,Spouse,459.28,15K-50K
-Kathy Manning,Microsoft Corp,MSFT,buy,2024-08-19,2024-07-02,45,Spouse,459.28,1K-15K
-Kathy Manning,Microsoft Corp,MSFT,buy,2024-08-19,2024-07-02,45,Spouse,459.28,1K-15K
-Kathy Manning,MSCI Inc,MSCI,buy,2024-08-19,2024-07-02,45,Spouse,491.42,1K-15K
-Kathy Manning,MSCI Inc,MSCI,buy,2024-08-19,2024-07-02,45,Spouse,491.42,1K-15K
-Kathy Manning,Nike Inc,NKE,sell,2024-08-19,2024-07-02,45,Spouse,76.04,15K-50K
-Kathy Manning,Nike Inc,NKE,sell,2024-08-19,2024-07-02,45,Spouse,76.04,1K-15K
-Kathy Manning,Nike Inc,NKE,sell,2024-08-19,2024-07-02,45,Spouse,76.04,1K-15K
-Kathy Manning,NVIDIA Corporation,NVDA,sell,2024-08-19,2024-07-02,45,Spouse,122.67,1K-15K
-Kathy Manning,NVIDIA Corporation,NVDA,sell,2024-08-19,2024-07-02,45,Spouse,122.67,1K-15K
-Kathy Manning,NVIDIA Corporation,NVDA,sell,2024-08-19,2024-07-02,45,Spouse,122.67,15K-50K
-Kathy Manning,Packaging Corp Of America,PKG,buy,2024-08-19,2024-07-02,45,Spouse,177.51,1K-15K
-Kathy Manning,The Procter & Gamble Co,PG,buy,2024-08-19,2024-07-02,45,Spouse,163.9,1K-15K
-Kathy Manning,QUALCOMM Inc,QCOM,buy,2024-08-19,2024-07-02,45,Spouse,200.16,1K-15K
-Kathy Manning,salesforce.com Inc,CRM,buy,2024-08-19,2024-07-02,45,Spouse,256.19,1K-15K
-Kathy Manning,salesforce.com Inc,CRM,buy,2024-08-19,2024-07-02,45,Spouse,256.19,1K-15K
-Kathy Manning,salesforce.com Inc,CRM,buy,2024-08-19,2024-07-02,45,Spouse,256.19,1K-15K
-Kathy Manning,SEVEN BRIDGES LONG SHORT EQUITY FUND LTD,N/A,sell,2024-08-19,2024-07-26,21,Spouse,,100K-250K
-Kathy Manning,SEVEN BRIDGES LONG SHORT EQUITY FUND LTD,N/A,sell,2024-08-19,2024-07-30,17,Undisclosed,,500K-1M
-Kathy Manning,SEVEN BRIDGES MULTI STRATEGY FUND LP,N/A,buy,2024-08-19,2024-08-01,15,Spouse,,100K-250K
-Kathy Manning,Sysco Corporation,SYY,buy,2024-08-19,2024-07-02,45,Spouse,70.59,1K-15K
-Kathy Manning,The TJX Companies Inc,TJX,buy,2024-08-19,2024-07-02,45,Spouse,110.2,1K-15K
-Kathy Manning,Visa Inc,V,buy,2024-08-19,2024-07-02,45,Spouse,268.23,1K-15K
-Kathy Manning,Visa Inc,V,buy,2024-08-19,2024-07-02,45,Spouse,268.23,1K-15K
-Kathy Manning,Walmart Inc,WMT,sell,2024-08-19,2024-07-02,45,Spouse,68.07,1K-15K
-Chuck Fleischmann,BONDBLOXX B O Y T D US T ETF,XONE,buy,2024-08-19,2024-07-16,31,Joint,49.545,1K-15K
-Chuck Fleischmann,INVESCO S&P MDCP QUALITY ETF,XMHQ,buy,2024-08-19,2024-07-16,31,Joint,103.26,1K-15K
-Chuck Fleischmann,INVESCO S&P SMALLCAP QUALITY ETF,XSHQ,buy,2024-08-19,2024-07-16,31,Joint,,1K-15K
-Chuck Fleischmann,iShares 1-5 Year Investment Grade Corp Bond ETF,IGSB,sell,2024-08-19,2024-07-16,31,Joint,51.62,1K-15K
-Chuck Fleischmann,ISHARES BB RAT CORP BOND ETF,HYBB,sell,2024-08-19,2024-07-16,31,Joint,46.48,1K-15K
-Chuck Fleischmann,PACER US SM CP CS CW 100 ETF,CALF,sell,2024-08-19,2024-07-16,31,Joint,46.65,15K-50K
-Chuck Fleischmann,SPDR S&P 600 Small Cap Growth ETF,SLYG,sell,2024-08-19,2024-07-16,31,Joint,93.91,1K-15K
-Chuck Fleischmann,SPDR Portfolio S&P 500 Growth ETF,SPYG,buy,2024-08-19,2024-07-16,31,Joint,83.15,1K-15K
-Chuck Fleischmann,SPDR Series Trust - SPDR Portfolio S&P 500 Value ETF,SPYV,sell,2024-08-19,2024-07-16,31,Joint,50.72,1K-15K
-Chuck Fleischmann,SPDR S&P 400 Mid Cap Growth ETF,MDYG,buy,2024-08-19,2024-07-16,31,Joint,89.18,15K-50K
-Chuck Fleischmann,SPDR PORTFOLIO HGH YD BD ETF,SPHY,buy,2024-08-19,2024-07-16,31,Joint,23.52,1K-15K
-Chuck Fleischmann,WILLIAM BLAIR LARGE CAP GROWTH FUND,LCGFX,buy,2024-08-19,2024-07-08,39,Joint,,15K-50K
-Chuck Fleischmann,SOLVENTUM CORP,SOLV,sell,2024-08-19,2024-07-08,39,Joint,49.64,1K-15K
-Chuck Fleischmann,DocuSign Inc,DOCU,sell,2024-08-19,2024-07-09,38,Joint,51.91,1K-15K
-Chuck Fleischmann,Snowflake Inc,SNOW,buy,2024-08-19,2024-07-09,38,Joint,137.46,1K-15K
-Michael McCaul,UC4K INVESTMENTS LLC,N/A,sell,2024-08-16,2024-07-05,41,Spouse,,250K-500K
-Michael McCaul,STATE OF MICHIGAN,N/A,sell,2024-08-16,2024-07-10,36,Spouse,,100K-250K
-Michael McCaul,RECURRING CAPITAL FUND IV LP,N/A,sell,2024-08-16,2024-07-09,37,Spouse,,100K-250K
-Michael McCaul,Visa Inc,V,sell,2024-08-16,2024-07-25,21,Spouse,253.74,100K-250K
-Michael McCaul,SAN ANTONIO INTERNATIONAL AIRPORT,N/A,sell,2024-08-16,2024-07-31,15,Spouse,,100K-250K
-Michael McCaul,CITY OF HOUSTON,N/A,sell,2024-08-16,2024-07-18,28,Spouse,,50K-100K
-Michael McCaul,CLEAR CREEK COUNTY,N/A,sell,2024-08-16,2024-07-16,30,Spouse,,50K-100K
-Michael McCaul,CITY OF HOUSTON,N/A,sell,2024-08-16,2024-07-18,28,Spouse,,15K-50K
-Michael McCaul,STATE OF CALIFORNIA,N/A,sell,2024-08-16,2024-07-25,21,Spouse,,15K-50K
-Michael McCaul,GE VERNOVA INC,GEV,sell,2024-08-16,2024-07-19,27,Spouse,163.34,15K-50K
-Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,2024-08-16,2024-07-23,23,Spouse,,15K-50K
-Michael McCaul,RHODE ISLAND HOUSING AND MORTGAGE FINANCE CORP,N/A,sell,2024-08-16,2024-07-24,22,Spouse,,15K-50K
-Michael McCaul,FULTON COUNTY GEORGIA,N/A,sell,2024-08-16,2024-07-25,21,Spouse,,15K-50K
-Michael McCaul,ConocoPhillips,COP,sell,2024-08-16,2024-07-18,28,Spouse,116.61,15K-50K
-Michael McCaul,TAMPA GENERAL HOSPITAL FOUNDATION INC,N/A,sell,2024-08-16,2024-07-26,20,Spouse,,1K-15K
-Michael McCaul,AUSTIN TEXAS UTILITIES AUTHORITY,N/A,sell,2024-08-16,2024-07-26,20,Spouse,,1K-15K

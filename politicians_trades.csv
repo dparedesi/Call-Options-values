@@ -1,4 +1,7 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-11,2024-09-10,0,Undisclosed,,50K-100K
+Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-11,2024-09-05,5,Undisclosed,,1K-15K
+Max Miller,RAC OPPORTUNITY FUND II LP,N/A,buy,2024-09-11,2024-09-10,0,Undisclosed,,1K-15K
 Doris Matsui,US TREASURY NOTE,N/A,buy,2024-09-10,2024-09-03,6,Spouse,,500K-1M
 Lloyd Doggett,The Procter & Gamble Co,PG,buy,2024-09-10,2024-08-15,25,Undisclosed,167.92,1K-15K
 Marjorie Taylor Greene,US TREASURY BILLS,N/A,buy,2024-09-10,2024-09-06,3,Undisclosed,,100K-250K
@@ -496,6 +499,3 @@ Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-30,7,Spouse,,1K-15K
 Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-14,23,Spouse,,1K-15K
 Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-26,11,Spouse,,1K-15K
 Ro Khanna,Amgen Inc,AMGN,sell,2024-09-09,2024-08-02,35,Spouse,333.99,15K-50K
-Ro Khanna,International Business Machines Corp,IBM,sell,2024-09-09,2024-08-02,35,Spouse,189.12,15K-50K
-Ro Khanna,Roper Technologies Inc,ROP,sell,2024-09-09,2024-08-02,35,Spouse,536.03,15K-50K
-Ro Khanna,Vertex Pharmaceuticals Inc,VRTX,sell,2024-09-09,2024-08-02,35,Spouse,494.46,15K-50K

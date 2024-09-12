@@ -44,7 +44,7 @@ Ro Khanna,Berkshire Hathaway Inc,BRK/B,buy,2024-09-09,2024-08-07,30,Child,427.02
 Ro Khanna,Laboratory Corp of America Holdings,LH,buy,2024-09-09,2024-08-27,10,Child,230.21,1K-15K
 Ro Khanna,NVR Inc,NVR,sell,2024-09-09,2024-08-22,15,Child,"8,983.56",1K-15K
 Ro Khanna,Avantor Inc,AVTR,sell,2024-09-09,2024-08-29,8,Child,25.79,1K-15K
-Ro Khanna,Avantor Inc,AVTR,sell,2024-09-09,2024-03-28,162,Child,25.57,1K-15K
+Ro Khanna,Avantor Inc,AVTR,sell,2024-09-09,2024-08-28,9,Child,25.56,1K-15K
 Ro Khanna,Avantor Inc,AVTR,sell,2024-09-09,2024-08-13,24,Child,25.24,1K-15K
 Ro Khanna,PepsiCo Inc,PEP,buy,2024-09-09,2024-08-05,32,Child,174.04,15K-50K
 Ro Khanna,MORGAN STANLEY FINANCE LLC,N/A,buy,2024-09-09,2024-08-30,7,Child,,1K-15K
@@ -77,10 +77,10 @@ Ro Khanna,ON Semiconductor Corp,ON,buy,2024-09-09,2024-08-05,32,Child,68.97,1K-1
 Ro Khanna,DEERE & COMPANY,DE,buy,2024-09-09,2024-08-05,32,Child,344.84,1K-15K
 Ro Khanna,Booking Holdings Inc,BKNG,buy,2024-09-09,2024-08-05,32,Child,"3,383.43",1K-15K
 Ro Khanna,Caterpillar Inc,CAT,buy,2024-09-09,2024-08-05,32,Child,316.8,1K-15K
-Ro Khanna,First Solar Inc,FSLR,buy,2024-09-09,2024-03-05,185,Child,159.06,1K-15K
+Ro Khanna,First Solar Inc,FSLR,buy,2024-09-09,2024-08-05,32,Child,207.09,1K-15K
 Ro Khanna,CDW Corp,CDW,buy,2024-09-09,2024-08-05,32,Child,206.67,1K-15K
 Ro Khanna,EPAM Systems Inc,EPAM,buy,2024-09-09,2024-08-05,32,Child,202.25,1K-15K
-Ro Khanna,West Pharmaceutical Services Inc,WST,buy,2024-09-09,2024-03-05,185,Child,351.95,1K-15K
+Ro Khanna,West Pharmaceutical Services Inc,WST,buy,2024-09-09,2024-08-05,32,Child,301.6,1K-15K
 Ro Khanna,Jabil Inc,JBL,buy,2024-09-09,2024-08-05,32,Child,97.55,1K-15K
 Ro Khanna,Old Dominion Freight Line Inc,ODFL,buy,2024-09-09,2024-08-05,32,Child,194.26,1K-15K
 Ro Khanna,IDEX Corp,IEX,buy,2024-09-09,2024-08-05,32,Child,192.21,1K-15K
@@ -97,7 +97,7 @@ Ro Khanna,McDonald's Corp,MCD,buy,2024-09-09,2024-08-05,32,Child,268.45,1K-15K
 Ro Khanna,Norwegian Cruise Line Holdings Ltd,NCLH,buy,2024-09-09,2024-08-05,32,Child,15.33,1K-15K
 Ro Khanna,Fastenal Co,FAST,buy,2024-09-09,2024-08-05,32,Child,66.4,1K-15K
 Ro Khanna,Ceridian HCM Holding Inc,CDAY,buy,2024-09-09,2024-08-05,32,Child,52.96,1K-15K
-Ro Khanna,Raymond James Financial Inc,RJF,buy,2024-09-09,2024-03-05,185,Child,121.49,1K-15K
+Ro Khanna,Raymond James Financial Inc,RJF,buy,2024-09-09,2024-08-05,32,Child,106.39,1K-15K
 Ro Khanna,Regions Financial Corp,RF,buy,2024-09-09,2024-08-05,32,Child,20.41,1K-15K
 Ro Khanna,Warner Bros Discover Inc,WBD,buy,2024-09-09,2024-08-05,32,Child,7.88,1K-15K
 Ro Khanna,Roper Technologies Inc,ROP,buy,2024-09-09,2024-08-05,32,Child,517.53,1K-15K
@@ -432,7 +432,7 @@ Ro Khanna,Cencora Inc,COR,buy,2024-09-09,2024-08-02,35,Spouse,247.57,1K-15K
 Ro Khanna,Norfolk Southern Corp,NSC,buy,2024-09-09,2024-08-02,35,Spouse,243.41,1K-15K
 Ro Khanna,Becton Dickinson and Co,BDX,buy,2024-09-09,2024-08-02,35,Spouse,241.87,1K-15K
 Ro Khanna,Citigroup Inc,C,buy,2024-09-09,2024-08-02,35,Spouse,58.76,1K-15K
-Ro Khanna,PACCAR Inc,PCAR,buy,2024-09-09,2024-03-02,188,Spouse,,1K-15K
+Ro Khanna,PACCAR Inc,PCAR,buy,2024-09-09,2024-08-02,35,Spouse,94.36,1K-15K
 Ro Khanna,NCR Corp,NCR,buy,2024-09-09,2024-08-08,29,Spouse,11.31,1K-15K
 Ro Khanna,Deckers Outdoor Corp,DECK,buy,2024-09-09,2024-08-02,35,Spouse,865.33,1K-15K
 Ro Khanna,The Walt Disney Co,DIS,buy,2024-09-09,2024-08-02,35,Spouse,89.57,1K-15K
@@ -465,7 +465,7 @@ Ro Khanna,Freeport-McMoRan Inc,FCX,buy,2024-09-09,2024-08-02,35,Spouse,41.97,1K-
 Ro Khanna,Viatris Inc,VTRS,buy,2024-09-09,2024-08-02,35,Spouse,11.87,1K-15K
 Ro Khanna,PPG Industries Inc,PPG,buy,2024-09-09,2024-08-02,35,Spouse,123.46,1K-15K
 Ro Khanna,Intuit Inc,INTU,buy,2024-09-09,2024-08-02,35,Spouse,623.92,1K-15K
-Ro Khanna,Las Vegas Sands Corp,LVS,buy,2024-09-09,2024-03-02,188,Spouse,,1K-15K
+Ro Khanna,Las Vegas Sands Corp,LVS,buy,2024-09-09,2024-08-02,35,Spouse,38.06,1K-15K
 Ro Khanna,Ralph Lauren Corp,RL,buy,2024-09-09,2024-08-02,35,Spouse,164.4,1K-15K
 Ro Khanna,Fortive Corp,FTV,buy,2024-09-09,2024-08-02,35,Spouse,68.44,1K-15K
 Ro Khanna,The Dun & Bradstreet Corp,DNB,buy,2024-09-09,2024-08-28,9,Spouse,11.94,1K-15K
@@ -484,7 +484,7 @@ Ro Khanna,Digital Realty Trust Inc,DLR,buy,2024-09-09,2024-08-02,35,Spouse,150.8
 Ro Khanna,KKR & Co Inc,KKR,buy,2024-09-09,2024-08-02,35,Spouse,108.62,1K-15K
 Ro Khanna,Electronic Arts Inc,EA,buy,2024-09-09,2024-08-02,35,Spouse,148.83,1K-15K
 Ro Khanna,Take-Two Interactive Software Inc,TTWO,buy,2024-09-09,2024-08-02,35,Spouse,143.68,1K-15K
-Ro Khanna,CDW Corp,CDW,buy,2024-09-09,2024-03-02,188,Spouse,,1K-15K
+Ro Khanna,CDW Corp,CDW,buy,2024-09-09,2024-08-02,35,Spouse,209.85,1K-15K
 Ro Khanna,Avery Dennison Corp,AVY,buy,2024-09-09,2024-08-02,35,Spouse,210.38,1K-15K
 Ro Khanna,Biogen Inc,BIIB,buy,2024-09-09,2024-08-02,35,Spouse,205.66,1K-15K
 Ro Khanna,Pool Corp,POOL,buy,2024-09-09,2024-08-02,35,Spouse,353.39,1K-15K

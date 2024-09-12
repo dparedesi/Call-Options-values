@@ -1,4 +1,39 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Maria Elvira Salazar,Antero Resources Corporation,AR,buy,2024-09-12,2024-08-02,40,Spouse,26.5,1K-15K
+Mark Green,NGL Energy Partners LP,NGL,sell,2024-09-12,2024-08-28,14,Joint,4.09,50K-100K
+Nancy Pelosi,REOF XXVI LLC,N/A,buy,2024-09-12,2024-08-13,29,Spouse,,250K-500K
+Josh Gottheimer,Abbott Laboratories,ABT,buy,2024-09-12,2024-08-19,23,Joint,111.9,1K-15K
+Josh Gottheimer,Advanced Micro Devices Inc,AMD,sell,2024-09-12,2024-08-06,36,Joint,130.18,1K-15K
+Josh Gottheimer,Advanced Micro Devices Inc,AMD,sell,2024-09-12,2024-08-01,41,Joint,132.54,1K-15K
+Josh Gottheimer,Air Products and Chemicals Inc,APD,sell,2024-09-12,2024-08-30,12,Joint,278.85,1K-15K
+Josh Gottheimer,Apple Inc,AAPL,buy,2024-09-12,2024-08-01,41,Joint,218.36,1K-15K
+Josh Gottheimer,Berkshire Hathaway Inc,BRK/B,buy,2024-09-12,2024-08-30,12,Joint,475.92,1K-15K
+Josh Gottheimer,BioNTech SE,BNTX,sell,2024-09-12,2024-08-30,12,Undisclosed,88.22,1K-15K
+Josh Gottheimer,Booking Holdings Inc,BKNG,sell,2024-09-12,2024-08-02,40,Joint,"3,328.13",1K-15K
+Josh Gottheimer,Chuy's Holdings Inc,CHUY,sell,2024-09-12,2024-08-06,36,Joint,36.99,1K-15K
+Josh Gottheimer,The Coca-Cola Co,KO,buy,2024-09-12,2024-08-02,40,Joint,69.33,1K-15K
+Josh Gottheimer,The Coca-Cola Co,KO,buy,2024-09-12,2024-08-05,37,Joint,68.1,1K-15K
+Josh Gottheimer,Eaton Corp PLC,ETN,sell,2024-09-12,2024-08-30,12,Joint,306.93,1K-15K
+Josh Gottheimer,FIRST WATCH RESTAURA GRO INC,FWRG,buy,2024-09-12,2024-08-06,36,Joint,15.86,1K-15K
+Josh Gottheimer,The Goldman Sachs Group Inc,GS,buy,2024-09-12,2024-08-02,40,Joint,470.64,1K-15K
+Josh Gottheimer,The Goldman Sachs Group Inc,GS,buy,2024-09-12,2024-08-01,41,Joint,500.12,1K-15K
+Josh Gottheimer,Haier Smart Home Co Ltd,HSHCY,sell,2024-09-12,2024-08-08,34,Joint,17.239,1K-15K
+Josh Gottheimer,Jabil Inc,JBL,sell,2024-09-12,2024-08-02,40,Joint,99.62,1K-15K
+Josh Gottheimer,Lowe's Cos Inc,LOW,sell,2024-09-12,2024-08-30,12,Joint,248.5,1K-15K
+Josh Gottheimer,Marriott International Inc,MAR,sell,2024-09-12,2024-08-02,40,Joint,213.67,1K-15K
+Josh Gottheimer,Microsoft Corp,MSFT,buy,2024-09-12,2024-08-12,30,Joint,406.81,15K-50K
+Josh Gottheimer,Microsoft Corp,MSFT,sell,2024-09-12,2024-08-12,30,Joint,,15K-50K
+Josh Gottheimer,Norfolk Southern Corp,NSC,sell,2024-09-12,2024-08-30,12,Joint,256.16,1K-15K
+Josh Gottheimer,Oracle Corp,ORCL,sell,2024-09-12,2024-08-02,40,Joint,133.28,1K-15K
+Josh Gottheimer,ServiceNow Inc,NOW,buy,2024-09-12,2024-08-05,37,Joint,781.27,1K-15K
+Josh Gottheimer,Shopify Inc,SHOP,sell,2024-09-12,2024-08-01,41,Joint,58.17,1K-15K
+Josh Gottheimer,Spotify Technology S.A,SPOT,buy,2024-09-12,2024-08-05,37,Joint,324.03,1K-15K
+Josh Gottheimer,Starbucks Corp,SBUX,buy,2024-09-12,2024-08-14,28,Joint,93.9,1K-15K
+Josh Gottheimer,Synopsys Inc,SNPS,sell,2024-09-12,2024-08-30,12,Joint,519.58,1K-15K
+Josh Gottheimer,Tandem Diabetes Care Inc,TNDM,buy,2024-09-12,2024-08-05,37,Joint,40.79,1K-15K
+Josh Gottheimer,Tesla Inc,TSLA,sell,2024-09-12,2024-08-28,14,Joint,205.75,1K-15K
+Josh Gottheimer,Texas Instruments Inc,TXN,sell,2024-09-12,2024-08-30,12,Joint,214.34,1K-15K
+Josh Gottheimer,Uber Technologies Inc,UBER,sell,2024-09-12,2024-08-01,41,Joint,61.02,1K-15K
 Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-11,2024-09-10,0,Undisclosed,,50K-100K
 Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-11,2024-09-05,5,Undisclosed,,1K-15K
 Max Miller,RAC OPPORTUNITY FUND II LP,N/A,buy,2024-09-11,2024-09-10,0,Undisclosed,,1K-15K
@@ -464,38 +499,3 @@ Ro Khanna,eBay Inc,EBAY,buy,2024-09-09,2024-08-02,35,Spouse,56.2,1K-15K
 Ro Khanna,Freeport-McMoRan Inc,FCX,buy,2024-09-09,2024-08-02,35,Spouse,41.97,1K-15K
 Ro Khanna,Viatris Inc,VTRS,buy,2024-09-09,2024-08-02,35,Spouse,11.87,1K-15K
 Ro Khanna,PPG Industries Inc,PPG,buy,2024-09-09,2024-08-02,35,Spouse,123.46,1K-15K
-Ro Khanna,Intuit Inc,INTU,buy,2024-09-09,2024-08-02,35,Spouse,623.92,1K-15K
-Ro Khanna,Las Vegas Sands Corp,LVS,buy,2024-09-09,2024-08-02,35,Spouse,38.06,1K-15K
-Ro Khanna,Ralph Lauren Corp,RL,buy,2024-09-09,2024-08-02,35,Spouse,164.4,1K-15K
-Ro Khanna,Fortive Corp,FTV,buy,2024-09-09,2024-08-02,35,Spouse,68.44,1K-15K
-Ro Khanna,The Dun & Bradstreet Corp,DNB,buy,2024-09-09,2024-08-28,9,Spouse,11.94,1K-15K
-Ro Khanna,Lowe's Cos Inc,LOW,buy,2024-09-09,2024-08-02,35,Spouse,240.42,1K-15K
-Ro Khanna,Iqvia Holdings Inc,IQV,buy,2024-09-09,2024-08-02,35,Spouse,241.78,1K-15K
-Ro Khanna,AKAMAI TECHNOLOGIES Inc,AKAM,buy,2024-09-09,2024-08-02,35,Spouse,94.56,1K-15K
-Ro Khanna,Ecolab Inc,ECL,buy,2024-09-09,2024-08-02,35,Spouse,237.2,1K-15K
-Ro Khanna,NXP Semiconductors NV,NXPI,buy,2024-09-09,2024-08-02,35,Spouse,237.75,1K-15K
-Ro Khanna,Etsy Inc,ETSY,buy,2024-09-09,2024-08-02,35,Spouse,59.35,1K-15K
-Ro Khanna,Dow Inc,DOW,buy,2024-09-09,2024-08-02,35,Spouse,52.01,1K-15K
-Ro Khanna,ServiceNow Inc,NOW,buy,2024-09-09,2024-08-02,35,Spouse,790.64,1K-15K
-Ro Khanna,Copart Inc,CPRT,buy,2024-09-09,2024-08-02,35,Spouse,51.73,1K-15K
-Ro Khanna,Westinghouse Air Brake Technologies Corp,WAB,buy,2024-09-09,2024-08-02,35,Spouse,153.14,1K-15K
-Ro Khanna,Micron Technology Inc,MU,buy,2024-09-09,2024-08-06,31,Spouse,89.0,1K-15K
-Ro Khanna,Digital Realty Trust Inc,DLR,buy,2024-09-09,2024-08-02,35,Spouse,150.84,1K-15K
-Ro Khanna,KKR & Co Inc,KKR,buy,2024-09-09,2024-08-02,35,Spouse,108.62,1K-15K
-Ro Khanna,Electronic Arts Inc,EA,buy,2024-09-09,2024-08-02,35,Spouse,148.83,1K-15K
-Ro Khanna,Take-Two Interactive Software Inc,TTWO,buy,2024-09-09,2024-08-02,35,Spouse,143.68,1K-15K
-Ro Khanna,CDW Corp,CDW,buy,2024-09-09,2024-08-02,35,Spouse,209.85,1K-15K
-Ro Khanna,Avery Dennison Corp,AVY,buy,2024-09-09,2024-08-02,35,Spouse,210.38,1K-15K
-Ro Khanna,Biogen Inc,BIIB,buy,2024-09-09,2024-08-02,35,Spouse,205.66,1K-15K
-Ro Khanna,Pool Corp,POOL,buy,2024-09-09,2024-08-02,35,Spouse,353.39,1K-15K
-Ro Khanna,KENVUE INC,KVUE,buy,2024-09-09,2024-08-02,35,Spouse,18.82,1K-15K
-Ro Khanna,Cadence Design Systems Inc,CDNS,buy,2024-09-09,2024-08-02,35,Spouse,249.63,1K-15K
-Ro Khanna,Elanco Animal Health Inc,ELAN,buy,2024-09-09,2024-08-09,28,Spouse,13.04,1K-15K
-Ro Khanna,NCR Corp,NCR,buy,2024-09-09,2024-08-05,32,Spouse,12.5,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-08,29,Spouse,,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-08,29,Spouse,,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-20,17,Spouse,,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-30,7,Spouse,,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-14,23,Spouse,,1K-15K
-Ro Khanna,CBOE MINI SPX INDEX,XSP,sell,2024-09-09,2024-08-26,11,Spouse,,1K-15K
-Ro Khanna,Amgen Inc,AMGN,sell,2024-09-09,2024-08-02,35,Spouse,333.99,15K-50K

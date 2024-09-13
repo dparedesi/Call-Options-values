@@ -1,4 +1,21 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Tommy Tuberville,Apple Inc,AAPL,sell,2024-09-13,2024-08-26,18,Self,227.18,15K-50K
+Tommy Tuberville,Medtronic PLC,MDT,sell,2024-09-13,2024-08-26,18,Joint,89.34,15K-50K
+Tommy Tuberville,CVS Health Corp,CVS,sell,2024-09-13,2024-08-26,18,Joint,58.7,1K-15K
+Tommy Tuberville,United Parcel Service Inc,UPS,sell,2024-09-13,2024-08-26,18,Joint,129.26,15K-50K
+Tommy Tuberville,EATON VANCE FLOATING RATE FUND,EIBLX,sell,2024-09-13,2024-08-26,18,Self,,50K-100K
+Tommy Tuberville,AMERICAN FUNDS THE BOND FUND OF AMERICA,ABNDX,buy,2024-09-13,2024-08-26,18,Self,,50K-100K
+Pete Sessions,Altria Group Inc,MO,sell,2024-09-13,2024-09-10,2,Spouse,54.08,1K-15K
+Pete Sessions,Microsoft Corp,MSFT,buy,2024-09-13,2024-09-09,3,Spouse,405.72,1K-15K
+Pete Sessions,NVIDIA Corporation,NVDA,buy,2024-09-13,2024-09-10,2,Spouse,108.1,1K-15K
+Scott Peters,CALIFORNIA STATE UNIVERSITY,N/A,buy,2024-09-13,2024-08-29,14,Spouse,,250K-500K
+Scott Peters,CERRITOS COMMUNITY COLLEGE DISTRICT LOS ANGELES COUNTY CALIFORNIA,N/A,sell,2024-09-13,2024-08-01,42,Spouse,,50K-100K
+Scott Peters,FOOTHILL-DE ANZA COMMUNITY COLLEGE DISTRICT,N/A,buy,2024-09-13,2024-08-15,28,Spouse,,500K-1M
+Scott Peters,COUNTY OF LOS ANGELES,N/A,buy,2024-09-13,2024-08-07,36,Spouse,,50K-100K
+Scott Peters,COUNTY OF SAN DIEGO,N/A,buy,2024-09-13,2024-08-08,35,Spouse,,250K-500K
+Scott Peters,SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT,N/A,sell,2024-09-13,2024-08-01,42,Spouse,,250K-500K
+Scott Peters,SAN JUAN UNIFIED SCHOOL DISTRICT,N/A,buy,2024-09-13,2024-08-20,23,Spouse,,100K-250K
+Scott Peters,US TREASURY BILLS,N/A,sell,2024-09-13,2024-08-08,35,Undisclosed,,500K-1M
 Maria Elvira Salazar,Antero Resources Corporation,AR,buy,2024-09-12,2024-08-02,40,Spouse,26.5,1K-15K
 Mark Green,NGL Energy Partners LP,NGL,sell,2024-09-12,2024-08-28,14,Joint,4.09,50K-100K
 Nancy Pelosi,REOF XXVI LLC,N/A,buy,2024-09-12,2024-08-13,29,Spouse,,250K-500K
@@ -482,20 +499,3 @@ Ro Khanna,ANSYS Inc,ANSS,buy,2024-09-09,2024-08-02,35,Spouse,302.22,1K-15K
 Ro Khanna,T-Mobile US Inc,TMUS,buy,2024-09-09,2024-08-02,35,Spouse,188.76,1K-15K
 Ro Khanna,Centene Corp,CNC,buy,2024-09-09,2024-08-02,35,Spouse,78.09,1K-15K
 Ro Khanna,Airbnb Inc,ABNB,buy,2024-09-09,2024-08-02,35,Spouse,128.23,1K-15K
-Ro Khanna,MSCI Inc,MSCI,buy,2024-09-09,2024-08-02,35,Spouse,539.85,1K-15K
-Ro Khanna,D.R. Horton Inc,DHI,buy,2024-09-09,2024-08-02,35,Spouse,177.62,1K-15K
-Ro Khanna,VERISK ANALYTICS Inc,VRSK,buy,2024-09-09,2024-08-02,35,Spouse,266.66,1K-15K
-Ro Khanna,Vulcan Materials Co,VMC,buy,2024-09-09,2024-08-02,35,Spouse,266.34,1K-15K
-Ro Khanna,Keurig Dr Pepper Inc,KDP,buy,2024-09-09,2024-08-02,35,Spouse,35.07,1K-15K
-Ro Khanna,Ingersoll Rand Inc,IR,buy,2024-09-09,2024-08-02,35,Spouse,87.42,1K-15K
-Ro Khanna,Comcast Corp,CMCSA,buy,2024-09-09,2024-08-02,35,Spouse,39.9,1K-15K
-Ro Khanna,Lennar Corp,LEN,buy,2024-09-09,2024-08-02,35,Spouse,174.46,1K-15K
-Ro Khanna,PTC Inc,PTC,buy,2024-09-09,2024-08-02,35,Spouse,172.05,1K-15K
-Ro Khanna,CF Industries Holdings Inc,CF,buy,2024-09-09,2024-08-02,35,Spouse,73.22,1K-15K
-Ro Khanna,Hasbro Inc,HAS,buy,2024-09-09,2024-08-02,35,Spouse,63.46,1K-15K
-Ro Khanna,Cardinal Health Inc,CAH,buy,2024-09-09,2024-08-02,35,Spouse,101.6,1K-15K
-Ro Khanna,The Kraft Heinz Co,KHC,buy,2024-09-09,2024-08-02,35,Spouse,,1K-15K
-Ro Khanna,eBay Inc,EBAY,buy,2024-09-09,2024-08-02,35,Spouse,56.2,1K-15K
-Ro Khanna,Freeport-McMoRan Inc,FCX,buy,2024-09-09,2024-08-02,35,Spouse,41.97,1K-15K
-Ro Khanna,Viatris Inc,VTRS,buy,2024-09-09,2024-08-02,35,Spouse,11.87,1K-15K
-Ro Khanna,PPG Industries Inc,PPG,buy,2024-09-09,2024-08-02,35,Spouse,123.46,1K-15K

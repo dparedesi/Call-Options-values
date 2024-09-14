@@ -1,4 +1,8 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Susan Collins,Globe Life Inc,GL,sell,2024-09-14,2024-08-05,39,Spouse,88.63,15K-50K
+Susan Collins,MAINE HEALTH AND HIGHER EDUCATIONAL FACILITIES AUTHORITY,N/A,buy,2024-09-14,2024-08-21,23,Spouse,,50K-100K
+Susan Collins,Wells Fargo & Co,WFC,buy,2024-09-14,2024-08-06,38,Spouse,,15K-50K
+Susan Collins,MAINE HEALTH AND HIGHER EDUCATIONAL FACILITIES AUTHORITY,N/A,buy,2024-09-14,2024-08-05,39,Spouse,,15K-50K
 Tommy Tuberville,Apple Inc,AAPL,sell,2024-09-13,2024-08-26,18,Self,227.18,15K-50K
 Tommy Tuberville,Medtronic PLC,MDT,sell,2024-09-13,2024-08-26,18,Joint,89.34,15K-50K
 Tommy Tuberville,CVS Health Corp,CVS,sell,2024-09-13,2024-08-26,18,Joint,58.7,1K-15K
@@ -495,7 +499,3 @@ Ro Khanna,The Dun & Bradstreet Corp,DNB,buy,2024-09-09,2024-08-19,18,Spouse,11.9
 Ro Khanna,Molina Healthcare Inc,MOH,buy,2024-09-09,2024-08-02,35,Spouse,350.9,1K-15K
 Ro Khanna,Visa Inc,V,buy,2024-09-09,2024-08-02,35,Spouse,266.58,1K-15K
 Ro Khanna,AUTODESK Inc,ADSK,buy,2024-09-09,2024-08-02,35,Spouse,231.37,1K-15K
-Ro Khanna,ANSYS Inc,ANSS,buy,2024-09-09,2024-08-02,35,Spouse,302.22,1K-15K
-Ro Khanna,T-Mobile US Inc,TMUS,buy,2024-09-09,2024-08-02,35,Spouse,188.76,1K-15K
-Ro Khanna,Centene Corp,CNC,buy,2024-09-09,2024-08-02,35,Spouse,78.09,1K-15K
-Ro Khanna,Airbnb Inc,ABNB,buy,2024-09-09,2024-08-02,35,Spouse,128.23,1K-15K

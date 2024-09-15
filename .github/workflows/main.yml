@@ -38,11 +38,25 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit CSV files and row count
+    - name: Check for changes and commit CSV files
       run: |
-        git add politicians_trades.csv top_100_stock_and_options_data.csv
-        git commit -m "Daily update CSV files"
-        git push origin HEAD:${{ github.ref }}
+        changes_made=false
+
+        for file in politicians_trades.csv top_100_stock_and_options_data.csv; do
+          if git diff --exit-code "$file"; then
+            echo "No changes in $file"
+          else
+            git add "$file"
+            changes_made=true
+          fi
+        done
+
+        if [ "$changes_made" = true ]; then
+          git commit -m "Daily update CSV files"
+          git push origin HEAD:${{ github.ref }}
+        else
+          echo "No changes in any CSV files"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

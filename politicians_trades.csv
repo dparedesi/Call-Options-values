@@ -1,4 +1,7 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Carol Miller,Warner Bros Discover Inc,WBD,sell,2024-09-16,2024-08-12,32,Undisclosed,6.71,1K-15K
+Laurel Lee,Apple Inc,AAPL,buy,2024-09-16,2024-07-31,45,Spouse,,15K-50K
+Laurel Lee,JPMorgan Chase & Co,JPM,buy,2024-09-16,2024-09-10,4,Spouse,205.56,50K-100K
 Susan Collins,Globe Life Inc,GL,sell,2024-09-14,2024-08-05,39,Spouse,88.63,15K-50K
 Susan Collins,MAINE HEALTH AND HIGHER EDUCATIONAL FACILITIES AUTHORITY,N/A,buy,2024-09-14,2024-08-21,23,Spouse,,50K-100K
 Susan Collins,Wells Fargo & Co,WFC,buy,2024-09-14,2024-08-06,38,Spouse,,15K-50K
@@ -496,6 +499,3 @@ Ro Khanna,Costco Wholesale Corp,COST,buy,2024-09-09,2024-08-02,35,Spouse,822.08,
 Ro Khanna,NCR Corp,NCR,buy,2024-09-09,2024-08-06,31,Spouse,11.7,1K-15K
 Ro Khanna,The Dun & Bradstreet Corp,DNB,buy,2024-09-09,2024-08-21,16,Spouse,11.99,1K-15K
 Ro Khanna,The Dun & Bradstreet Corp,DNB,buy,2024-09-09,2024-08-19,18,Spouse,11.96,1K-15K
-Ro Khanna,Molina Healthcare Inc,MOH,buy,2024-09-09,2024-08-02,35,Spouse,350.9,1K-15K
-Ro Khanna,Visa Inc,V,buy,2024-09-09,2024-08-02,35,Spouse,266.58,1K-15K
-Ro Khanna,AUTODESK Inc,ADSK,buy,2024-09-09,2024-08-02,35,Spouse,231.37,1K-15K

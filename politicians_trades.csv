@@ -1,4 +1,5 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Pete Sessions,NVIDIA Corporation,NVDA,buy,2024-09-17,2024-09-16,0,Spouse,116.78,1K-15K
 Mark Warner,euNetworks Group Ltd,EUN,sell,2024-09-17,2024-08-29,18,Self,,1M-5M
 Mitch McConnell,Wells Fargo & Co,WFC,buy,2024-09-16,2024-09-01,15,Spouse,,1K-15K
 Carol Miller,Warner Bros Discover Inc,WBD,sell,2024-09-16,2024-08-12,32,Undisclosed,6.71,1K-15K
@@ -498,4 +499,3 @@ Ro Khanna,NCR Corp,NCR,buy,2024-09-09,2024-08-08,29,Spouse,11.31,1K-15K
 Ro Khanna,Deckers Outdoor Corp,DECK,buy,2024-09-09,2024-08-02,35,Spouse,865.33,1K-15K
 Ro Khanna,The Walt Disney Co,DIS,buy,2024-09-09,2024-08-02,35,Spouse,89.57,1K-15K
 Ro Khanna,Costco Wholesale Corp,COST,buy,2024-09-09,2024-08-02,35,Spouse,822.08,1K-15K
-Ro Khanna,NCR Corp,NCR,buy,2024-09-09,2024-08-06,31,Spouse,11.7,1K-15K

@@ -1,4 +1,8 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Markwayne Mullin,Edwards Lifesciences Corp,EW,sell,2024-09-20,2024-08-20,30,Joint,69.38,15K-50K
+Markwayne Mullin,Iqvia Holdings Inc,IQV,buy,2024-09-20,2024-08-20,30,Joint,246.94,15K-50K
+Markwayne Mullin,Starbucks Corp,SBUX,sell,2024-09-20,2024-08-20,30,Joint,93.01,15K-50K
+Markwayne Mullin,The TJX Companies Inc,TJX,buy,2024-09-20,2024-08-20,30,Joint,113.31,15K-50K
 John Hickenlooper,Liberty Media Corp Braves Group,BATRA,sell,2024-09-19,2024-08-30,20,Spouse,42.88,50K-100K
 John Hickenlooper,Liberty Media Corp Braves Group,BATRA,sell,2024-09-19,2024-08-28,22,Spouse,43.97,250K-500K
 John Hickenlooper,Liberty Media Corp Braves Group,BATRA,buy,2024-09-19,2024-08-28,22,Spouse,43.97,100K-250K
@@ -495,7 +499,3 @@ Ro Khanna,Cadence Design Systems Inc,CDNS,sell,2024-09-09,2024-08-05,32,Child,24
 Ro Khanna,Morgan Stanley,MS,sell,2024-09-09,2024-08-05,32,Child,92.07,1K-15K
 Ro Khanna,Intel Corp,INTC,sell,2024-09-09,2024-08-05,32,Child,20.11,1K-15K
 Ro Khanna,Synopsys Inc,SNPS,sell,2024-09-09,2024-08-05,32,Child,487.84,1K-15K
-Ro Khanna,Fortive Corp,FTV,sell,2024-09-09,2024-08-05,32,Child,67.64,1K-15K
-Ro Khanna,Zimmer Biomet Holdings Inc,ZBH,sell,2024-09-09,2024-08-05,32,Child,107.04,1K-15K
-Ro Khanna,Principal Financial Group Inc,PFG,sell,2024-09-09,2024-08-05,32,Child,72.94,1K-15K
-Ro Khanna,salesforce.com Inc,CRM,sell,2024-09-09,2024-08-05,32,Child,239.01,1K-15K

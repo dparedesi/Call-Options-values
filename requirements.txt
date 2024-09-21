@@ -1,5 +1,2 @@
-yfinance
 pandas
-requests
-beautifulsoup4
-python-dateutil
+aiohttp

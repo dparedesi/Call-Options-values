@@ -3,6 +3,10 @@ import pandas as pd
 import os
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+import time
+import requests
 
 # Set up logging
 log_level = os.environ.get('LOG_LEVEL', 'INFO').upper()
@@ -19,14 +23,25 @@ top_100_tickers = [
     "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
 ]
 
+def create_session():
+    session = requests.Session()
+    retries = Retry(total=5, backoff_factor=0.1, status_forcelist=[500, 502, 503, 504])
+    session.mount('https://', HTTPAdapter(max_retries=retries, pool_connections=100, pool_maxsize=100))
+    return session
+
 def fetch_batch_data(tickers):
     logger.info('Starting...')
-    return yf.Tickers(tickers)
+    session = create_session()
+    return yf.Tickers(tickers, session=session)
 
 def process_stock_data(ticker, yf_data, max_common_date):
     try:
         stock = yf_data.tickers[ticker]
         stock_price = stock.history(period='1d')['Close'].iloc[-1]
+        
+        # Add a delay between API calls
+        time.sleep(0.1)
+        
         company_info = stock.info
         
         company_description = company_info.get('longBusinessSummary', 'Description not available')

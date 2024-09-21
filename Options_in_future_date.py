@@ -44,19 +44,19 @@ common_dates = set.intersection(*all_expiration_dates)
 if len(common_dates) > 0:
     max_common_date = max(common_dates)
 else:
-    # If no common date, find the date that's available for at least 90% of tickers
+    # If no common date, find the date that's available for at least 80% of tickers
     date_counts = {}
     for dates in all_expiration_dates:
         for date in dates:
             date_counts[date] = date_counts.get(date, 0) + 1
 
-    threshold = 0.9 * len(top_100_tickers)
+    threshold = 0.8 * len(top_100_tickers)
     eligible_dates = [date for date, count in date_counts.items() if count >= threshold]
 
     if eligible_dates:
         max_common_date = max(eligible_dates)
     else:
-        print("No date is available for at least 90% of tickers. Using individual max dates.")
+        print("No date is available for at least 80% of tickers. Using individual max dates.")
         max_common_date = None
 
 # Loop through each ticker

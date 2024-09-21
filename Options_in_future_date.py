@@ -1,8 +1,7 @@
+import yfinance as yf
 import pandas as pd
 import os
-import asyncio
-import aiohttp
-from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # List of top 100 tickers (sample list of tickers, you can adjust)
 top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD", "PLTR", "AVGO",
@@ -27,25 +26,20 @@ top_100_tickers = [
     "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
 ]
 
-async def fetch_stock_data(session, ticker):
+def fetch_stock_data(ticker, max_common_date):
     try:
-        # Fetch stock data
-        async with session.get(f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/{ticker}?modules=summaryDetail,price,defaultKeyStatistics,assetProfile") as response:
-            data = await response.json()
-            quote = data['quoteSummary']['result'][0]
-
-        stock_price = quote['price']['regularMarketPrice']['raw']
-        company_info = quote['assetProfile']
-        summary_detail = quote['summaryDetail']
+        stock = yf.Ticker(ticker)
+        stock_price = stock.history(period='1d')['Close'].iloc[-1]
+        company_info = stock.info
         
         company_description = company_info.get('longBusinessSummary', 'Description not available')
-        pe_ratio = summary_detail.get('trailingPE', {}).get('raw', 'N/A')
-        dividend_yield = summary_detail.get('dividendYield', {}).get('raw', 'N/A')
+        pe_ratio = company_info.get('trailingPE', 'N/A')
+        dividend_yield = company_info.get('dividendYield', 'N/A')
         if dividend_yield != 'N/A':
             dividend_yield = f"{dividend_yield:.2%}"
         
-        forward_pe = summary_detail.get('forwardPE', {}).get('raw', 'N/A')
-        market_cap = summary_detail.get('marketCap', {}).get('raw', 'N/A')
+        forward_pe = company_info.get('forwardPE', 'N/A')
+        market_cap = company_info.get('marketCap', 'N/A')
         if market_cap != 'N/A':
             if market_cap >= 1_000_000_000:
                 market_cap = f"{market_cap / 1_000_000_000:.1f} B"
@@ -53,8 +47,8 @@ async def fetch_stock_data(session, ticker):
                 market_cap = f"{market_cap / 1_000_000:.1f} M"
             else:
                 market_cap = f"{market_cap:,}"
-        fifty_two_week_high = summary_detail.get('fiftyTwoWeekHigh', {}).get('raw', 'N/A')
-        one_year_target = quote['defaultKeyStatistics'].get('targetMeanPrice', {}).get('raw', 'N/A')
+        fifty_two_week_high = company_info.get('fiftyTwoWeekHigh', 'N/A')
+        one_year_target = company_info.get('targetMeanPrice', 'N/A')
 
         if fifty_two_week_high != 'N/A' and stock_price:
             fifty_two_week_upside = (fifty_two_week_high / stock_price) - 1
@@ -68,16 +62,14 @@ async def fetch_stock_data(session, ticker):
         else:
             one_year_target_upside_formatted = 'N/A'
 
-        # Fetch options data
-        async with session.get(f"https://query2.finance.yahoo.com/v7/finance/options/{ticker}") as response:
-            options_data = await response.json()
-            expiration_dates = options_data['optionChain']['result'][0]['expirationDates']
-            
-        expiration_date = max(expiration_dates)
+        expiration_dates = stock.options
+        if max_common_date and max_common_date in expiration_dates:
+            expiration_date = max_common_date
+        else:
+            expiration_date = max(expiration_dates)
         
-        async with session.get(f"https://query2.finance.yahoo.com/v7/finance/options/{ticker}?date={expiration_date}") as response:
-            option_chain_data = await response.json()
-            calls = pd.DataFrame(option_chain_data['optionChain']['result'][0]['options'][0]['calls'])
+        option_chain = stock.option_chain(expiration_date)
+        calls = option_chain.calls
         
         calls['diff'] = abs(calls['strike'] - stock_price)
         closest_call = calls.loc[calls['diff'].idxmin()]
@@ -92,7 +84,7 @@ async def fetch_stock_data(session, ticker):
             'Stock Price': stock_price,
             'Call Contract Price': closest_call['lastPrice'],
             'Strike Price': closest_call['strike'],
-            'Expiration Date': datetime.fromtimestamp(expiration_date).strftime('%Y-%m-%d'),
+            'Expiration Date': expiration_date,
             'Breakeven increase': breakeven_increase,
             'Company Description': company_description,
             'P/E Ratio': pe_ratio,
@@ -109,23 +101,57 @@ async def fetch_stock_data(session, ticker):
         print(f"\nError fetching data for {ticker}: {e}")
         return None
 
-async def main():
-    async with aiohttp.ClientSession() as session:
-        tasks = [fetch_stock_data(session, ticker) for ticker in top_100_tickers]
-        results = await asyncio.gather(*tasks)
-        
-    data = [result for result in results if result is not None]
+# Find the maximum common expiration date
+all_expiration_dates = []
+for ticker in top_100_tickers:
+    try:
+        stock = yf.Ticker(ticker)
+        all_expiration_dates.append(set(stock.options))
+    except Exception as e:
+        print(f"Error fetching expiration dates for {ticker}: {e}")
+
+common_dates = set.intersection(*all_expiration_dates)
+if len(common_dates) > 0:
+    max_common_date = max(common_dates)
+else:
+    date_counts = {}
+    for dates in all_expiration_dates:
+        for date in dates:
+            date_counts[date] = date_counts.get(date, 0) + 1
+
+    threshold = 0.8 * len(top_100_tickers)
+    eligible_dates = [date for date, count in date_counts.items() if count >= threshold]
+
+    if eligible_dates:
+        max_common_date = max(eligible_dates)
+    else:
+        print("No date is available for at least 80% of tickers. Using individual max dates.")
+        max_common_date = None
+
+# Use ThreadPoolExecutor for parallel processing
+with ThreadPoolExecutor(max_workers=10) as executor:
+    futures = [executor.submit(fetch_stock_data, ticker, max_common_date) for ticker in top_100_tickers]
     
-    # Convert the list to a DataFrame
-    df = pd.DataFrame(data)
+    data = []
+    for future in as_completed(futures):
+        result = future.result()
+        if result:
+            data.append(result)
+        
+        # Calculate and print progress
+        progress = (len(data) / len(top_100_tickers)) * 100
+        print(f"Loading... {progress:.2f}% completed", end='\r')
 
-    # Sort the DataFrame by 'Breakeven increase' in ascending order
-    df = df.sort_values('Breakeven increase', ascending=True)
+# Print a newline to move to the next line after the progress indicator
+print()
 
-    # Save the sorted data to a CSV file
-    file_path = os.path.join(os.getcwd(), 'top_100_stock_and_options_data.csv')
-    df.to_csv(file_path, index=False, encoding='utf-8')
-    print(f"File saved to: {file_path}")
+# Convert the list to a DataFrame
+df = pd.DataFrame(data)
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# Sort the DataFrame by 'Breakeven increase' in ascending order
+df = df.sort_values('Breakeven increase', ascending=True)
+
+# Save the sorted data to a CSV file
+file_path = os.path.join(os.getcwd(), 'top_100_stock_and_options_data.csv')
+df.to_csv(file_path, index=False, encoding='utf-8')
+print(f"File saved to: {file_path}")

@@ -1,2 +1,2 @@
+yfinance
 pandas
-aiohttp

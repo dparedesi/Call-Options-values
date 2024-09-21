@@ -19,22 +19,14 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Cache dependencies
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run Options_in_future_date.py script
-      run: python Options_in_future_date.py
-
-    - name: Run Politicians_trades.py script
-      run: python Politicians_trades.py
+    - name: Run Python scripts in parallel
+      run: |
+        python Options_in_future_date.py &
+        python Politicians_trades.py &
+        wait
 
     - name: Configure Git to use GitHub token
       run: |

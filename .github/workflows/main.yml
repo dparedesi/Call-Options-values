@@ -19,22 +19,27 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt || true
+      run: pip install -r requirements.txt
 
     - name: Run Options_in_future_date.py script
-      run: |
-        python Options_in_future_date.py
+      run: python Options_in_future_date.py
 
     - name: Run Politicians_trades.py script
-      run: |
-        python Politicians_trades.py
+      run: python Politicians_trades.py
 
     - name: Configure Git to use GitHub token
       run: |
         git config --global user.email "dparedesi@uni.pe"
-        git config --global user.name "Daniel"
+        git config --global user.name "Github Actions"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

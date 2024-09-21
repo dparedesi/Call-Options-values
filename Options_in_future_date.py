@@ -17,11 +17,12 @@ top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD"
 
 # List of interest tickers
 top_100_tickers = [
-    "ASTS", "FUBO", "RKLB", "UPST", "CVNA", "RUN", "SMCI", "CHWY", "NVDA",
-    "HOOD", "DKNG", "CRWD", "PLTR", "SHOP", "CCJ", "CCL", "ON", "NU", "UBER",
-    "TSM", "AVGO", "META", "NFLX", "CMG", "ZM", "AMZN", "GOOGL", "TGT",
-    "MSFT", "AAPL", "V", "MA", "WMT", "JPM", "T", "KO", "ENPH", "SEDG",
-    "UEC", "TMUS","AFRM"
+    "AAPL", "ABEV", "AMZN", "ASTS", "AVGO", "AXP", "AXON", "BAP", "BBAR",
+    "C", "CAT", "CHWY", "CMG", "COST", "CRWD", "E", "ENIC", "ENPH", "ET",
+    "F", "GGAL", "GOOGL", "HOOD", "IBM", "JPM", "KMB", "KO", "KSPI", "KT",
+    "LLOY", "MA", "META", "MSFT", "NFLX", "NVO", "NU", "NVDA", "PLTR", "PM",
+    "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "T", "TARGET", "TLK", "TM",
+    "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
 ]
 
 # Initialize an empty list to hold the data

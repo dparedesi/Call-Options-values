@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="New tests">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-    </list>
+    <list default="true" id="febc4dd0-b763-438d-adbb-6a604a6fbf3f" name="Changes" comment="Handling error" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -357,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726389094763</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Handling error">
+      <created>1726389474557</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1726389474557</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -376,7 +381,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update beautifulsoup4" />
     <MESSAGE value="update name of politicians trades.py" />
     <MESSAGE value="update name of politicians_trades.py" />
     <MESSAGE value="Updated version of your workflow with a check to list files after running the Python scripts:" />
@@ -401,6 +405,7 @@
     <MESSAGE value="added AFRM" />
     <MESSAGE value="Run it every 6hrs" />
     <MESSAGE value="New tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="New tests" />
+    <MESSAGE value="Handling error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling error" />
   </component>
 </project>

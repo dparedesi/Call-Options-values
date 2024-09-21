@@ -18,8 +18,8 @@ top_100_tickers = [
     "AAPL", "ABEV", "AMZN", "ASTS", "AVGO", "AXP", "AXON", "BAP", "BBAR",
     "C", "CAT", "CHWY", "CMG", "COST", "CRWD", "E", "ENIC", "ENPH", "ET",
     "F", "GGAL", "GOOGL", "HOOD", "IBM", "JPM", "KMB", "KO", "KSPI", "KT",
-    "LLOY", "MA", "META", "MSFT", "NFLX", "NVO", "NU", "NVDA", "PLTR", "PM",
-    "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "T", "TARGET", "TLK", "TM",
+    "LYG", "MA", "META", "MSFT", "NFLX", "NVO", "NU", "NVDA", "PLTR", "PM",
+    "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "T", "TGT", "TLK", "TM",
     "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
 ]
 

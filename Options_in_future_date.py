@@ -1,20 +1,13 @@
 import yfinance as yf
 import pandas as pd
 import os
+import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# List of top 100 tickers (sample list of tickers, you can adjust)
-top_100_tickers = ["GOOGL", "AAPL", "AMZN", "NVDA", "NU", "ASTS", "RKLB", "CRWD", "PLTR", "AVGO",
-                   "PDD", "INTC", "MNTS", "MSTR", "TSLA", "AMD", "MARA", "META", "PTON", "V",
-                   "MA", "BABA", "SOFI", "SMCI", "RIVN", "MU", "AMC", "MSFT", "LCID", "SNOW",
-                   "BAC", "COIN", "CAVA", "F", "HOOD", "FCX", "RDFN", "RIOT", "PFE",
-                   "GME", "C", "CLSK", "OXY", "SIRI", "CCL", "PYPL", "SBUX", "ROKU", "CHPT",
-                   "UPST", "GM", "LUMN", "ZM", "GLNG", "AFRM", "JD", "TSM", "DKNG",
-                   "WBD", "XOM", "DIS", "NKE", "WMT", "UBER", "CCJ", "T", "BA", "ARM", "JPM",
-                   "CLOV", "PBR", "AHCO", "SNAP", "CSCO", "RILY", "AAL", "NFLX", "TGT", "CVNA",
-                   "MMM", "CHWY", "WDAY", "WFC", "FUBO", "CMG", "GOLD", "X", "DAL", "BILI",
-                   "CELH", "WBA", "PARA", "AAP", "SHOP", "RUN", "LUV", "GS",
-                   "KO", "SQ", "DELL", "ON", "ENPH", "SEDG", "UEC", "TMUS"]
+# Set up logging
+log_level = os.environ.get('LOG_LEVEL', 'INFO').upper()
+logging.basicConfig(level=getattr(logging, log_level), format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 # List of interest tickers
 top_100_tickers = [
@@ -26,9 +19,13 @@ top_100_tickers = [
     "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
 ]
 
-def fetch_stock_data(ticker, max_common_date):
+def fetch_batch_data(tickers):
+    logger.info('Starting...')
+    return yf.Tickers(tickers)
+
+def process_stock_data(ticker, yf_data, max_common_date):
     try:
-        stock = yf.Ticker(ticker)
+        stock = yf_data.tickers[ticker]
         stock_price = stock.history(period='1d')['Close'].iloc[-1]
         company_info = stock.info
         
@@ -98,17 +95,28 @@ def fetch_stock_data(ticker, max_common_date):
             'Attractiveness': attractiveness
         }
     except Exception as e:
-        print(f"\nError fetching data for {ticker}: {e}")
+        logger.error(f"Error processing data for {ticker}: {e}")
         return None
+
+# Fetch all data in a single API call
+yf_data = fetch_batch_data(top_100_tickers)
+logger.info('Data fetched in batch')
+
+def fetch_expiration_dates(ticker):
+    try:
+        return set(yf_data.tickers[ticker].options)
+    except Exception as e:
+        logger.error(f"Error fetching expiration dates for {ticker}: {e}")
+        return set()
 
 # Find the maximum common expiration date
 all_expiration_dates = []
-for ticker in top_100_tickers:
-    try:
-        stock = yf.Ticker(ticker)
-        all_expiration_dates.append(set(stock.options))
-    except Exception as e:
-        print(f"Error fetching expiration dates for {ticker}: {e}")
+with ThreadPoolExecutor(max_workers=20) as executor:
+    futures = {executor.submit(fetch_expiration_dates, ticker): ticker for ticker in top_100_tickers}
+    for future in as_completed(futures):
+        all_expiration_dates.append(future.result())
+
+logger.info('Extracted expiration dates')
 
 common_dates = set.intersection(*all_expiration_dates)
 if len(common_dates) > 0:
@@ -125,33 +133,33 @@ else:
     if eligible_dates:
         max_common_date = max(eligible_dates)
     else:
-        print("No date is available for at least 80% of tickers. Using individual max dates.")
+        logger.warning("No date is available for at least 80% of tickers. Using individual max dates.")
         max_common_date = None
 
-# Use ThreadPoolExecutor for parallel processing
+# Process the data
+data = []
 with ThreadPoolExecutor(max_workers=10) as executor:
-    futures = [executor.submit(fetch_stock_data, ticker, max_common_date) for ticker in top_100_tickers]
+    futures = [executor.submit(process_stock_data, ticker, yf_data, max_common_date) for ticker in top_100_tickers]
     
-    data = []
     for future in as_completed(futures):
         result = future.result()
         if result:
             data.append(result)
         
-        # Calculate and print progress
+        # Calculate and log progress
         progress = (len(data) / len(top_100_tickers)) * 100
-        print(f"Loading... {progress:.2f}% completed", end='\r')
+        logger.debug(f"Processing... {progress:.2f}% completed")
 
-# Print a newline to move to the next line after the progress indicator
-print()
-
-# Convert the list to a DataFrame
+# Create a DataFrame from the collected data
 df = pd.DataFrame(data)
 
-# Sort the DataFrame by 'Breakeven increase' in ascending order
-df = df.sort_values('Breakeven increase', ascending=True)
+# Sort the DataFrame by attractiveness and breakeven increase
+df = df.sort_values(by=['Attractiveness', 'Breakeven increase'], ascending=[False, True])
 
-# Save the sorted data to a CSV file
-file_path = os.path.join(os.getcwd(), 'top_100_stock_and_options_data.csv')
-df.to_csv(file_path, index=False, encoding='utf-8')
-print(f"File saved to: {file_path}")
+# Save the DataFrame to a CSV file in the same directory as the script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+file_name = "top_100_stock_and_options_data.csv"
+file_path = os.path.join(script_dir, file_name)
+df.to_csv(file_path, index=False)
+
+logger.info(f"File saved to: {file_path}")

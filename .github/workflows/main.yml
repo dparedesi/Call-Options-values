@@ -96,11 +96,12 @@ jobs:
     - name: Check for changes and commit CSV files (weekly)
       run: |
         git add financials-historical.csv financials_summary.csv
-        if git diff --staged --exit-code; then
+        if git diff --staged --quiet; then
           echo "No changes in weekly CSV files"
         else
           git commit -m "Weekly update of financial CSV files"
           git push origin HEAD:${{ github.ref }}
+          echo "Changes committed and pushed successfully"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

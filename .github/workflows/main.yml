@@ -1,14 +1,14 @@
-name: Run Python Script Daily
+name: Run Python Scripts
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 0 * * 0"    # Weekly on Sunday at 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  run-script:
+  run-daily-scripts:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -29,26 +29,67 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run Python scripts in parallel
+    - name: Run daily Python scripts in parallel
       run: |
         python stock_option_data_collector.py &
         python politicians_trades_scraper.py &
         wait
 
-    - name: Configure Git to use GitHub token
+    - name: Configure Git
       run: |
         git config --global user.email "dparedesi@uni.pe"
         git config --global user.name "Github Actions"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Check for changes and commit CSV files
+    - name: Check for changes and commit CSV files (daily)
       run: |
         git add politicians_trades.csv top_100_stock_and_options_data.csv
         if git diff --staged --exit-code; then
-          echo "No changes in CSV files"
+          echo "No changes in daily CSV files"
         else
           git commit -m "Daily update CSV files"
+          git push origin HEAD:${{ github.ref }}
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  run-weekly-script:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 0 * * 0'
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run weekly Python script
+      run: python update_nasdaq_financials.py
+
+    - name: Configure Git
+      run: |
+        git config --global user.email "dparedesi@uni.pe"
+        git config --global user.name "Github Actions"
+
+    - name: Check for changes and commit CSV files (weekly)
+      run: |
+        git add financials-historical.csv financials_summary.csv
+        if git diff --staged --exit-code; then
+          echo "No changes in weekly CSV files"
+        else
+          git commit -m "Weekly update of financial CSV files"
           git push origin HEAD:${{ github.ref }}
         fi
       env:

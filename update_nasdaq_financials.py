@@ -6,6 +6,7 @@ import random
 import logging
 from tqdm import tqdm
 import os
+import subprocess
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -110,9 +111,14 @@ for i in range(0, len(TICKERS), batch_size):
         os.remove(intermediate_file)
         logging.info(f"Deleted intermediate file: {intermediate_file}")
 
-# Print summary statistics
+# Print summary statistics for financials-historical.csv
 total_tickers = len(TICKERS)
 processed_tickers = combined_df['ticker'].nunique()
 logging.info(f"Total tickers: {total_tickers}")
 logging.info(f"Processed tickers: {processed_tickers}")
 logging.info(f"Tickers with data: {processed_tickers / total_tickers:.2%}")
+
+# Run financials-pivot.py to calculate the pivot table
+subprocess.run(["python", "financials-pivot.py"])
+
+logging.info("Financials pivot analysis completed.")

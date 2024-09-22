@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from scipy import stats
 import yfinance as yf
+import contextlib
+import io
 
 def clean_revenue(revenue):
     if isinstance(revenue, str):
@@ -70,33 +72,38 @@ def calculate_metrics(df):
         'Revenue-Income Correlation': revenue_income_correlation
     })
 
-# Read the CSV file
-df = pd.read_csv('financials-historical.csv')
+def main():
+    # Read the CSV file
+    df = pd.read_csv('financials-historical.csv')
 
-# Clean and convert revenue and net income
-df['totalRevenue'] = df['totalRevenue'].apply(clean_revenue)
-df['netIncome'] = df['netIncome'].apply(clean_revenue)
+    # Clean and convert revenue and net income
+    df['totalRevenue'] = df['totalRevenue'].apply(clean_revenue)
+    df['netIncome'] = df['netIncome'].apply(clean_revenue)
 
-# Group by ticker and calculate metrics
-results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
+    # Group by ticker and calculate metrics
+    with contextlib.redirect_stdout(io.StringIO()):
+        results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
 
-# Sort by Combined R² in descending order
-results_df = results_df.sort_values('Combined R²', ascending=False)
+    # Sort by Combined R² in descending order
+    results_df = results_df.sort_values('Combined R²', ascending=False)
 
-# Fetch dividend yields in batch
-tickers = ' '.join(results_df['Ticker'])
-yf_data = yf.download(tickers, period='1d')
+    # Fetch dividend yields in batch
+    tickers = ' '.join(results_df['Ticker'])
+    yf_data = yf.download(tickers, period='1d')
 
-# Add dividend yields to results, handling missing data
-if 'Dividend Yield' in yf_data.columns:
-    dividend_yields = yf_data['Dividend Yield'].iloc[-1] * 100
-    results_df['%Dividend Yield'] = results_df['Ticker'].map(dividend_yields)
-else:
-    print("Warning: Dividend Yield data not available. Setting to NaN.")
-    results_df['%Dividend Yield'] = np.nan
+    # Add dividend yields to results, handling missing data
+    if 'Dividend Yield' in yf_data.columns:
+        dividend_yields = yf_data['Dividend Yield'].iloc[-1] * 100
+        results_df['%Dividend Yield'] = results_df['Ticker'].map(dividend_yields)
+    else:
+        print("Warning: Dividend Yield data not available. Setting to NaN.")
+        results_df['%Dividend Yield'] = np.nan
 
-# Export to CSV
-output_file_path = 'financials_summary.csv'
-results_df.to_csv(output_file_path, index=False)
+    # Export to CSV
+    output_file_path = 'financials_summary.csv'
+    results_df.to_csv(output_file_path, index=False)
 
-print(f"Analysis complete. Results exported to '{output_file_path}'.")
+    print(f"Analysis complete. Results exported to '{output_file_path}'.")
+
+if __name__ == "__main__":
+    main()

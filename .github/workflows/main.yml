@@ -5,10 +5,20 @@ on:
     - cron: "0 */6 * * *"  # Every 6 hours
     - cron: "0 0 * * 0"    # Weekly on Sunday at 00:00 UTC
   workflow_dispatch:
+    inputs:
+      job_to_run:
+        description: 'Job to run (daily or weekly)'
+        required: true
+        default: 'daily'
+        type: choice
+        options:
+        - daily
+        - weekly
 
 jobs:
   run-daily-scripts:
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule != '0 0 * * 0' || (github.event_name == 'workflow_dispatch' && github.event.inputs.job_to_run == 'daily')
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -54,7 +64,7 @@ jobs:
 
   run-weekly-script:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 0 * * 0'
+    if: github.event.schedule == '0 0 * * 0' || (github.event_name == 'workflow_dispatch' && github.event.inputs.job_to_run == 'weekly')
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3

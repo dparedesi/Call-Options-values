@@ -11,10 +11,13 @@ logger = logging.getLogger(__name__)
 #API_KEY = 'FKS5NZ1S4Z39PKCP' #dparedesi@uni.pe
 #API_KEY = 'CIUO9YWXH31RZOFM' #daparedes281@gmail.com
 #API_KEY = 'XD31H2MN91ZDTP8K' #tinsels-lands05@icloud.com
-API_KEY = 'IALJM6QUYYO7TJX6'
+#API_KEY = 'IALJM6QUYYO7TJX6'
 #API_KEY = 'RE84E69TZ8EN8G6M'
-TICKERS = ['WDC','CTAS','TALK','HAFC','TH','ONTO','MED','IBN','NOAH','SMCI','EGAN','WING','INNV',
-           'PFIS','MAX','INBK','CR','KARO','PFX','JEF','SOWG','MU','ROOT','WST','MRCC']
+#API_KEY = 'G25V5KUS20XB1G0D'
+#API_KEY = 'S0DVGAQH1DW139XG'
+API_KEY = 'E435P6HH349L1Q9F'
+TICKERS = ['BEAM','SLRC','MRCC','RVSB','OGS','CIM','AOMR','CG','HTGC','CCAP','HRZN',
+           'OCSL','OBDC','OXSQ','PSEC','CLGN','GIFI','DNLI','FOA','GBDC','AUBN','BHLB','NWN','PRKS','BUR']
 API_URL = 'https://www.alphavantage.co/query?function=INCOME_STATEMENT&symbol={}&apikey={}'
 
 # Function to fetch and process data for a single ticker

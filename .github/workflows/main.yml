@@ -31,8 +31,8 @@ jobs:
 
     - name: Run Python scripts in parallel
       run: |
-        python Options_in_future_date.py &
-        python Politicians_trades.py &
+        python stock_option_data_collector.py &
+        python politicians_trades_scraper.py &
         wait
 
     - name: Configure Git to use GitHub token

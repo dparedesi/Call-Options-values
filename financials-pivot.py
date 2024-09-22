@@ -8,9 +8,9 @@ def clean_revenue(revenue):
         return float(revenue.replace("$", "").replace(",", ""))
     return float(revenue)
 
-def calculate_metrics(df, ticker):
+def calculate_metrics(df):
     # Convert fiscalDateEnding to datetime with the correct format
-    df['fiscalDateEnding'] = pd.to_datetime(df['fiscalDateEnding'], format='%d/%m/%Y')
+    df['fiscalDateEnding'] = pd.to_datetime(df['fiscalDateEnding'], format='%Y-%m-%d')
     
     # Sort by date
     df = df.sort_values('fiscalDateEnding')
@@ -18,46 +18,57 @@ def calculate_metrics(df, ticker):
     # Calculate days since first entry for x-axis
     df['days'] = (df['fiscalDateEnding'] - df['fiscalDateEnding'].min()).dt.days
     
+    # Function to safely calculate slope and R-squared
+    def safe_linregress(x, y):
+        mask = ~(np.isnan(x) | np.isnan(y))
+        valid_data = np.sum(mask)
+        if valid_data > 2:  # We need at least 3 points for a meaningful regression
+            with np.errstate(all='ignore'):
+                slope, _, r_value, _, _ = stats.linregress(x[mask], y[mask])
+                r_squared = r_value**2 if not np.isnan(r_value) else np.nan
+            return slope, r_squared
+        return np.nan, np.nan
+
     # Calculate revenue metrics
-    revenue_slope, revenue_intercept, revenue_r_value, _, _ = stats.linregress(df['days'], df['totalRevenue'])
-    revenue_r_squared = revenue_r_value**2
+    revenue_slope, revenue_r_squared = safe_linregress(df['days'], df['totalRevenue'])
     
     # Calculate net income metrics
-    income_slope, income_intercept, income_r_value, _, _ = stats.linregress(df['days'], df['netIncome'])
-    income_r_squared = income_r_value**2
+    income_slope, income_r_squared = safe_linregress(df['days'], df['netIncome'])
     
     # Calculate combined R-squared
-    combined_r_squared = revenue_r_squared * income_r_squared
+    combined_r_squared = revenue_r_squared * income_r_squared if not np.isnan(revenue_r_squared) and not np.isnan(income_r_squared) else np.nan
     
     # Calculate correlation between revenue and net income
-    revenue_income_correlation = df['totalRevenue'].corr(df['netIncome'])
+    valid_data = df[['totalRevenue', 'netIncome']].dropna()
+    if len(valid_data) > 1:  # We need at least 2 points for correlation
+        with np.errstate(all='ignore'):
+            revenue_income_correlation = valid_data['totalRevenue'].corr(valid_data['netIncome'])
+    else:
+        revenue_income_correlation = np.nan
     
     # Calculate percentage change in revenue
     oldest_revenue = df.iloc[0]['totalRevenue']
     newest_revenue = df.iloc[-1]['totalRevenue']
-    revenue_change_pct = ((newest_revenue - oldest_revenue) / oldest_revenue) * 100
     
-    # Pull dividend yield from yfinance
-    ticker_info = yf.Ticker(ticker)
-    dividend_yield = ticker_info.info.get('dividendYield', None)
-    if dividend_yield is not None:
-        dividend_yield *= 100  # Convert to percentage
-    
-    return {
-        'Ticker': ticker,
-        'Oldest Date': df.iloc[0]['fiscalDateEnding'].strftime('%Y-%m-%d'),
+    if oldest_revenue != 0 and pd.notna(oldest_revenue) and pd.notna(newest_revenue):
+        revenue_change_pct = ((newest_revenue - oldest_revenue) / oldest_revenue) * 100
+    else:
+        revenue_change_pct = np.nan
+
+    return pd.Series({
+        'Ticker': df['ticker'].iloc[0],
+        'Oldest Date': df['fiscalDateEnding'].min().strftime('%Y-%m-%d'),
         'Oldest Revenue': oldest_revenue,
-        'Newest Date': df.iloc[-1]['fiscalDateEnding'].strftime('%Y-%m-%d'),
+        'Newest Date': df['fiscalDateEnding'].max().strftime('%Y-%m-%d'),
         'Newest Revenue': newest_revenue,
         '%Change Revenue': revenue_change_pct,
-        '%Dividend Yield': dividend_yield,
         'Revenue Slope': revenue_slope,
         'Revenue R²': revenue_r_squared,
         'Net Income Slope': income_slope,
         'Net Income R²': income_r_squared,
         'Combined R²': combined_r_squared,
         'Revenue-Income Correlation': revenue_income_correlation
-    }
+    })
 
 # Read the CSV file
 df = pd.read_csv('financials-historical.csv')
@@ -67,15 +78,22 @@ df['totalRevenue'] = df['totalRevenue'].apply(clean_revenue)
 df['netIncome'] = df['netIncome'].apply(clean_revenue)
 
 # Group by ticker and calculate metrics
-results = []
-for ticker, group in df.groupby('ticker'):
-    results.append(calculate_metrics(group, ticker))
-
-# Create DataFrame from results
-results_df = pd.DataFrame(results)
+results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
 
 # Sort by Combined R² in descending order
 results_df = results_df.sort_values('Combined R²', ascending=False)
+
+# Fetch dividend yields in batch
+tickers = ' '.join(results_df['Ticker'])
+yf_data = yf.download(tickers, period='1d')
+
+# Add dividend yields to results, handling missing data
+if 'Dividend Yield' in yf_data.columns:
+    dividend_yields = yf_data['Dividend Yield'].iloc[-1] * 100
+    results_df['%Dividend Yield'] = results_df['Ticker'].map(dividend_yields)
+else:
+    print("Warning: Dividend Yield data not available. Setting to NaN.")
+    results_df['%Dividend Yield'] = np.nan
 
 # Export to CSV
 output_file_path = 'financials_summary.csv'

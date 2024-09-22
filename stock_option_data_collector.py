@@ -146,13 +146,13 @@ else:
         for date in dates:
             date_counts[date] = date_counts.get(date, 0) + 1
 
-    threshold = 0.5 * len(top_100_tickers)
+    threshold = 0.6 * len(top_100_tickers)
     eligible_dates = [date for date, count in date_counts.items() if count >= threshold]
 
     if eligible_dates:
         max_common_date = max(eligible_dates)
     else:
-        logger.warning("No date is available for at least 50% of tickers. Using individual max dates.")
+        logger.warning("No date is available for at least 60% of tickers. Using individual max dates.")
         max_common_date = None
 
 # Process the data

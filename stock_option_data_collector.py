@@ -15,12 +15,16 @@ logger = logging.getLogger(__name__)
 
 # List of interest tickers
 top_100_tickers = [
-    "AAPL", "ABEV", "AMZN", "ASTS", "AVGO", "AXP", "AXON", "BAP", "BBAR",
-    "C", "CAT", "CHWY", "CMG", "COST", "CRWD", "E", "ENIC", "ENPH", "ET",
-    "F", "GGAL", "GOOGL", "HOOD", "IBM", "JPM", "KMB", "KO", "KSPI", "KT",
-    "LYG", "MA", "META", "MSFT", "NFLX", "NVO", "NU", "NVDA", "PLTR", "PM",
-    "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "T", "TGT", "TLK", "TM",
-    "TMUS", "TSM", "UBER", "V", "VZ", "WMT"
+    "AAPL", "ABEV", "AMZN", "APO", "ASTS", "AVGO", "AXP", "AXON",
+    "BAC", "BAP", "BBAR", "BLK", "BX", "C", "CAMT", "CAT",
+    "CHWY", "CL", "CMG", "COST", "CRWD", "DHI", "E", "ELV",
+    "EME", "ENIC", "ENPH", "ESQ", "ET", "F", "FDX", "FN",
+    "GGAL", "GOOGL", "HOOD", "IBM", "IBKR", "IFS", "JPM", "KKR",
+    "KMB", "KO", "KSPI", "KT", "LYG", "MA", "META", "MSFT",
+    "NFLX", "NMIH", "NVO", "NVDA", "NVMI", "NU", "PG", "PLTR",
+    "PM", "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "SPNS", "T",
+    "TGT", "TKC", "TLK", "TM", "TMUS", "TSM", "UBER", "ULTA",
+    "V", "VZ", "WMT"
 ]
 
 def create_session():

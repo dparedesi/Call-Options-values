@@ -1,4 +1,19 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Jonathan Jackson,Lam Research Corp,LRCX,sell,2024-09-23,2024-08-26,25,Joint,818.91,15K-50K
+Jonathan Jackson,Simon Property Group Inc,SPG,buy,2024-09-23,2024-08-26,25,Joint,167.36,15K-50K
+Thomas Kean Jr,Fortive Corp,FTV,buy,2024-09-23,2024-08-02,49,Undisclosed,68.44,1K-15K
+Marjorie Taylor Greene,Alphabet Inc,GOOGL,buy,2024-09-23,2024-09-20,3,Undisclosed,164.64,1K-15K
+Marjorie Taylor Greene,Berkshire Hathaway Inc,BRK/B,buy,2024-09-23,2024-09-20,3,Undisclosed,455.31,1K-15K
+Marjorie Taylor Greene,Blackstone Group Inc,BX,buy,2024-09-23,2024-09-20,3,Undisclosed,158.12,1K-15K
+Marjorie Taylor Greene,Cardinal Health Inc,CAH,buy,2024-09-23,2024-09-20,3,Undisclosed,111.84,1K-15K
+Marjorie Taylor Greene,CrowdStrike Holdings Inc,CRWD,buy,2024-09-23,2024-09-20,3,Undisclosed,299.85,1K-15K
+Marjorie Taylor Greene,Intel Corp,INTC,buy,2024-09-23,2024-09-20,3,Undisclosed,21.84,1K-15K
+Marjorie Taylor Greene,Lam Research Corp,LRCX,buy,2024-09-23,2024-09-20,3,Undisclosed,773.19,1K-15K
+Marjorie Taylor Greene,Microsoft Corp,MSFT,buy,2024-09-23,2024-09-20,3,Undisclosed,435.27,1K-15K
+Marjorie Taylor Greene,Southern Copper Corp,SCCO,buy,2024-09-23,2024-09-20,3,Undisclosed,103.6,1K-15K
+Marjorie Taylor Greene,United Parcel Service Inc,UPS,buy,2024-09-23,2024-09-20,3,Undisclosed,128.6,1K-15K
+Rick Allen,DEERE & COMPANY,DE,sell,2024-09-23,2024-08-14,37,Spouse,351.28,1K-15K
+Rick Allen,US TREASURY BILLS,N/A,sell,2024-09-23,2024-08-26,25,Undisclosed,,50K-100K
 Markwayne Mullin,Edwards Lifesciences Corp,EW,sell,2024-09-20,2024-08-20,30,Joint,69.38,15K-50K
 Markwayne Mullin,Iqvia Holdings Inc,IQV,buy,2024-09-20,2024-08-20,30,Joint,246.94,15K-50K
 Markwayne Mullin,Starbucks Corp,SBUX,sell,2024-09-20,2024-08-20,30,Joint,93.01,15K-50K
@@ -484,18 +499,3 @@ Ro Khanna,Newmont Corporation,NEM,buy,2024-09-09,2024-08-05,32,Child,47.03,1K-15
 Ro Khanna,Wynn Resorts Ltd,WYNN,buy,2024-09-09,2024-08-05,32,Child,73.55,1K-15K
 Ro Khanna,Albemarle Corp,ALB,buy,2024-09-09,2024-08-05,32,Child,83.52,1K-15K
 Ro Khanna,Keysight Technologies Inc,KEYS,buy,2024-09-09,2024-08-05,32,Child,122.81,1K-15K
-Ro Khanna,Nordson Corp,NDSN,buy,2024-09-09,2024-08-05,32,Child,234.8,1K-15K
-Ro Khanna,Advanced Micro Devices Inc,AMD,buy,2024-09-09,2024-08-05,32,Child,134.82,1K-15K
-Ro Khanna,SBA Communications Corp,SBAC,buy,2024-09-09,2024-08-05,32,Child,221.11,1K-15K
-Ro Khanna,Meta Platforms Inc,META,buy,2024-09-09,2024-08-05,32,Child,475.73,1K-15K
-Ro Khanna,AbbVie Inc,ABBV,buy,2024-09-09,2024-08-05,32,Child,184.36,1K-15K
-Ro Khanna,Merck & Co Inc,MRK,sell,2024-09-09,2024-08-05,32,Child,112.31,15K-50K
-Ro Khanna,Lam Research Corp,LRCX,sell,2024-09-09,2024-08-05,32,Child,770.39,15K-50K
-Ro Khanna,Adobe Inc,ADBE,sell,2024-09-09,2024-08-05,32,Child,509.32,1K-15K
-Ro Khanna,Schwab (Charles) Corp,SCHW,sell,2024-09-09,2024-08-05,32,Child,62.29,1K-15K
-Ro Khanna,Nike Inc,NKE,sell,2024-09-09,2024-08-05,32,Child,71.42,1K-15K
-Ro Khanna,United Parcel Service Inc,UPS,sell,2024-09-09,2024-08-05,32,Child,126.02,1K-15K
-Ro Khanna,Cadence Design Systems Inc,CDNS,sell,2024-09-09,2024-08-05,32,Child,246.84,1K-15K
-Ro Khanna,Morgan Stanley,MS,sell,2024-09-09,2024-08-05,32,Child,92.07,1K-15K
-Ro Khanna,Intel Corp,INTC,sell,2024-09-09,2024-08-05,32,Child,20.11,1K-15K
-Ro Khanna,Synopsys Inc,SNPS,sell,2024-09-09,2024-08-05,32,Child,487.84,1K-15K

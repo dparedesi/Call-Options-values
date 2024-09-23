@@ -53,9 +53,9 @@ def calculate_metrics(df):
     newest_revenue = df.iloc[-1]['totalRevenue']
     
     if oldest_revenue != 0 and pd.notna(oldest_revenue) and pd.notna(newest_revenue):
-        revenue_change_pct = ((newest_revenue - oldest_revenue) / oldest_revenue) * 100
+        revenue_change = ((newest_revenue - oldest_revenue) / oldest_revenue)
     else:
-        revenue_change_pct = np.nan
+        revenue_change = np.nan
 
     return pd.Series({
         'Ticker': df['ticker'].iloc[0],
@@ -63,7 +63,7 @@ def calculate_metrics(df):
         'Oldest Revenue': oldest_revenue,
         'Newest Date': df['fiscalDateEnding'].max().strftime('%Y-%m-%d'),
         'Newest Revenue': newest_revenue,
-        '%Change Revenue': revenue_change_pct,
+        '%Change Revenue': revenue_change,
         'Revenue Slope': revenue_slope,
         'Revenue R²': revenue_r_squared,
         'Net Income Slope': income_slope,
@@ -72,38 +72,54 @@ def calculate_metrics(df):
         'Revenue-Income Correlation': revenue_income_correlation
     })
 
+def get_yfinance_data(ticker):
+    try:
+        stock = yf.Ticker(ticker)
+        info = stock.info
+        return info.get('dividendYield', np.nan), info.get('targetMeanPrice', np.nan)
+    except:
+        return np.nan, np.nan
+
 def main():
     # Read the CSV file
     df = pd.read_csv('financials-historical.csv')
+
+    # Read the watchlist CSV file
+    watchlist_df = pd.read_csv('inputs/watchlist.csv')
+    watchlist_tickers = set(watchlist_df['tickers'].str.upper())
 
     # Clean and convert revenue and net income
     df['totalRevenue'] = df['totalRevenue'].apply(clean_revenue)
     df['netIncome'] = df['netIncome'].apply(clean_revenue)
 
     # Group by ticker and calculate metrics
-    with contextlib.redirect_stdout(io.StringIO()):
-        results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
+    results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
 
     # Sort by Combined R² in descending order
     results_df = results_df.sort_values('Combined R²', ascending=False)
 
-    # Fetch dividend yields in batch
-    tickers = ' '.join(results_df['Ticker'])
-    yf_data = yf.download(tickers, period='1d')
+    # Add columns for dividendYield and targetMeanPrice
+    results_df['dividendYield'] = np.nan
+    results_df['targetMeanPrice'] = np.nan
 
-    # Add dividend yields to results, handling missing data
-    if 'Dividend Yield' in yf_data.columns:
-        dividend_yields = yf_data['Dividend Yield'].iloc[-1] * 100
-        results_df['%Dividend Yield'] = results_df['Ticker'].map(dividend_yields)
-    else:
-        print("Warning: Dividend Yield data not available. Setting to NaN.")
-        results_df['%Dividend Yield'] = np.nan
+    # Fetch yfinance data for stocks in the watchlist
+    for ticker in results_df['Ticker']:
+        if ticker.upper() in watchlist_tickers:
+            dividend_yield, target_mean_price = get_yfinance_data(ticker)
+            results_df.loc[results_df['Ticker'] == ticker, 'dividendYield'] = dividend_yield
+            results_df.loc[results_df['Ticker'] == ticker, 'targetMeanPrice'] = target_mean_price
 
-    # Export to CSV
+    # Export full summary to CSV
     output_file_path = 'financials_summary.csv'
     results_df.to_csv(output_file_path, index=False)
 
-    print(f"Analysis complete. Results exported to '{output_file_path}'.")
+    # Create and export watchlist summary
+    watchlist_results_df = results_df[results_df['Ticker'].str.upper().isin(watchlist_tickers)]
+    watchlist_output_file_path = 'financials_summary_watchlist.csv'
+    watchlist_results_df.to_csv(watchlist_output_file_path, index=False)
+
+    print(f"Analysis complete. Full results exported to '{output_file_path}'.")
+    print(f"Watchlist results exported to '{watchlist_output_file_path}'.")
 
 if __name__ == "__main__":
     main()

@@ -173,7 +173,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:
 df = pd.DataFrame(data)
 
 # Sort the DataFrame by attractiveness and breakeven increase
-df = df.sort_values(by=['Attractiveness', 'Breakeven increase'], ascending=[False, True])
+df = df.sort_values(by=['Expiration Date', 'Breakeven increase'], ascending=[False, True])
 
 # Save the DataFrame to a CSV file in the same directory as the script
 script_dir = os.path.dirname(os.path.abspath(__file__))

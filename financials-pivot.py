@@ -34,11 +34,7 @@ def calculate_metrics(df):
     # Calculate revenue metrics
     revenue_slope, revenue_r_squared = safe_linregress(df['days'], df['totalRevenue'])
     
-    # Calculate net income metrics
-    income_slope, income_r_squared = safe_linregress(df['days'], df['netIncome'])
-    
-    # Calculate combined R-squared
-    combined_r_squared = revenue_r_squared * income_r_squared if not np.isnan(revenue_r_squared) and not np.isnan(income_r_squared) else np.nan
+    # Remove the calculation of net income metrics and combined R-squared
     
     # Calculate correlation between revenue and net income
     valid_data = df[['totalRevenue', 'netIncome']].dropna()
@@ -57,6 +53,9 @@ def calculate_metrics(df):
     else:
         revenue_change = np.nan
 
+    # Calculate Correlation-Adjusted R²
+    correlation_adjusted_r_squared = revenue_income_correlation * revenue_r_squared
+
     return pd.Series({
         'Ticker': df['ticker'].iloc[0],
         'Oldest Date': df['fiscalDateEnding'].min().strftime('%Y-%m-%d'),
@@ -66,19 +65,23 @@ def calculate_metrics(df):
         '%Change Revenue': revenue_change,
         'Revenue Slope': revenue_slope,
         'Revenue R²': revenue_r_squared,
-        'Net Income Slope': income_slope,
-        'Net Income R²': income_r_squared,
-        'Combined R²': combined_r_squared,
-        'Revenue-Income Correlation': revenue_income_correlation
+        'Revenue-Income Correlation': revenue_income_correlation,
+        'Correlation-Adjusted R²': correlation_adjusted_r_squared
     })
 
 def get_yfinance_data(ticker):
     try:
         stock = yf.Ticker(ticker)
         info = stock.info
-        return info.get('dividendYield', np.nan), info.get('targetMeanPrice', np.nan)
+        return (
+            info.get('dividendYield', np.nan),
+            info.get('targetMeanPrice', np.nan),
+            info.get('trailingPE', np.nan),
+            info.get('pegRatio', np.nan),
+            info.get('trailingPegRatio', np.nan)
+        )
     except:
-        return np.nan, np.nan
+        return np.nan, np.nan, np.nan, np.nan, np.nan
 
 def main():
     # Read the CSV file
@@ -95,19 +98,25 @@ def main():
     # Group by ticker and calculate metrics
     results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
 
-    # Sort by Combined R² in descending order
-    results_df = results_df.sort_values('Combined R²', ascending=False)
+    # Sort by Correlation-Adjusted R² in descending order
+    results_df = results_df.sort_values('Correlation-Adjusted R²', ascending=False)
 
-    # Add columns for dividendYield and targetMeanPrice
+    # Add columns for yfinance data
     results_df['dividendYield'] = np.nan
     results_df['targetMeanPrice'] = np.nan
+    results_df['trailingPE'] = np.nan
+    results_df['pegRatio'] = np.nan
+    results_df['trailingPegRatio'] = np.nan
 
     # Fetch yfinance data for stocks in the watchlist
     for ticker in results_df['Ticker']:
         if ticker.upper() in watchlist_tickers:
-            dividend_yield, target_mean_price = get_yfinance_data(ticker)
+            dividend_yield, target_mean_price, trailing_pe, peg_ratio, trailing_peg_ratio = get_yfinance_data(ticker)
             results_df.loc[results_df['Ticker'] == ticker, 'dividendYield'] = dividend_yield
             results_df.loc[results_df['Ticker'] == ticker, 'targetMeanPrice'] = target_mean_price
+            results_df.loc[results_df['Ticker'] == ticker, 'trailingPE'] = trailing_pe
+            results_df.loc[results_df['Ticker'] == ticker, 'pegRatio'] = peg_ratio
+            results_df.loc[results_df['Ticker'] == ticker, 'trailingPegRatio'] = trailing_peg_ratio
 
     # Export full summary to CSV
     output_file_path = 'financials_summary.csv'

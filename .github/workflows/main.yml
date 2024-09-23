@@ -95,7 +95,7 @@ jobs:
 
     - name: Check for changes and commit CSV files (weekly)
       run: |
-        git add financials-historical.csv financials_summary.csv
+        git add financials-historical.csv financials_summary.csv financials_summary_watchlist.csv
         if git diff --staged --quiet; then
           echo "No changes in weekly CSV files"
         else

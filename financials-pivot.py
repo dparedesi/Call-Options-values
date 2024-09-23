@@ -97,7 +97,7 @@ def main():
 
     # Group by ticker and calculate metrics
     results_df = df.groupby('ticker').apply(calculate_metrics).reset_index(drop=True)
-
+    
     # Sort by Correlation-Adjusted R² in descending order
     results_df = results_df.sort_values('Correlation-Adjusted R²', ascending=False)
 

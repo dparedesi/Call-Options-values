@@ -13,19 +13,11 @@ log_level = os.environ.get('LOG_LEVEL', 'INFO').upper()
 logging.basicConfig(level=getattr(logging, log_level), format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# List of interest tickers
-top_100_tickers = [
-    "AAPL", "ABEV", "AMZN", "APO", "ASTS", "AVGO", "AXP", "AXON",
-    "BAC", "BAP", "BBAR", "BLK", "BX", "C", "CAMT", "CAT",
-    "CHWY", "CL", "CMG", "COST", "CRWD", "DHI", "E", "ELV",
-    "EME", "ENIC", "ENPH", "ESQ", "ET", "F", "FDX", "FN",
-    "GGAL", "GOOGL", "HOOD", "IBM", "IBKR", "IFS", "JPM", "KKR",
-    "KMB", "KO", "KSPI", "KT", "LYG", "MA", "META", "MSFT",
-    "NFLX", "NMIH", "NVO", "NVDA", "NVMI", "NU", "PG", "PLTR",
-    "PM", "RKLB", "SEDG", "SHEL", "SHOP", "SMCI", "SPNS", "T",
-    "TGT", "TKC", "TLK", "TM", "TMUS", "TSM", "UBER", "ULTA",
-    "V", "VZ", "WMT"
-]
+# Read tickers from the CSV file
+script_dir = os.path.dirname(os.path.abspath(__file__))
+watchlist_path = os.path.join(script_dir, 'inputs', 'watchlist.csv')
+watchlist_df = pd.read_csv(watchlist_path)
+top_100_tickers = watchlist_df['tickers'].tolist()
 
 def create_session():
     session = requests.Session()

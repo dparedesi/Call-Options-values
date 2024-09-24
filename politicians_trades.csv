@@ -1,4 +1,9 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Greg Landsman,Adobe Inc,ADBE,sell,2024-09-24,2024-08-14,40,Spouse,539.79,15K-50K
+Greg Landsman,Amazon.com Inc,AMZN,sell,2024-09-24,2024-08-21,33,Joint,180.11,15K-50K
+Greg Landsman,Arista Networks Inc,ANET,buy,2024-09-24,2024-08-14,40,Spouse,348.65,1K-15K
+Greg Landsman,Arista Networks Inc,ANET,buy,2024-09-24,2024-08-21,33,Joint,355.89,15K-50K
+Greg Landsman,Ulta Beauty Inc,ULTA,sell,2024-09-24,2024-08-14,40,Spouse,329.05,1K-15K
 Jonathan Jackson,Lam Research Corp,LRCX,sell,2024-09-23,2024-08-26,25,Joint,818.91,15K-50K
 Jonathan Jackson,Simon Property Group Inc,SPG,buy,2024-09-23,2024-08-26,25,Joint,167.36,15K-50K
 Thomas Kean Jr,Fortive Corp,FTV,buy,2024-09-23,2024-08-02,49,Undisclosed,68.44,1K-15K
@@ -494,8 +499,3 @@ Ro Khanna,Roper Technologies Inc,ROP,buy,2024-09-09,2024-08-05,32,Child,517.53,1
 Ro Khanna,Enphase Energy Inc,ENPH,buy,2024-09-09,2024-08-05,32,Child,103.39,1K-15K
 Ro Khanna,Bristol-Myers Squibb Co,BMY,buy,2024-09-09,2024-08-05,32,Child,47.59,1K-15K
 Ro Khanna,VERISK ANALYTICS Inc,VRSK,buy,2024-09-09,2024-08-05,32,Child,262.28,1K-15K
-Ro Khanna,MSCI Inc,MSCI,buy,2024-09-09,2024-08-05,32,Child,517.43,1K-15K
-Ro Khanna,Newmont Corporation,NEM,buy,2024-09-09,2024-08-05,32,Child,47.03,1K-15K
-Ro Khanna,Wynn Resorts Ltd,WYNN,buy,2024-09-09,2024-08-05,32,Child,73.55,1K-15K
-Ro Khanna,Albemarle Corp,ALB,buy,2024-09-09,2024-08-05,32,Child,83.52,1K-15K
-Ro Khanna,Keysight Technologies Inc,KEYS,buy,2024-09-09,2024-08-05,32,Child,122.81,1K-15K

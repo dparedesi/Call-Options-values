@@ -1,4 +1,21 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Bill Keating,Bank of America Corp,BAC,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Becton Dickinson and Co,BDX,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Caterpillar Inc,CAT,sell,2024-09-25,2024-09-11,13,Undisclosed,335.0,1K-15K
+Bill Keating,Comcast Corp,CMCSA,sell,2024-09-25,2024-09-11,13,Undisclosed,,15K-50K
+Bill Keating,Elevance Health Inc,ELV,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,General Motors Co,GM,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,JPMorgan Chase & Co,JPM,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Lowe's Cos Inc,LOW,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Meta Platforms Inc,META,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Microsoft Corp,MSFT,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,NXP Semiconductors NV,NXPI,sell,2024-09-25,2024-09-11,13,Undisclosed,230.87,1K-15K
+Bill Keating,PepsiCo Inc,PEP,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,T-Mobile US Inc,TMUS,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,Union Pacific Corp,UNP,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Bill Keating,US TREASURY NOTE,N/A,sell,2024-09-25,2024-09-11,13,Undisclosed,,15K-50K
+Bill Keating,Verizon Communications Inc,VZ,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
+Michael Burgess,Illumina Inc,ILMN,sell,2024-09-25,2024-09-03,21,Spouse,130.26,15K-50K
 Greg Landsman,Adobe Inc,ADBE,sell,2024-09-24,2024-08-14,40,Spouse,539.79,15K-50K
 Greg Landsman,Amazon.com Inc,AMZN,sell,2024-09-24,2024-08-21,33,Joint,180.11,15K-50K
 Greg Landsman,Arista Networks Inc,ANET,buy,2024-09-24,2024-08-14,40,Spouse,348.65,1K-15K
@@ -482,20 +499,3 @@ Ro Khanna,IDEX Corp,IEX,buy,2024-09-09,2024-08-05,32,Child,192.21,1K-15K
 Ro Khanna,Las Vegas Sands Corp,LVS,buy,2024-09-09,2024-08-05,32,Child,37.86,1K-15K
 Ro Khanna,Dow Inc,DOW,buy,2024-09-09,2024-08-05,32,Child,51.01,1K-15K
 Ro Khanna,GLOBAL PAYMENTS Inc,GPN,buy,2024-09-09,2024-08-05,32,Child,92.66,1K-15K
-Ro Khanna,American International Group Inc,AIG,buy,2024-09-09,2024-08-05,32,Child,70.16,1K-15K
-Ro Khanna,Genuine Parts Co,GPC,buy,2024-09-09,2024-08-05,32,Child,138.35,1K-15K
-Ro Khanna,AKAMAI TECHNOLOGIES Inc,AKAM,buy,2024-09-09,2024-08-05,32,Child,91.32,1K-15K
-Ro Khanna,The Estee Lauder Cos Inc,EL,buy,2024-09-09,2024-08-05,32,Child,92.2,1K-15K
-Ro Khanna,Apple Inc,AAPL,buy,2024-09-09,2024-08-05,32,Child,209.27,1K-15K
-Ro Khanna,Metlife Inc,MET,buy,2024-09-09,2024-08-05,32,Child,67.96,1K-15K
-Ro Khanna,McDonald's Corp,MCD,buy,2024-09-09,2024-08-05,32,Child,268.45,1K-15K
-Ro Khanna,Norwegian Cruise Line Holdings Ltd,NCLH,buy,2024-09-09,2024-08-05,32,Child,15.33,1K-15K
-Ro Khanna,Fastenal Co,FAST,buy,2024-09-09,2024-08-05,32,Child,66.4,1K-15K
-Ro Khanna,Ceridian HCM Holding Inc,CDAY,buy,2024-09-09,2024-08-05,32,Child,52.96,1K-15K
-Ro Khanna,Raymond James Financial Inc,RJF,buy,2024-09-09,2024-08-05,32,Child,106.39,1K-15K
-Ro Khanna,Regions Financial Corp,RF,buy,2024-09-09,2024-08-05,32,Child,20.41,1K-15K
-Ro Khanna,Warner Bros Discover Inc,WBD,buy,2024-09-09,2024-08-05,32,Child,7.88,1K-15K
-Ro Khanna,Roper Technologies Inc,ROP,buy,2024-09-09,2024-08-05,32,Child,517.53,1K-15K
-Ro Khanna,Enphase Energy Inc,ENPH,buy,2024-09-09,2024-08-05,32,Child,103.39,1K-15K
-Ro Khanna,Bristol-Myers Squibb Co,BMY,buy,2024-09-09,2024-08-05,32,Child,47.59,1K-15K
-Ro Khanna,VERISK ANALYTICS Inc,VRSK,buy,2024-09-09,2024-08-05,32,Child,262.28,1K-15K

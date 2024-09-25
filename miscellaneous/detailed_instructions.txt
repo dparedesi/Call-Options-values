@@ -1,0 +1,29 @@
+Please convert the provided data into two CSV formats:
+
+1. A combined CSV for Institutions and Strategic Entities with the following specifications:
+   - Columns: Category, Name, Type, Shares, Val, Percentage
+   - Add a "Category" column to distinguish between "Institutions" and "Strategic Entities"
+   - Sort the entire table by Percentage in descending order. Make sure it is in decimal format, aka 0.05 instead of 5.00, for example.
+   - Leave the "Type" column blank for Strategic Entities if not provided
+   - Process ALL provided data without omission. Do not summarize or simplify the dataset.
+   - If the dataset is too large to fit in a single response, split it into multiple parts and clearly indicate where each part begins and ends.
+   - After processing, verify that all entries from the original data are included in the final CSV.
+   - After providing the CSV, confirm that all data has been processed and ask if any entries appear to be missing.
+   - If a response is cut off due to length limitations, continue in the next response exactly where the previous one ended minus 2 rows, aka repeating the last 2 preious rows onwards.
+
+2. A Trade Log CSV with the following specifications:
+   - Convert the Date column to YYYY-MM-DD format
+   - Replace 'K' with '000' and 'M' with '000000' in numeric fields
+   - Add a "Avg. Cost" column, calculated by dividing Share Value by Shares, rounded to two decimal places
+   - Set "Avg. Cost" to 0.00 for rows where Shares is 0
+   - Add an "Insider" column with "Yes" if Source is "Insider Update" or "Proxy", otherwise "No". Do not omit this step.
+   - Add a "%Change" column calculated by dividing Shares by Holdings. Make sure it is in decimal format, aka 0.05 instead of 5.00, for example.
+   - Columns: Date, Action, Shares, Share Value, Holdings, Party, Insider, Source, Avg. Cost, %Change
+   - Process ALL provided trade log data without omission. Do not summarize or simplify the dataset.
+   - If the dataset is too large to fit in a single response, split it into multiple parts and clearly indicate where each part begins and ends.
+   - After processing, verify that all entries from the original trade log are included in the final CSV.
+   - After providing the CSV, confirm that all trade log data has been processed and ask if any entries appear to be missing.
+   - If a response is cut off due to length limitations, continue in the next response exactly where the previous one ended minus 2 rows, aka repeating the last 2 preious rows onwards.
+
+Please provide the processed CSV data directly, without additional explanation unless there are specific issues or anomalies to report.
+First provide the first csv and ask if it is ok to follow the instructions and process the second csv.

@@ -1,4 +1,13 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Morgan McGarvey,Apple Inc,AAPL,buy,2024-09-26,2024-08-13,43,Spouse,221.27,1K-15K
+Morgan McGarvey,Apple Inc,AAPL,sell,2024-09-26,2024-08-19,37,Spouse,225.89,1K-15K
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-02-09,594,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-02-23,580,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-03-10,565,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-03-15,560,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-03-24,551,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-05-02,512,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-05-02,512,Undisclosed,,5M-25M
 Bill Keating,Bank of America Corp,BAC,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
 Bill Keating,Becton Dickinson and Co,BDX,sell,2024-09-25,2024-09-11,13,Undisclosed,,1K-15K
 Bill Keating,Caterpillar Inc,CAT,sell,2024-09-25,2024-09-11,13,Undisclosed,335.0,1K-15K
@@ -490,12 +499,3 @@ Ro Khanna,DEERE & COMPANY,DE,buy,2024-09-09,2024-08-05,32,Child,344.84,1K-15K
 Ro Khanna,Booking Holdings Inc,BKNG,buy,2024-09-09,2024-08-05,32,Child,"3,383.43",1K-15K
 Ro Khanna,Caterpillar Inc,CAT,buy,2024-09-09,2024-08-05,32,Child,316.8,1K-15K
 Ro Khanna,First Solar Inc,FSLR,buy,2024-09-09,2024-08-05,32,Child,207.09,1K-15K
-Ro Khanna,CDW Corp,CDW,buy,2024-09-09,2024-08-05,32,Child,206.67,1K-15K
-Ro Khanna,EPAM Systems Inc,EPAM,buy,2024-09-09,2024-08-05,32,Child,202.25,1K-15K
-Ro Khanna,West Pharmaceutical Services Inc,WST,buy,2024-09-09,2024-08-05,32,Child,301.6,1K-15K
-Ro Khanna,Jabil Inc,JBL,buy,2024-09-09,2024-08-05,32,Child,97.55,1K-15K
-Ro Khanna,Old Dominion Freight Line Inc,ODFL,buy,2024-09-09,2024-08-05,32,Child,194.26,1K-15K
-Ro Khanna,IDEX Corp,IEX,buy,2024-09-09,2024-08-05,32,Child,192.21,1K-15K
-Ro Khanna,Las Vegas Sands Corp,LVS,buy,2024-09-09,2024-08-05,32,Child,37.86,1K-15K
-Ro Khanna,Dow Inc,DOW,buy,2024-09-09,2024-08-05,32,Child,51.01,1K-15K
-Ro Khanna,GLOBAL PAYMENTS Inc,GPN,buy,2024-09-09,2024-08-05,32,Child,92.66,1K-15K

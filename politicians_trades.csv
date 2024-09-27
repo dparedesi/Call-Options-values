@@ -1,4 +1,17 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-27,2024-09-26,0,Undisclosed,,1K-15K
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-02-05,234,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-02-13,226,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-02-27,212,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-03-06,204,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-03-06,204,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-03-14,196,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-03-14,196,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-01-24,246,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-05-20,129,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-08-05,52,Undisclosed,,5M-25M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-06-05,113,Undisclosed,,1M-5M
+Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-03-06,204,Undisclosed,,5M-25M
 Morgan McGarvey,Apple Inc,AAPL,buy,2024-09-26,2024-08-13,43,Spouse,221.27,1K-15K
 Morgan McGarvey,Apple Inc,AAPL,sell,2024-09-26,2024-08-19,37,Spouse,225.89,1K-15K
 Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-26,2023-02-09,594,Undisclosed,,5M-25M
@@ -486,16 +499,3 @@ Ro Khanna,Thermo Fisher Scientific Inc,TMO,buy,2024-09-09,2024-08-05,32,Child,59
 Ro Khanna,Microchip Technology Inc,MCHP,buy,2024-09-09,2024-08-05,32,Child,73.86,1K-15K
 Ro Khanna,CoStar Group Inc,CSGP,buy,2024-09-09,2024-08-05,32,Child,72.7,1K-15K
 Ro Khanna,Parker-Hannifin Corp,PH,buy,2024-09-09,2024-08-05,32,Child,506.31,1K-15K
-Ro Khanna,Lennar Corp,LEN,buy,2024-09-09,2024-08-05,32,Child,170.39,1K-15K
-Ro Khanna,PTC Inc,PTC,buy,2024-09-09,2024-08-05,32,Child,168.18,1K-15K
-Ro Khanna,NXP Semiconductors NV,NXPI,buy,2024-09-09,2024-08-05,32,Child,235.41,1K-15K
-Ro Khanna,IDEXX Laboratories Inc,IDXX,buy,2024-09-09,2024-08-05,32,Child,455.08,1K-15K
-Ro Khanna,Marriott International Inc,MAR,buy,2024-09-09,2024-08-05,32,Child,211.35,1K-15K
-Ro Khanna,FactSet Research Systems Inc,FDS,buy,2024-09-09,2024-08-05,32,Child,401.84,1K-15K
-Ro Khanna,Equinix Inc,EQIX,buy,2024-09-09,2024-08-05,32,Child,768.24,1K-15K
-Ro Khanna,Pool Corp,POOL,buy,2024-09-09,2024-08-05,32,Child,349.83,1K-15K
-Ro Khanna,ON Semiconductor Corp,ON,buy,2024-09-09,2024-08-05,32,Child,68.97,1K-15K
-Ro Khanna,DEERE & COMPANY,DE,buy,2024-09-09,2024-08-05,32,Child,344.84,1K-15K
-Ro Khanna,Booking Holdings Inc,BKNG,buy,2024-09-09,2024-08-05,32,Child,"3,383.43",1K-15K
-Ro Khanna,Caterpillar Inc,CAT,buy,2024-09-09,2024-08-05,32,Child,316.8,1K-15K
-Ro Khanna,First Solar Inc,FSLR,buy,2024-09-09,2024-08-05,32,Child,207.09,1K-15K

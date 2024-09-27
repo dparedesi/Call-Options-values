@@ -1,0 +1,560 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers (U.K.) Limited
+Statement,Data,BrokerAddress,"20 Fenchurch Street, Floor 12, London EC3M 3BY, UK. Authorised and regulated by the Financial Conduct Authority"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 1, 2024 - September 26, 2024"
+Statement,Data,WhenGenerated,"2024-09-27, 12:31:39 EDT"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Daniel A Paredes Inilupu
+Account Information,Data,Account,U15189489
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,ISA - Individual Savings Account UK
+Account Information,Data,Account Capabilities,Cash
+Account Information,Data,Base Currency,GBP
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,0,947.832612817,-0.000000001,947.832612816,947.832612816
+Net Asset Value,Data,Stock,0,4153.0404422,0,4153.0404422,4153.0404422
+Net Asset Value,Data,Dividend Accruals,0,0.7305116,0,0.7305116,0.7305116
+Net Asset Value,Data,Total,0,5101.603566617,-0.000000001,5101.603566616,5101.603566616
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,-0.533925529%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,0
+Change in NAV,Data,Mark-to-Market,134.250920911
+Change in NAV,Data,Deposits & Withdrawals,5000
+Change in NAV,Data,Dividends,0.302648
+Change in NAV,Data,Withholding Tax,-0.0453972
+Change in NAV,Data,Change in Dividend Accruals,0.7453849
+Change in NAV,Data,Commissions,-33.63511427
+Change in NAV,Data,Other FX Translations,-0.0148733
+Change in NAV,Data,Ending Value,5101.603566616
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,AAPL,0,0,--,--,9.4666808,-1.811743,-0.53272904,0,7.12220876,
+Mark-to-Market Performance Summary,Data,Stocks,ABEV,0,44,--,2.3600,-0.35343,0.1682758,-0.76664007,0,-0.95179427,
+Mark-to-Market Performance Summary,Data,Stocks,AMZN,0,1,--,191.1600,11.3621923,0.1982552,-0.76252,0,10.7979275,
+Mark-to-Market Performance Summary,Data,Stocks,ASTS,0,6,--,23.8300,-7.9897184,-0.8831452,-0.52036751,0,-9.39323111,
+Mark-to-Market Performance Summary,Data,Stocks,AVGO,0,2,--,178.0900,19.1652381,7.7302608,-1.01846778,0,25.87703112,
+Mark-to-Market Performance Summary,Data,Stocks,BAP,0,1,--,179.7400,2.9979011,0.269712,-0.26260153,0,3.00501157,
+Mark-to-Market Performance Summary,Data,Stocks,BBAR,0,9,--,10.7400,-2.0844963,0.0695285,-0.76103419,0,-2.77600199,
+Mark-to-Market Performance Summary,Data,Stocks,CCJ,0,0,--,--,8.0114222,-4.24138872,-0.85843682,0,2.91159666,
+Mark-to-Market Performance Summary,Data,Stocks,CCL,0,0,--,--,2.7703964,0.0073921,-0.51580845,0,2.26198005,
+Mark-to-Market Performance Summary,Data,Stocks,CRWD,0,3,--,281.4800,47.1273555,-1.5922681,-2.81210455,0,42.72298285,
+Mark-to-Market Performance Summary,Data,Stocks,ENIC,0,0,--,--,4.783488,-1.5293328,-0.54963148,0,2.70452372,
+Mark-to-Market Performance Summary,Data,Stocks,ENPH,0,0,--,--,7.235142,-0.6767017,-1.78935936,0,4.76908094,
+Mark-to-Market Performance Summary,Data,Stocks,F,0,32,--,10.6800,-0.5938636,1.7179074,-1.71985703,0,-0.59581323,
+Mark-to-Market Performance Summary,Data,Stocks,FDX,0,0,--,--,8.7135278,-1.6954755,-0.52843058,0,6.48962172,
+Mark-to-Market Performance Summary,Data,Stocks,GOOGL,0,3,--,162.7300,20.2970853,-3.61187695,-2.28593643,0.2572508,14.65652272,
+Mark-to-Market Performance Summary,Data,Stocks,IBN,0,2,--,31.2800,0.0450324,-0.089466,-0.26598335,0,-0.31041695,
+Mark-to-Market Performance Summary,Data,Stocks,IFS,0,0,--,--,6.1121912,-2.2821836,-1.55415463,0,2.27585297,
+Mark-to-Market Performance Summary,Data,Stocks,JPM,0,2,--,209.7800,1.1110812,2.5030215,-1.52616641,0,2.08793629,
+Mark-to-Market Performance Summary,Data,Stocks,KSPI,0,3,--,104.1100,-22.2329513,4.4795176,-1.29367254,0,-19.04710624,
+Mark-to-Market Performance Summary,Data,Stocks,MSFT,0,1,--,431.3100,13.9846135,-2.9235745,-0.75937,0,10.301669,
+Mark-to-Market Performance Summary,Data,Stocks,MSTR,0,0,--,--,7.6083333,-2.6975543,-0.52815578,0,4.38262322,
+Mark-to-Market Performance Summary,Data,Stocks,NU,0,12,--,13.8200,0.1690344,-1.5233856,-1.20662709,0,-2.56097829,
+Mark-to-Market Performance Summary,Data,Stocks,NVDA,0,5,--,124.0400,59.4247641,-4.15988419,-3.80286321,0,51.4620167,
+Mark-to-Market Performance Summary,Data,Stocks,NVO,0,3,--,124.3000,-12.1975883,-1.6730558,-1.29292824,0,-15.16357234,
+Mark-to-Market Performance Summary,Data,Stocks,SOLV,0,1,--,68.1000,0,-0.0223626,-0.26351286,0,-0.28587546,
+Mark-to-Market Performance Summary,Data,Stocks,T,0,0,--,--,2.6541258,-0.41185306,-0.62518066,0,1.61709208,
+Mark-to-Market Performance Summary,Data,Stocks,TM,0,0,--,--,2.9548457,0.4265526,-0.53017622,0,2.85122208,
+Mark-to-Market Performance Summary,Data,Stocks,TSM,0,2,--,186.8300,27.387858,-0.3140525,-1.02713128,0,26.04667422,
+Mark-to-Market Performance Summary,Data,Stocks,UEC,0,0,--,--,17.2368222,-7.62903707,-1.74834783,0,7.8594373,
+Mark-to-Market Performance Summary,Data,Stocks,VZ,0,0,--,--,3.2600058,0.4761519,-1.52691935,0,2.20923835,
+Mark-to-Market Performance Summary,Data,Total,,,,,,238.4270892,-21.72176579,-33.63511427,0.2572508,183.32745994,
+Mark-to-Market Performance Summary,Data,Forex,GBP,0,947.832612817,1.0000,1.0000,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Forex,USD,0,-0.000000001,--,0.74542,-81.6322355,-0.822167,0,0,-82.4544025,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-81.6322355,-0.822167,0,0,-82.4544025,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,156.7948537,-22.54393279,-33.63511427,0.2572508,100.87305744,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,AAPL,0,7.10566815,0,0,0,7.10566815,0,0,0,0,0,7.10566815,
+Realized & Unrealized Performance Summary,Data,Stocks,ABEV,0,0,0,0,0,0,0,-0.911117921,0,0,-0.911117921,-0.911117921,
+Realized & Unrealized Performance Summary,Data,Stocks,AMZN,0,0,0,0,0,0,10.5626014,0,0,0,10.5626014,10.5626014,
+Realized & Unrealized Performance Summary,Data,Stocks,ASTS,0,0,0,0,0,0,0,-9.359214733,0,0,-9.359214733,-9.359214733,
+Realized & Unrealized Performance Summary,Data,Stocks,AVGO,0,0,0,0,0,0,25.62005931,-0.192623237,0,0,25.427436074,25.427436074,
+Realized & Unrealized Performance Summary,Data,Stocks,BAP,0,0,0,0,0,0,3.018571581,0,0,0,3.018571581,3.018571581,
+Realized & Unrealized Performance Summary,Data,Stocks,BBAR,0,0,0,0,0,0,0,-2.82071326,0,0,-2.82071326,-2.82071326,
+Realized & Unrealized Performance Summary,Data,Stocks,CCJ,0,2.86828877,0,0,0,2.86828877,0,0,0,0,0,2.86828877,
+Realized & Unrealized Performance Summary,Data,Stocks,CCL,0,2.24752943,0,0,0,2.24752943,0,0,0,0,0,2.24752943,
+Realized & Unrealized Performance Summary,Data,Stocks,CRWD,0,13.99432861,0,0,0,13.99432861,28.347917092,0,0,0,28.347917092,42.342245702,
+Realized & Unrealized Performance Summary,Data,Stocks,ENIC,0,2.70561038,0,0,0,2.70561038,0,0,0,0,0,2.70561038,
+Realized & Unrealized Performance Summary,Data,Stocks,ENPH,0,7.85056466,-3.09345985,0,0,4.75710481,0,0,0,0,0,4.75710481,
+Realized & Unrealized Performance Summary,Data,Stocks,F,0,0,0,0,0,0,1.312740526,-1.916910891,0,0,-0.604170364,-0.604170364,
+Realized & Unrealized Performance Summary,Data,Stocks,FDX,0,6.4989718,0,0,0,6.4989718,0,0,0,0,0,6.4989718,
+Realized & Unrealized Performance Summary,Data,Stocks,GOOGL,0,0,0,0,0,0,14.196459048,0,0,0,14.196459048,14.196459048,
+Realized & Unrealized Performance Summary,Data,Stocks,IBN,0,0,0,0,0,0,0,-0.310661985,0,0,-0.310661985,-0.310661985,
+Realized & Unrealized Performance Summary,Data,Stocks,IFS,0,3.05901723,-0.75695757,0,0,2.30205966,0,0,0,0,0,2.30205966,
+Realized & Unrealized Performance Summary,Data,Stocks,JPM,0,0,0,0,0,0,5.650244838,-3.55567949,0,0,2.094565348,2.094565348,
+Realized & Unrealized Performance Summary,Data,Stocks,KSPI,0,0,0,0,0,0,7.878709981,-26.626820581,0,0,-18.748110599,-18.748110599,
+Realized & Unrealized Performance Summary,Data,Stocks,MSFT,0,0,0,0,0,0,9.9439028,0,0,0,9.9439028,9.9439028,
+Realized & Unrealized Performance Summary,Data,Stocks,MSTR,0,4.40395331,0,0,0,4.40395331,0,0,0,0,0,4.40395331,
+Realized & Unrealized Performance Summary,Data,Stocks,NU,0,0,0,0,0,0,0,-2.707408674,0,0,-2.707408674,-2.707408674,
+Realized & Unrealized Performance Summary,Data,Stocks,NVDA,0,0,0,0,0,0,50.612474981,0,0,0,50.612474981,50.612474981,
+Realized & Unrealized Performance Summary,Data,Stocks,NVO,0,0,0,0,0,0,0,-15.109417411,0,0,-15.109417411,-15.109417411,
+Realized & Unrealized Performance Summary,Data,Stocks,SOLV,0,0,0,0,0,0,0,-0.285875279,0,0,-0.285875279,-0.285875279,
+Realized & Unrealized Performance Summary,Data,Stocks,T,0,1.62294764,0,0,0,1.62294764,0,0,0,0,0,1.62294764,
+Realized & Unrealized Performance Summary,Data,Stocks,TM,0,2.84791284,0,0,0,2.84791284,0,0,0,0,0,2.84791284,
+Realized & Unrealized Performance Summary,Data,Stocks,TSM,0,0,0,0,0,0,25.873110019,0,0,0,25.873110019,25.873110019,
+Realized & Unrealized Performance Summary,Data,Stocks,UEC,0,8.80282962,-0.95218393,0,0,7.85064569,0,0,0,0,0,7.85064569,
+Realized & Unrealized Performance Summary,Data,Stocks,VZ,0,2.2072321,0,0,0,2.2072321,0,0,0,0,0,2.2072321,
+Realized & Unrealized Performance Summary,Data,Total,,0,66.21485454,-4.80260135,0,0,61.41225319,183.016791577,-63.796443461,0,0,119.220348117,180.632601307,
+Realized & Unrealized Performance Summary,Data,Forex,USD,0,2.346479,-3.168651,0,0,-0.822172,0,0,0,0,0,-0.822172,
+Realized & Unrealized Performance Summary,Data,Total,,0,2.346479,-3.168651,0,0,-0.822172,0,0,0,0,0,-0.822172,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,68.56133354,-7.97125235,0,0,60.59008119,183.016791577,-63.796443461,0,0,119.220348117,179.810429307,
+Cash Report,Header,Currency Summary,Currency,Total,
+Cash Report,Data,Starting Cash,Base Currency Summary,0,
+Cash Report,Data,Commissions,Base Currency Summary,-33.63511427,
+Cash Report,Data,Deposits,Base Currency Summary,5000,
+Cash Report,Data,Dividends,Base Currency Summary,0.302648,
+Cash Report,Data,Trades (Sales),Base Currency Summary,7491.91632996,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-11510.70585365,
+Cash Report,Data,Withholding Tax,Base Currency Summary,-0.0453972,
+Cash Report,Data,Ending Cash,Base Currency Summary,947.832612816,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,835.927055082,
+Cash Report,Data,Starting Cash,GBP,0,
+Cash Report,Data,Deposits,GBP,5000,
+Cash Report,Data,Trades (Sales),GBP,910.10068352,
+Cash Report,Data,Trades (Purchase),GBP,-4962.2680707,
+Cash Report,Data,Ending Cash,GBP,947.832612817,
+Cash Report,Data,Ending Settled Cash,GBP,836.190567947,
+Cash Report,Data,Starting Cash,USD,0,
+Cash Report,Data,Commissions,USD,-44.3036796,
+Cash Report,Data,Dividends,USD,0.4,
+Cash Report,Data,Trades (Sales),USD,8692.55410806,
+Cash Report,Data,Trades (Purchase),USD,-8648.59042846,
+Cash Report,Data,Withholding Tax,USD,-0.06,
+Cash Report,Data,Ending Cash,USD,-0.000000001,
+Cash Report,Data,Ending Settled Cash,USD,-0.35350925,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Unrealized P/L %,Code
+Open Positions,Data,Summary,Stocks,USD,ABEV,44,1,2.387779273,105.062288,2.36,103.84,-1.222288,-1.16,
+Open Positions,Data,Summary,Stocks,USD,AMZN,1,1,176.99,176.99,191.16,191.16,14.17,8.01,
+Open Positions,Data,Summary,Stocks,USD,ASTS,6,1,25.922604333,155.535626,23.83,142.98,-12.555626,-8.07,
+Open Positions,Data,Summary,Stocks,USD,AVGO,2,1,161.034222,322.068444,178.09,356.18,34.111556,10.59,
+Open Positions,Data,Summary,Stocks,USD,BAP,1,1,175.690509,175.690509,179.74,179.74,4.049491,2.30,
+Open Positions,Data,Summary,Stocks,USD,BBAR,9,1,11.160451,100.444059,10.74,96.66,-3.784059,-3.77,
+Open Positions,Data,Summary,Stocks,USD,CRWD,3,1,268.803514667,806.410544,281.48,844.44,38.029456,4.72,
+Open Positions,Data,Summary,Stocks,USD,F,32,1,10.705328438,342.57051,10.68,341.76,-0.81051,-0.24,
+Open Positions,Data,Summary,Stocks,USD,GOOGL,3,1,156.381695667,469.145087,162.73,488.19,19.044913,4.06,
+Open Positions,Data,Summary,Stocks,USD,IBN,2,1,31.4883805,62.976761,31.28,62.56,-0.416761,-0.66,
+Open Positions,Data,Summary,Stocks,USD,JPM,2,1,208.3750435,416.750087,209.78,419.56,2.809913,0.67,
+Open Positions,Data,Summary,Stocks,USD,KSPI,3,1,112.49369,337.48107,104.11,312.33,-25.15107,-7.45,
+Open Positions,Data,Summary,Stocks,USD,MSFT,1,1,417.97,417.97,431.31,431.31,13.34,3.19,
+Open Positions,Data,Summary,Stocks,USD,NU,12,1,14.1226715,169.472058,13.82,165.84,-3.632058,-2.14,
+Open Positions,Data,Summary,Stocks,USD,NVDA,5,1,110.460414,552.30207,124.04,620.2,67.89793,12.29,
+Open Positions,Data,Summary,Stocks,USD,NVO,3,1,131.056556667,393.16967,124.3,372.9,-20.26967,-5.16,
+Open Positions,Data,Summary,Stocks,USD,SOLV,1,1,68.483509,68.483509,68.1,68.1,-0.383509,-0.56,
+Open Positions,Data,Summary,Stocks,USD,TSM,2,1,169.4752805,338.950561,186.83,373.66,34.709439,10.24,
+Open Positions,Total,,Stocks,USD,,,,,5411.472853,,5571.41,159.937147,,
+Open Positions,Total,,Stocks,GBP,,,,,4033.820094083,,4153.0404422,119.220348117,,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,Realized P/L %,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,AAPL,"2024-09-16, 15:40:55",1,216.655,216.32,-216.655,-0.35050925,217.00550925,0,0,-0.335,O
+Trades,Data,Order,Stocks,USD,AAPL,"2024-09-19, 09:40:52",-1,226.8,228.87,226.8,-0.35538029,-217.005509,9.439111,4.349710311,-2.07,C
+Trades,SubTotal,,Stocks,USD,AAPL,,0,,,10.145,-0.70588954,0.00000025,9.439111,4.35,-2.405,
+Trades,Data,Order,Stocks,USD,ABEV,"2024-09-09, 13:18:55",44,2.365,2.37,-104.06,-1.002288,105.062288,0,0,0.22,O
+Trades,SubTotal,,Stocks,USD,ABEV,,44,,,-104.06,-1.002288,105.062288,0,0.00,0.22,
+Trades,Data,Order,Stocks,USD,AMZN,"2024-09-03, 15:41:16",1,175.99,176.25,-175.99,-1,176.99,0,0,0.26,O
+Trades,SubTotal,,Stocks,USD,AMZN,,1,,,-175.99,-1,176.99,0,0.00,0.26,
+Trades,Data,Order,Stocks,USD,ASTS,"2024-09-20, 11:14:29",4,26.67,26.5,-106.68,-0.35126525,107.03126525,0,0,-0.68,O
+Trades,Data,Order,Stocks,USD,ASTS,"2024-09-26, 06:53:35",2,24.08,23.83,-48.16,-0.34436125,48.50436125,0,0,-0.5,O
+Trades,SubTotal,,Stocks,USD,ASTS,,6,,,-154.84,-0.6956265,155.5356265,0,0.00,-1.18,
+Trades,Data,Order,Stocks,USD,AVGO,"2024-09-05, 17:35:35",1,142.72,152.82,-142.72,-1.000035,143.720035,0,0,10.1,O
+Trades,Data,Order,Stocks,USD,AVGO,"2024-09-26, 10:50:08",1,178,178.09,-178,-0.34840925,178.34840925,0,0,0.09,O
+Trades,SubTotal,,Stocks,USD,AVGO,,2,,,-320.72,-1.34844425,322.06844425,0,0.00,10.19,
+Trades,Data,Order,Stocks,USD,BAP,"2024-09-23, 15:52:14",1,175.34,175.7,-175.34,-0.35050925,175.69050925,0,0,0.36,O
+Trades,SubTotal,,Stocks,USD,BAP,,1,,,-175.34,-0.35050925,175.69050925,0,0.00,0.36,
+Trades,Data,Order,Stocks,USD,BBAR,"2024-09-09, 15:11:21",9,11.0499,11.06,-99.4491,-0.994959,100.444059,0,0,0.0909,O
+Trades,SubTotal,,Stocks,USD,BBAR,,9,,,-99.4491,-0.994959,100.444059,0,0.00,0.0909,
+Trades,Data,Order,Stocks,USD,CCJ,"2024-08-29, 11:32:11",1,40.666,40.25,-40.666,-0.40666,41.07266,0,0,-0.416,O
+Trades,Data,Order,Stocks,USD,CCJ,"2024-09-03, 13:50:23",1,37.92,37.95,-37.92,-0.3792,38.2992,0,0,0.03,O
+Trades,Data,Order,Stocks,USD,CCJ,"2024-09-20, 07:01:29",-2,41.77,44.4,83.54,-0.347015662,-79.37186,3.821124,4.814204934,-5.26,C
+Trades,SubTotal,,Stocks,USD,CCJ,,0,,,4.954,-1.132875662,0,3.821124,4.81,-5.646,
+Trades,Data,Order,Stocks,USD,CCL,"2024-08-29, 11:41:06",2,16.575,16.54,-33.15,-0.3315,33.4815,0,0,-0.07,O
+Trades,Data,Order,Stocks,USD,CCL,"2024-09-18, 09:36:26",-2,18.4,18.36,36.8,-0.34891629,-33.4815,2.969584,8.869327838,0.08,C
+Trades,SubTotal,,Stocks,USD,CCL,,0,,,3.65,-0.68041629,0,2.969584,8.87,0.01,
+Trades,Data,Order,Stocks,USD,CRWD,"2024-08-30, 11:31:41",1,276,277.28,-276,-1,277,0,0,1.28,O
+Trades,Data,Order,Stocks,USD,CRWD,"2024-09-03, 14:59:51",1,267.68,266.6,-267.68,-1,268.68,0,0,-1.08,O
+Trades,Data,Order,Stocks,USD,CRWD,"2024-09-05, 15:51:47",1,256,256.43,-256,-1.000035,257.000035,0,0,0.43,O
+Trades,Data,Order,Stocks,USD,CRWD,"2024-09-20, 15:15:23",-1,296,299.85,296,-0.35680405,-277,18.643196,6.730395668,-3.85,C
+Trades,Data,Order,Stocks,USD,CRWD,"2024-09-26, 11:44:26",1,280.38,281.48,-280.38,-0.35050925,280.73050925,0,0,1.1,O
+Trades,SubTotal,,Stocks,USD,CRWD,,3,,,-784.06,-3.7073483,806.41054425,18.643196,6.73,-2.12,
+Trades,Data,Order,Stocks,USD,ENIC,"2024-09-17, 15:25:24",40,2.625,2.61,-105,-0.36033725,105.36033725,0,0,-0.6,O
+Trades,Data,Order,Stocks,USD,ENIC,"2024-09-26, 10:49:20",-40,2.734,2.77,109.36,-0.370017458,-105.360337,3.629646,3.444983286,-1.44,C
+Trades,SubTotal,,Stocks,USD,ENIC,,0,,,4.36,-0.730354708,0.00000025,3.629646,3.44,-2.04,
+Trades,Data,Order,Stocks,USD,ENPH,"2024-08-29, 11:42:18",1,122.91,121.3,-122.91,-1,123.91,0,0,-1.61,O
+Trades,Data,Order,Stocks,USD,ENPH,"2024-09-06, 14:11:01",1,108.45,108.65,-108.45,-1.000035,109.450035,0,0,0.2,O
+Trades,Data,Order,Stocks,USD,ENPH,"2024-09-18, 09:32:38",-2,120,119.74,240,-0.35456525,-233.360035,6.285399,2.693434204,0.52,C
+Trades,SubTotal,,Stocks,USD,ENPH,,0,,,8.64,-2.35460025,0,6.285399,2.69,-0.89,
+Trades,Data,Order,Stocks,USD,F,"2024-09-09, 04:00:00",20,10.57,10.66,-211.4,-1.00104,212.40104,0,0,1.8,O;P
+Trades,Data,Order,Stocks,USD,F,"2024-09-17, 04:00:00",3,10.86,10.9,-32.58,-0.317195463,32.897195463,0,0,0.12,O
+Trades,Data,Order,Stocks,USD,F,"2024-09-17, 04:00:00",3,10.86,10.9,-32.58,-0.317195463,32.897195463,0,0,0.12,O
+Trades,Data,Order,Stocks,USD,F,"2024-09-17, 04:00:00",3,10.86,10.9,-32.58,-0.317195463,32.897195463,0,0,0.12,O
+Trades,Data,Order,Stocks,USD,F,"2024-09-25, 09:36:01",3,10.39,10.42,-31.17,-0.3078851,31.4778851,0,0,0.09,O
+Trades,SubTotal,,Stocks,USD,F,,32,,,-340.31,-2.260511489,342.570511489,0,0.00,2.25,
+Trades,Data,Order,Stocks,USD,FDX,"2024-09-20, 09:46:21",1,256,254.64,-256,-0.34840925,256.34840925,0,0,-1.36,O
+Trades,Data,Order,Stocks,USD,FDX,"2024-09-26, 15:29:15",-1,265.425,266.33,265.425,-0.358054065,-256.348409,8.718537,3.40104978,-0.905,C
+Trades,SubTotal,,Stocks,USD,FDX,,0,,,9.425,-0.706463315,0.00000025,8.718537,3.40,-2.265,
+Trades,Data,Order,Stocks,USD,GOOGL,"2024-08-29, 15:26:26",1,161.145,161.78,-161.145,-1,162.145,0,0,0.635,O
+Trades,Data,Order,Stocks,USD,GOOGL,"2024-09-06, 09:51:48",1,155,150.92,-155,-1.000035,156.000035,0,0,-4.08,O
+Trades,Data,Order,Stocks,USD,GOOGL,"2024-09-09, 10:33:38",1,150,148.71,-150,-1.000052,151.000052,0,0,-1.29,O
+Trades,SubTotal,,Stocks,USD,GOOGL,,3,,,-466.145,-3.000087,469.145087,0,0.00,-4.735,
+Trades,Data,Order,Stocks,USD,IBN,"2024-09-24, 17:25:06",2,31.31,31.25,-62.62,-0.35676125,62.97676125,0,0,-0.12,O
+Trades,SubTotal,,Stocks,USD,IBN,,2,,,-62.62,-0.35676125,62.97676125,0,0.00,-0.12,
+Trades,Data,Order,Stocks,USD,IFS,"2024-09-05, 15:58:52",8,25,25.03,-200,-1.00028,201.00028,0,0,0.24,O
+Trades,Data,Order,Stocks,USD,IFS,"2024-09-18, 10:59:11",2,24.34,25.03,-48.68,-0.34676125,49.02676125,0,0,1.38,O
+Trades,Data,Order,Stocks,USD,IFS,"2024-09-18, 11:49:30",-2,24.8,25.03,49.6,-0.35007213,-50.25007,-1.000142,-1.990329566,-0.46,C
+Trades,Data,Order,Stocks,USD,IFS,"2024-09-26, 11:08:59",-8,25.53,26.06,204.24,-0.359279122,-199.776971,4.10375,2.054165693,-4.24,C
+Trades,SubTotal,,Stocks,USD,IFS,,0,,,5.16,-2.056392502,0.00000025,3.103608,1.24,-3.08,
+Trades,Data,Order,Stocks,USD,JPM,"2024-09-06, 12:13:27",1,213.55,212.46,-213.55,-1.000035,214.550035,0,0,-1.09,O
+Trades,Data,Order,Stocks,USD,JPM,"2024-09-10, 12:01:31",1,201.2,205.56,-201.2,-1.000052,202.200052,0,0,4.36,O
+Trades,SubTotal,,Stocks,USD,JPM,,2,,,-414.75,-2.000087,416.750087,0,0.00,3.27,
+Trades,Data,Order,Stocks,USD,KSPI,"2024-09-10, 04:00:00",1,123.5,122.92,-123.5,-1.000052,124.500052,0,0,-0.58,O
+Trades,Data,Order,Stocks,USD,KSPI,"2024-09-18, 12:11:59",1,119.09,119.01,-119.09,-0.35050925,119.44050925,0,0,-0.08,O
+Trades,Data,Order,Stocks,USD,KSPI,"2024-09-19, 11:59:19",1,93.19,99.81,-93.19,-0.35050925,93.54050925,0,0,6.62,O
+Trades,SubTotal,,Stocks,USD,KSPI,,3,,,-335.78,-1.7010705,337.4810705,0,0.00,5.96,
+Trades,Data,Order,Stocks,USD,MSFT,"2024-08-29, 14:06:15",1,416.97,413.12,-416.97,-1,417.97,0,0,-3.85,O
+Trades,SubTotal,,Stocks,USD,MSFT,,1,,,-416.97,-1,417.97,0,0.00,-3.85,
+Trades,Data,Order,Stocks,USD,MSTR,"2024-09-16, 15:36:43",1,135.2,134.53,-135.2,-0.34840925,135.54840925,0,0,-0.67,O
+Trades,Data,Order,Stocks,USD,MSTR,"2024-09-19, 08:18:41",-1,141.75,144.66,141.75,-0.3514159,-135.548409,5.850175,4.315930407,-2.91,C
+Trades,SubTotal,,Stocks,USD,MSTR,,0,,,6.55,-0.69982515,0.00000025,5.850175,4.32,-3.58,
+Trades,Data,Order,Stocks,USD,NU,"2024-09-04, 11:35:53",2,14.33,14.24,-28.66,-0.2866,28.9466,0,0,-0.18,O
+Trades,Data,Order,Stocks,USD,NU,"2024-09-06, 10:25:31",7,13.7,13.7,-95.9,-0.959245,96.859245,0,0,0,O
+Trades,Data,Order,Stocks,USD,NU,"2024-09-26, 09:56:19",3,14.44,13.82,-43.32,-0.34621325,43.66621325,0,0,-1.86,O
+Trades,SubTotal,,Stocks,USD,NU,,12,,,-167.88,-1.59205825,169.47205825,0,0.00,-2.04,
+Trades,Data,Order,Stocks,USD,NVDA,"2024-08-29, 11:54:10",1,121.037,117.59,-121.037,-1,122.037,0,0,-3.447,O
+Trades,Data,Order,Stocks,USD,NVDA,"2024-09-03, 13:49:10",1,109.775,108,-109.775,-1,110.775,0,0,-1.775,O
+Trades,Data,Order,Stocks,USD,NVDA,"2024-09-04, 17:05:31",1,106.49,106.21,-106.49,-1,107.49,0,0,-0.28,O
+Trades,Data,Order,Stocks,USD,NVDA,"2024-09-05, 08:18:31",1,105,107.21,-105,-1.000035,106.000035,0,0,2.21,O
+Trades,Data,Order,Stocks,USD,NVDA,"2024-09-06, 04:12:09",1,105,102.83,-105,-1.000035,106.000035,0,0,-2.17,O
+Trades,SubTotal,,Stocks,USD,NVDA,,5,,,-547.302,-5.00007,552.30207,0,0.00,-5.462,
+Trades,Data,Order,Stocks,USD,NVO,"2024-09-10, 04:00:00",1,132,129.78,-132,-1.000052,133.000052,0,0,-2.22,O
+Trades,Data,Order,Stocks,USD,NVO,"2024-09-17, 14:20:15",1,132.64,132,-132.64,-0.35030925,132.99030925,0,0,-0.64,O
+Trades,Data,Order,Stocks,USD,NVO,"2024-09-20, 11:13:04",1,126.83,127.51,-126.83,-0.34930925,127.17930925,0,0,0.68,O
+Trades,SubTotal,,Stocks,USD,NVO,,3,,,-391.47,-1.6996705,393.1696705,0,0.00,-2.18,
+Trades,Data,Order,Stocks,USD,SOLV,"2024-09-26, 18:39:51",1,68.13,68.1,-68.13,-0.35350925,68.48350925,0,0,-0.03,O
+Trades,SubTotal,,Stocks,USD,SOLV,,1,,,-68.13,-0.35350925,68.48350925,0,0.00,-0.03,
+Trades,Data,Order,Stocks,USD,T,"2024-08-29, 12:00:40",2,19.729,19.76,-39.458,-0.39458,39.85258,0,0,0.062,O
+Trades,Data,Order,Stocks,USD,T,"2024-09-09, 11:29:57",-2,21.2,21.5,42.4,-0.42561472,-39.85258,2.121805,5.324134598,-0.6,C
+Trades,SubTotal,,Stocks,USD,T,,0,,,2.942,-0.82019472,-0,2.121805,5.32,-0.538,
+Trades,Data,Order,Stocks,USD,TM,"2024-09-23, 14:22:53",1,184.96,185.4,-184.96,-0.35350925,185.31350925,0,0,0.44,O
+Trades,Data,Order,Stocks,USD,TM,"2024-09-26, 10:47:28",-1,189.49,189.36,189.49,-0.355943072,-185.313509,3.820548,2.061667291,0.13,C
+Trades,SubTotal,,Stocks,USD,TM,,0,,,4.53,-0.709452322,0.00000025,3.820548,2.06,0.57,
+Trades,Data,Order,Stocks,USD,TSM,"2024-09-10, 04:00:00",1,162.88,162.43,-162.88,-1.000052,163.880052,0,0,-0.45,O
+Trades,Data,Order,Stocks,USD,TSM,"2024-09-23, 14:25:37",1,174.72,174.76,-174.72,-0.35050925,175.07050925,0,0,0.04,O
+Trades,SubTotal,,Stocks,USD,TSM,,2,,,-337.6,-1.35056125,338.95056125,0,0.00,-0.41,
+Trades,Data,Order,Stocks,USD,UEC,"2024-08-29, 11:26:12",4,5.065,5.08,-20.26,-0.2026,20.4626,0,0,0.06,O
+Trades,Data,Order,Stocks,USD,UEC,"2024-09-03, 14:58:29",2,4.738,4.72,-9.476,-0.09476,9.57076,0,0,-0.036,O
+Trades,Data,Order,Stocks,USD,UEC,"2024-09-06, 14:12:30",23,4.265,4.26,-98.095,-0.981755,99.076755,0,0,-0.115,O
+Trades,Data,Order,Stocks,USD,UEC,"2024-09-11, 09:59:38",-29,4.84,5.18,140.36,-1.010224008,-129.110115,10.239661,7.930951808,-9.86,C
+Trades,SubTotal,,Stocks,USD,UEC,,0,,,12.529,-2.289339008,0,10.239661,7.93,-9.951,
+Trades,Data,Order,Stocks,USD,VZ,"2024-09-05, 09:42:11",3,41,41.31,-123,-1.000105,124.000105,0,0,0.93,O
+Trades,Data,Order,Stocks,USD,VZ,"2024-09-09, 14:43:28",-3,42.63,42.73,127.89,-1.004209342,-124.000105,2.885686,2.327164158,-0.3,C
+Trades,SubTotal,,Stocks,USD,VZ,,0,,,4.89,-2.004314342,0,2.885686,2.33,0.63,
+Trades,Total,,Stocks,USD,,,,,,-5285.6411,-44.303679598,5411.472859239,81.52808,,-28.7111, 
+Trades,Total,,Stocks,GBP,,,,,,-4017.967354289,-33.635114291,4113.014721769,61.412253454,,-21.721765789, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,,Proceeds,Comm in GBP,,,,MTM in GBP,Code
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:26:13",-15.39,1.3162,,20.256318,0,,,,-0.00796,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:26:13",-0.16,1.3162,,0.210592,0,,,,-0.000083,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:32:11",-30.91,1.3161,,40.680651,0,,,,-0.018334,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:32:11",-0.3,1.3161,,0.39483,0,,,,-0.000178,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:41:06",-25.17,1.31675,,33.1425975,0,,,,-0.002506,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:41:06",-0.26,1.31675,,0.342355,0,,,,-0.000026,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:42:19",-0.76,1.31675,,1.00073,0,,,,-0.000076,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:42:19",-93.35,1.31675,,122.9186125,0,,,,-0.009293,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:54:10",-0.76,1.31755,,1.001338,0,,,,0.000386,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 11:54:10",-91.87,1.31755,,121.0433185,0,,,,0.046665,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 12:00:41",-29.93,1.31835,,39.4582155,0,,,,0.033385,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 12:00:41",-0.29,1.31835,,0.3823215,0,,,,0.000323,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 14:06:16",-0.76,1.31795,,1.001642,0,,,,0.000617,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 14:06:16",-316.42,1.31795,,417.025739,0,,,,0.256835,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 15:26:27",-122.3,1.31725,,161.099675,0,,,,0.03426,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 15:26:27",-0.76,1.31725,,1.00111,0,,,,0.000213,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 17:00:00",-0.00032018,1.31642708,,0.0004215,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-29, 17:00:00",0.02211226,1.31723276,,-0.029127,0,,,,-0.000006,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-30, 11:31:41",-0.77,1.31325,,1.0112025,0,,,,0.000253,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-30, 11:31:42",-210.17,1.31335,,276.0267695,0,,,,0.085111,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-30, 17:00:00",0.00853112,1.31313275,,-0.0112025,0,,,,-0.000002,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-08-30, 17:00:00",0.02038503,1.31319384,,-0.0267695,0,,,,-0.000006,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 13:49:10",-0.77,1.3095,,1.008315,0,,,,-0.00114,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 13:49:11",-83.84,1.3095,,109.78848,0,,,,-0.124088,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 13:50:23",-0.29,1.3095,,0.379755,0,,,,-0.000429,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 13:50:23",-28.95,1.3095,,37.910025,0,,,,-0.042848,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 14:58:29",-0.08,1.30985,,0.104788,0,,,,-0.000097,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 14:58:30",-7.22,1.30985,,9.457117,0,,,,-0.008759,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 14:59:51",-0.75,1.30985,,0.9823875,0,,,,-0.00091,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 14:59:51",-204.41,1.30985,,267.7464385,0,,,,-0.247986,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 15:41:17",-134.35,1.3099,,175.985065,0,,,,-0.157868,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 15:41:17",-0.76,1.3099,,0.995524,0,,,,-0.000893,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 17:00:00",0.03516259,1.31177779,,-0.046125499,0,,,,-0.000009,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 17:00:00",-0.00243368,1.31097533,,0.0031905,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 17:00:00",0,1.3114,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-03, 20:26:00",0,1.3114,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-04, 11:35:53",-21.8,1.31455,,28.65719,0,,,,-0.003914,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-04, 11:35:53",-0.22,1.31455,,0.289201,0,,,,-0.00004,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-04, 17:00:00",-0.75884009,1.31437309,,0.997398999,0,,,,-0.000238,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-04, 17:00:00",-81.02075053,1.31438933,,106.49281,0,,,,-0.02445,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 08:18:32",-79.72,1.31735,,105.019142,0,,,,-0.038826,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 08:18:32",-0.76,1.3173,,1.001148,0,,,,-0.000399,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 09:42:12",-93.38,1.31725,,123.004805,0,,,,-0.052564,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 09:42:12",-0.76,1.3172,,1.001072,0,,,,-0.000457,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 15:51:47",-0.76,1.31725,,1.00111,0,,,,-0.000428,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 15:51:48",-194.36,1.31725,,256.02071,0,,,,-0.109407,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 15:58:53",-0.76,1.31675,,1.00073,0,,,,-0.000716,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 15:58:53",-151.88,1.31675,,199.98799,0,,,,-0.143112,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 17:00:00",-0.75628344,1.31753512,,0.996429999,0,,,,-0.000262,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-05, 17:00:00",-108.29728075,1.3175525,,142.687353001,0,,,,-0.036106,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 04:12:09",-0.76,1.3172,,1.001072,0,,,,0.002426,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 04:12:10",-79.72,1.31725,,105.01117,0,,,,0.257557,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 09:51:48",-0.76,1.31595,,1.000122,0,,,,0.001703,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 09:51:49",-117.79,1.316,,155.01164,0,,,,0.268415,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 10:25:32",-72.81,1.317,,95.89077,0,,,,0.221369,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 10:25:32",-0.73,1.31695,,0.9613735,0,,,,0.002192,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 12:13:27",-0.76,1.31205,,0.997158,0,,,,-0.000554,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 12:13:27",-162.78,1.3121,,213.583638,0,,,,-0.112565,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 14:11:01",-0.76,1.3122,,0.997272,0,,,,-0.000468,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 14:11:02",-82.63,1.31225,,108.4312175,0,,,,-0.0477,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 14:12:31",-0.75,1.31235,,0.9842625,0,,,,-0.000376,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 14:12:31",-74.74,1.3124,,98.088776,0,,,,-0.034607,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 17:00:00",0.01691174,1.31337746,,-0.022211499,0,,,,-0.000004,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 17:00:00",0.00009137,1.31332811,,-0.00012,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 17:00:00",0,1.313,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-06, 20:26:00",0,1.313,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 04:00:00",-0.77,1.3104,,1.009008,0,,,,0.00178,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 04:00:10",-80.69,1.3103,,105.728107,0,,,,0.180372,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 09:34:13",-80.75,1.30885,,105.6896375,0,,,,0.090947,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 10:33:38",-0.76,1.308,,0.99408,0,,,,0.000362,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 10:33:39",-114.69,1.308,,150.01452,0,,,,0.054606,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 11:29:57",-0.33,1.307,,0.43131,0,,,,-0.000095,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 13:18:55",-47.06,1.3099,,61.643894,0,,,,0.090798,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 13:18:55",-0.76,1.3099,,0.995524,0,,,,0.001466,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 14:43:28",-0.77,1.3081,,1.007237,0,,,,0.000426,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 15:11:21",-0.76,1.3077,,0.993852,0,,,,0.000187,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 17:00:00",21.75988074,1.3077764,,-28.4570585,0,,,,-0.006638,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-09, 17:00:00",0.00217772,1.30776057,,-0.002847939,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 04:00:00",-2.31,1.3089,,3.023559,0,,,,0.001481,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 04:00:00",-319.69,1.30885,,418.4262565,0,,,,0.192689,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 12:01:31",-0.75,1.3063,,0.979725,0,,,,-0.00101,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 12:01:32",-154.02,1.3063,,201.196326,0,,,,-0.207421,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 17:00:00",0.03254356,1.30847693,,-0.0425825,0,,,,-0.00001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-10, 17:00:00",0.00235085,1.30846142,,-0.003076,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-11, 09:59:38",-0.78,1.3033,,1.016574,0,,,,-0.000603,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-11, 17:00:00",0.00486716,1.30465942,,-0.006349991,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-11, 17:00:00",107.58231841,1.30467536,,-140.36,0,,,,-0.03029,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-11, 17:00:00",0,1.3043,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-11, 20:26:00",0,1.3043,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-12, 17:00:00",0,1.31282914,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-16, 15:36:44",-102.39,1.32085,,135.2418315,0,,,,-0.063325,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-16, 15:40:55",-0.27,1.32085,,0.3566295,0,,,,-0.000167,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-16, 15:40:55",-164.03,1.32085,,216.6590255,0,,,,-0.101448,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-16, 17:00:00",0.03468547,1.32208081,,-0.045857,0,,,,-0.000011,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-16, 17:00:00",-0.00173242,1.32127211,,0.002289,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 04:00:00",-0.72,1.3216,,0.951552,0,,,,0.003065,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 04:00:00",-73.98,1.3216,,97.771968,0,,,,0.314963,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 14:20:15",-0.27,1.3154,,0.355158,0,,,,-0.000123,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 14:20:16",-100.83,1.3154,,132.631782,0,,,,-0.045761,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 15:25:24",-0.27,1.31605,,0.3553335,0,,,,0.000011,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 15:25:25",-79.78,1.31605,,104.994469,0,,,,0.003197,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 17:00:00",-0.00014396,1.315572,,0.000189388,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 17:00:00",0.01384025,1.31637819,,-0.018219001,0,,,,-0.000004,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 17:00:00",0,1.316,,0.000000003,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-17, 20:26:00",0,1.316,,-0.000000003,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 09:32:38",-0.27,1.32465,,0.3576555,0,,,,0.000692,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 09:36:26",-0.26,1.32465,,0.344409,0,,,,0.000666,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 10:59:11",-0.26,1.321,,0.34346,0,,,,-0.000052,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 11:49:31",-0.27,1.31945,,0.3562515,0,,,,-0.000371,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 12:11:59",-0.26,1.3199,,0.343174,0,,,,-0.000269,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 17:00:00",-0.0044472,1.32086918,,0.005874172,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 17:00:00",120.02156318,1.32167917,,-158.630000001,0,,,,-0.037553,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 17:00:00",0,1.3213,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-18, 20:26:00",0,1.3213,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 08:18:58",-0.27,1.32755,,0.3584385,0,,,,-0.000171,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 09:40:52",-0.26,1.3233,,0.344058,0,,,,-0.000997,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 11:59:19",-0.27,1.3277,,0.358479,0,,,,-0.000141,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 17:00:00",0.0027621,1.32872072,,-0.00367006,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 17:00:00",207.23389278,1.32874018,,-275.36,0,,,,-0.054361,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 17:00:00",0,1.3284,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-19, 20:26:00",0,1.3284,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 07:01:29",-0.26,1.3283,,0.345358,0,,,,-0.00076,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 09:46:22",-0.27,1.32875,,0.3587625,0,,,,-0.000699,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 09:46:22",-129.82,1.3288,,172.504816,0,,,,-0.330985,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 11:13:04",-0.26,1.3272,,0.345072,0,,,,-0.000975,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 11:13:04",-95.55,1.3272,,126.81396,0,,,,-0.358369,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 11:14:29",-0.26,1.3274,,0.345124,0,,,,-0.000936,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 11:14:29",-80.37,1.3274,,106.683138,0,,,,-0.289369,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 15:15:24",-0.27,1.33155,,0.3595185,0,,,,-0.000131,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 17:00:00",0.00077405,1.33264402,,-0.001031537,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 17:00:00",222.14432384,1.33261075,,-296.031914001,0,,,,-0.069072,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 17:00:00",0,1.3322,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-20, 20:26:00",0,1.3322,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 14:22:54",-138.59,1.33495,,185.0107205,0,,,,0.020032,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 14:22:54",-0.27,1.33495,,0.3604365,0,,,,0.000039,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 14:25:37",-0.26,1.33505,,0.347113,0,,,,0.000057,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 14:25:37",-130.87,1.33505,,174.7179935,0,,,,0.028721,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 15:52:14",-131.38,1.33455,,175.333179,0,,,,-0.020382,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 15:52:14",-0.26,1.33455,,0.346983,0,,,,-0.00004,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 17:00:00",0.03137537,1.33521914,,-0.041893,0,,,,-0.000011,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-23, 17:00:00",0.00000356,1.33523784,,-0.000004749,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-24, 17:00:00",-0.26605887,1.34091095,,0.356761249,0,,,,-0.000076,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-24, 17:00:00",-46.69982857,1.34090428,,62.619999999,0,,,,-0.013488,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-24, 17:00:00",0,1.3413,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-24, 20:26:00",0,1.3413,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 09:36:01",-23.25,1.3408,,31.1736,0,,,,0.147034,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 09:36:01",-0.23,1.3408,,0.308384,0,,,,0.001455,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 17:00:00",0.00270108,1.33279994,,-0.003600001,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 17:00:00",0.00037432,1.33280017,,-0.000498898,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 17:00:00",0,1.3324,,0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-25, 20:26:00",0,1.3324,,-0.000000001,0,,,,0,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 06:53:35",-36.01,1.33765,,48.1687765,0,,,,-0.104031,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 06:53:35",-0.26,1.33765,,0.347789,0,,,,-0.000751,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 09:56:19",-32.42,1.3362,,43.319604,0,,,,-0.128701,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 09:56:19",-0.26,1.3362,,0.347412,0,,,,-0.001032,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 10:47:28",-0.27,1.33905,,0.3615435,0,,,,-0.000498,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 10:49:20",-0.27,1.33955,,0.3616785,0,,,,-0.000398,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 10:50:09",-0.26,1.33975,,0.348335,0,,,,-0.000344,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 11:08:59",-0.27,1.33975,,0.3617325,0,,,,-0.000357,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 11:44:26",-0.26,1.34195,,0.348907,0,,,,0.000082,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 15:29:16",-0.27,1.3414,,0.362178,0,,,,-0.000025,AFx
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 17:00:00",0.00505907,1.34190365,,-0.006788782,0,,,,-0.000001,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 17:00:00",231.12199586,1.34190335,,-310.143380501,0,,,,-0.065083,
+Trades,Data,Order,Forex,USD,GBP.USD,"2024-09-26, 17:00:00",-51.04995099,1.3415,,68.48350925,0,,,,-0.000974,
+Trades,SubTotal,,Forex,USD,GBP.USD,,-4052.1673872,,,5329.604779597,0,,,,-0.822167,
+Trades,Total,,Forex,USD,,,,,,5329.604779597,0,,,,-0.822167, 
+Trades,Total,,Forex,GBP,,,,,,4051.34521778,0,,,,-0.822167, 
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,GBP,2024-08-29,Electronic Fund Transfer (Regular Contribution),500
+Deposits & Withdrawals,Data,GBP,2024-08-29,Electronic Fund Transfer (Regular Contribution),500
+Deposits & Withdrawals,Data,GBP,2024-09-03,Electronic Fund Transfer (Regular Contribution),200
+Deposits & Withdrawals,Data,GBP,2024-09-03,Electronic Fund Transfer (Regular Contribution),100
+Deposits & Withdrawals,Data,GBP,2024-09-03,Electronic Fund Transfer (Regular Contribution),400
+Deposits & Withdrawals,Data,GBP,2024-09-05,Electronic Fund Transfer (Regular Contribution),800
+Deposits & Withdrawals,Data,GBP,2024-09-06,Electronic Fund Transfer (Regular Contribution),500
+Deposits & Withdrawals,Data,GBP,2024-09-06,Electronic Fund Transfer (Regular Contribution),2000
+Deposits & Withdrawals,Data,Total,,,5000
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2024-09-16,GOOGL(US02079K3059) Cash Dividend USD 0.20 per Share (Ordinary Dividend),0.4
+Dividends,Data,Total,,,0.4
+Dividends,Data,Total in GBP,,,0.302648
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2024-09-16,GOOGL(US02079K3059) Cash Dividend USD 0.20 per Share - US Tax,-0.06,
+Withholding Tax,Data,Total,,,-0.06,
+Withholding Tax,Data,Total in GBP,,,-0.0453972,
+Change in Dividend Accruals,Header,Asset Category,Currency,Symbol,Date,Ex Date,Pay Date,Quantity,Tax,Fee,Gross Rate,Gross Amount,Net Amount,Code
+Change in Dividend Accruals,Data,Starting Dividend Accruals in GBP,,,,,,,,,,,0,
+Change in Dividend Accruals,Data,Stocks,USD,AVGO,2024-09-18,2024-09-19,2024-09-30,1,0.08,0,0.53,0.53,0.45,Po
+Change in Dividend Accruals,Data,Stocks,USD,GOOGL,2024-09-06,2024-09-09,2024-09-16,2,0.06,0,0.2,0.4,0.34,Po
+Change in Dividend Accruals,Data,Stocks,USD,GOOGL,2024-09-16,2024-09-09,2024-09-16,2,-0.06,0,0.2,-0.4,-0.34,Re
+Change in Dividend Accruals,Data,Stocks,USD,NVDA,2024-09-11,2024-09-12,2024-10-03,5,0.01,0,0.01,0.05,0.04,Po
+Change in Dividend Accruals,Data,Stocks,USD,TSM,2024-09-11,2024-09-12,2024-10-09,1,0.13,0,0.625999,0.62,0.49,Po
+Change in Dividend Accruals,Data,Total,,,,,,,0.22,0,,1.2,0.98,
+Change in Dividend Accruals,Data,Total in GBP,,,,,,,0.1673882,0,,0.9127731,0.7453849,
+Change in Dividend Accruals,Data,Ending Dividend Accruals in GBP,,,,,,,,,,,0.7305116,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Underlying,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,AAPL,APPLE INC,265598,US0378331005,AAPL,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,ABEV,AMBEV SA-ADR,137736417,US02319V1035,ABEV,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,AMZN,AMAZON.COM INC,3691937,US0231351067,AMZN,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,ASTS,AST SPACEMOBILE INC,480745767,US00217D1000,ASTS,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,AVGO,BROADCOM INC,313130367,US11135F1012,AVGO,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,BAP,CREDICORP LTD,2006458,BMG2519Y1084,BAP,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,BBAR,BBVA ARGENTINA SA-ADR,390462028,US0589341009,BBAR,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,CCJ,CAMECO CORP,1447060,CA13321L1085,CCJ,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,CCL,CARNIVAL CORP,5516,PA1436583006,CCL,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,CRWD,CROWDSTRIKE HOLDINGS INC - A,370757467,US22788C1053,CRWD,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,ENIC,ENEL CHILE SA-ADR,229115037,US29278D1054,ENIC,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,ENPH,ENPHASE ENERGY INC,105368327,US29355A1079,ENPH,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,F,FORD MOTOR CO,9599491,US3453708600,F,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,FDX,FEDEX CORPORATION,5100583,US31428X1063,FDX,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,GOOGL,ALPHABET INC-CL A,208813719,US02079K3059,GOOGL,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,IBN,ICICI BANK LTD-SPON ADR,8068883,US45104G1040,IBN,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,IFS,INTERCORP FINANCIAL SERVICES,374733820,PAL2400671A3,IFS,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,JPM,JPMORGAN CHASE & CO,1520593,US46625H1005,JPM,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,KSPI,JSC KASPI.KZ ADR,679110496,US48581R2058,KSPI,NASDAQ,1,ADR,
+Financial Instrument Information,Data,Stocks,MSFT,MICROSOFT CORP,272093,US5949181045,MSFT,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,MSTR,MICROSTRATEGY INC-CL A,272110,US5949724083,MSTR,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,NU,NU HOLDINGS LTD/CAYMAN ISL-A,531212348,KYG6683N1034,NU,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,NVDA,NVIDIA CORP,4815747,US67066G1040,NVDA,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,NVO,NOVO-NORDISK A/S-SPONS ADR,10611,US6701002056,NVO,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,SOLV,SOLVENTUM CORP,691984360,US83444M1018,SOLV,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,T,AT&T INC,37018770,US00206R1023,T,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,TM,TOYOTA MOTOR CORP -SPON ADR,275241,US8923313071,TM,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,TSM,TAIWAN SEMICONDUCTOR-SP ADR,6223250,US8740391003,TSM,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,UEC,URANIUM ENERGY CORP,37451201,US9168961038,UEC,AMEX,1,COMMON,
+Financial Instrument Information,Data,Stocks,VZ,VERIZON COMMUNICATIONS INC,4901,US92343V1044,VZ,NYSE,1,COMMON,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,AFx,AutoFX conversion resulting from trading
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,DT,Discounted Trade
+Codes,Data,De,Delivery or Conversion Action
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,The fractional portion of this trade was executed against IB or an affiliate.
+Codes,Data,FPA,The fractional portion of this trade was executed against IB or an affiliate. IB acted as agent for the whole share portion of this trade.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,The transaction was executed against IB or an affiliate
+Codes,Data,IM,A portion of the order was executed against IB or an affiliate; IB acted as agent on a portion.
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,Off,Yes and No contracts offset to $1.00 cash settlement
+Codes,Data,P,Partial Execution
+Codes,Data,PE,Perpetual Investment
+Codes,Data,PI,Price Improvement
+Codes,Data,PTA,Post Trade Allocation
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Rb,Rebill
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,S0,Contract settled to zero value
+Codes,Data,S1,Contract settled to $1.00
+Codes,Data,SF,Trade is subject to IBKR Lite Surcharge Fee if volume of such trades exceeds 10% of the total monthly Lite trade volume
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Codes,Data,XCH,Mutual Fund Exchange Transaction
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Legal Notes,"Quantities preceded by a ""-"" sign indicate sell transactions. Other transactions are purchases. In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only. Trade execution times are displayed in U.S. Eastern Time."
+Notes/Legal Notes,Data,Legal Notes,"Please promptly report any inaccuracy or discrepancy in document using the contact information below. For any questions regarding this communication, you can contact us by sending a secure message through the Client Portal or via our website at www.ibkr.co.uk/support. You may also call us on +44 20 7710 5695. If you report an error via by telephone you should reconfirm in writing where possible, to protect your rights."
+Notes/Legal Notes,Data,Legal Notes,"Interactive Brokers (U.K.) Limited (""IBUK"") is regulated by the UK Financial Conduct Authority."
+Notes/Legal Notes,Data,Legal Notes,For more information about our costs and charges please see our Costs and Charges Disclosure.
+Notes/Legal Notes,Data,Legal Notes,"IB UK is a participant in the UK Financial Services Compensation Scheme (""FSCS""). You may be entitled to compensation from the scheme in the unlikely event we cannot meet our obligations. This depends on the type of business and the circumstances of the claim. Further information about compensation is available from the FSCS at http://www.fscs.org.uk."
+Notes/Legal Notes,Data,Legal Notes,"Unless otherwise noted, IBUK acted as agent in the execution of the above transactions. For those exchanges where IBUK is not a direct clearing member or custodian, IBUK may use an affiliate or third-party broker as clearing agent or sub-custodian."
+Notes/Legal Notes,Data,Legal Notes,Stock exchange transactions generally settle on the trade date plus one business day (T+1). US open-end mutual fund transactions also settle on trade date plus one business day. Some exchanges and other transaction types may have longer or shorter settlement periods. Ending settled cash reflects the cash that has actually settled. Execution time will be furnished upon request.
+Notes/Legal Notes,Data,Legal Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources.  IBUK does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price."
+Notes/Legal Notes,Data,Legal Notes,"Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default."

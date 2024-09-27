@@ -11,7 +11,7 @@ Please convert the provided data into two CSV formats. Provide ALL data without 
    - If the dataset is too large to fit in a single response, split it into multiple parts and clearly indicate where each part begins and ends.
    - After processing, verify that all entries from the original data are included in the final CSV.
    - After providing the CSV, confirm that all data has been processed and ask if any entries appear to be missing.
-   - If a response is cut off due to length limitations, continue in the next response exactly where the previous one ended minus 2 rows, aka repeating the last 2 preious rows onwards.
+   - If there is more than 90 rows in this table, first show the first 90 rows and then ask if you should continue.
 
 2. A Trade Log CSV with the following specifications:
    - Convert the Date column to YYYY-MM-DD format
@@ -25,7 +25,7 @@ Please convert the provided data into two CSV formats. Provide ALL data without 
    - Process ALL provided trade log data without omission. Do not summarize or simplify the dataset.
    - If the dataset is too large to fit in a single response, split it into multiple parts and clearly indicate where each part begins and ends.
    - After processing, verify that all entries from the original trade log are included in the final CSV.
-   - If a response is cut off due to length limitations, continue in the next response exactly where the previous one ended minus 2 rows, aka repeating the last 2 preious rows onwards.
+   - If there are more than 90 rows in this table, first show the first 90 rows and then ask if you should continue.
 
 Please provide the processed CSV data directly, without additional explanation unless there are specific issues or anomalies to report.
 First provide the first csv without omissions and ask if it is ok to follow the instructions and process the second csv.

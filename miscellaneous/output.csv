@@ -1,0 +1,101 @@
+Date,Action,Shares,Share Value,Holdings,Party,Insider,Source,Avg. Cost,%Change
+2024-09-04,SELL,-7530,2590000,592760,"Klarich (Lee)",Yes,"Insider Update",343.95,0.01270
+2024-09-04,SELL,-54230,18540000,395710,"Arora (Nikesh)",Yes,"Insider Update",341.88,0.13705
+2024-09-03,SELL,-2500,860120,72850,"Golechha (Dipak)",Yes,"Insider Update",344.05,0.03432
+2024-08-31,SELL,-15490,5620000,6250000,"Invesco Capital Management (QQQ Trust)",No,"Aggregate MFs",362.81,0.00248
+2024-08-31,PURCHASE,4420,1610000,313430,"BetaShares Capital Ltd.",No,"Aggregate MFs",364.25,0.01410
+2024-08-31,PURCHASE,1880,680100,257140,"Danske Bank Asset Management",No,"Aggregate MFs",361.76,0.00731
+2024-08-31,PURCHASE,12830,4650000,220970,"State Street Global Advisors Ireland Limited",No,"Aggregate MFs",362.43,0.05806
+2024-08-31,PURCHASE,2010,728700,184310,"State Street Global Advisors (UK) Ltd.",No,"Aggregate MFs",362.54,0.01091
+2024-08-31,PURCHASE,11250,4080000,161810,"Irish Life Investment Managers Ltd.",No,"Aggregate MFs",362.67,0.06952
+2024-08-31,PURCHASE,24880,9020000,155660,"Vanguard Global Advisers LLC",No,"Aggregate MFs",362.54,0.15984
+2024-08-31,SELL,-729,264420,104980,"DJE Kapital AG",No,"Aggregate MFs",362.72,0.00694
+2024-08-31,PURCHASE,2150,780210,76600,"BlackRock Fund Advisors",No,"Aggregate MFs",362.89,0.02806
+2024-08-31,PURCHASE,7650,2770000,68000,"Mercer Global Investments Management Ltd",No,"Aggregate MFs",362.09,0.11250
+2024-08-31,PURCHASE,176,63840,57680,"VanEck Australia Pty Ltd.",No,"Aggregate MFs",362.73,0.00305
+2024-08-31,PURCHASE,10970,3980000,36040,"Samsung Asset Management Co., Ltd.",No,"Aggregate MFs",362.81,0.30438
+2024-08-31,SELL,-2970,1080000,33440,"Evolve Funds Group Inc",No,"Aggregate MFs",363.64,0.08881
+2024-08-31,PURCHASE,656,237940,31370,"Nykredit Bank AS",No,"Aggregate MFs",362.71,0.02091
+2024-08-31,PURCHASE,730,264790,29120,"BNP Paribas Asset Management Belgium S.A.",No,"Aggregate MFs",362.73,0.02507
+2024-08-31,SELL,-115,41710,28510,"VanEck Asset Management B.V.",No,"Aggregate MFs",362.70,0.00403
+2024-08-31,PURCHASE,274,99390,23950,"Motilal Oswal Asset Management Company Ltd.",No,"Aggregate MFs",362.74,0.01144
+2024-08-31,PURCHASE,1280,463920,21780,"Nikko Asset Management Co., Ltd.",No,"Aggregate MFs",362.44,0.05878
+2024-08-31,NO CHANGE,0,0,14880,"Neuberger Berman Investment Advisors LLC",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,SELL,-534,193690,14540,"Global X Management (AUS) Limited",No,"Aggregate MFs",362.72,0.03673
+2024-08-31,SELL,-116,42080,13300,"State Street Global Advisors Australia Ltd.",No,"Aggregate MFs",362.76,0.00872
+2024-08-31,SELL,-1150,416760,11510,"Brompton Capital Advisors, Inc.",No,"Aggregate MFs",362.40,0.09991
+2024-08-31,PURCHASE,64,23210,11070,"Danske Bank Oyj",No,"Aggregate MFs",362.66,0.00578
+2024-08-31,SELL,-489,177370,10800,"Franklin Templeton Portfolio Advisors, Inc",No,"Aggregate MFs",362.72,0.04528
+2024-08-31,PURCHASE,783,284010,7630,"Shariaportfolio Inc",No,"Aggregate MFs",362.72,0.10262
+2024-08-31,SELL,-634,229960,7580,"Amundi Ireland Limited",No,"Aggregate MFs",362.71,0.08364
+2024-08-31,NO CHANGE,0,0,6500,"Tellus Fonder AB",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,PURCHASE,289,104830,5160,"Strive Asset Management LLC",No,"Aggregate MFs",362.73,0.05601
+2024-08-31,NO CHANGE,0,0,4100,"Change Finance, P.B.C.",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,PURCHASE,380,137830,2980,"Metaurus Advisors LLC",No,"Aggregate MFs",362.71,0.12752
+2024-08-31,SELL,-233,84510,2540,"Impact Shares, Corp.",No,"Aggregate MFs",362.70,0.09173
+2024-08-31,PURCHASE,1890,683730,1890,"Highstreet Asset Management Inc.",No,"Aggregate MFs",361.76,1.00000
+2024-08-31,SELL,-1780,645640,1700,"Banque et Caisse d'Epargne de l'Etat Luxembourg",No,"Aggregate MFs",362.72,1.04706
+2024-08-31,NO CHANGE,0,0,1700,"Gudme Raaschou Fondsmæglerselskab A/S",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,SELL,-41,14870,1480,"Rayliant Global Advisors",No,"Aggregate MFs",362.68,0.02770
+2024-08-31,PURCHASE,23,8340,1000,"Sparkline Capital LP",No,"Aggregate MFs",362.61,0.02300
+2024-08-31,PURCHASE,957,347120,957,"Administradora General de Fondos Security S.A.",No,"Aggregate MFs",362.72,1.00000
+2024-08-31,NO CHANGE,0,0,900,"Sella SGR S.p.A.",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,SELL,-9260,3360000,714,"Bainbridge Partners LLP",No,"Aggregate MFs",362.85,12.96918
+2024-08-31,SELL,-4920,1790000,592,"Putnam Investments Limited",No,"Aggregate MFs",363.82,8.31081
+2024-08-31,NO CHANGE,0,0,539,"FWU Invest S.A.",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,PURCHASE,21,7620,386,"AOT Invest LLC",No,"Aggregate MFs",362.86,0.05440
+2024-08-31,NO CHANGE,0,0,380,"Axxion S.A.",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,NO CHANGE,0,0,372,"Edelweiss Asset Management Ltd.",No,"Aggregate MFs",0.00,0.00000
+2024-08-31,SELL,-5980,2170000,317,"Spear Advisors LLC",No,"Aggregate MFs",362.88,18.86435
+2024-08-31,SELL,-2,725,60,"Humankind Investments LLC",No,"Aggregate MFs",362.50,0.03333
+2024-08-31,PURCHASE,425,154160,3160,"PGIM Inc",No,"Aggregate MFs",362.73,0.13449
+2024-08-27,SELL,-11000,3940000,30940,"McCarthy (Mary Pat)",Yes,"Insider Update",358.18,0.35553
+2024-08-20,SELL,-5300,1840000,57460,"Jenkins (William D Jr.)",Yes,"Insider Update",347.17,0.09224
+2024-08-01,SELL,-72000,25230000,1460000,"Zuk (Nir)",Yes,"Insider Update",350.42,0.04932
+2024-07-31,PURCHASE,119970,38960000,386380,"Candriam Luxembourg S.A.",No,"Aggregate MFs",324.75,0.31050
+2024-07-31,PURCHASE,4310,1400000,319700,"Nordea Investment Management AB (Denmark)",No,"Aggregate MFs",324.83,0.01348
+2024-07-31,SELL,-10020,3250000,260900,"Storebrand Kapitalforvaltning AS",No,"Aggregate MFs",324.35,0.03841
+2024-07-31,NO CHANGE,0,0,165250,"Raiffeisen Kapitalanlage-Gesellschaft mbH",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-46,14940,113160,"Cardano Asset Management NV",No,"Aggregate MFs",324.78,0.00041
+2024-07-31,SELL,-100,32470,107620,"KLP Fondsforvaltning AS",No,"Aggregate MFs",324.70,0.00093
+2024-07-31,PURCHASE,3790,1230000,103560,"Eurizon Capital SGR S.p.A.",No,"Aggregate MFs",324.54,0.03660
+2024-07-31,PURCHASE,4330,1410000,82630,"Mirae Asset Global Investments Co., Ltd.",No,"Aggregate MFs",325.63,0.05240
+2024-07-31,SELL,-49600,16110000,78470,"Anima SGR S.p.A.",No,"Aggregate MFs",324.80,0.63209
+2024-07-31,PURCHASE,69700,22630000,69700,"Harvest Portfolios Group Inc",No,"Aggregate MFs",324.68,1.00000
+2024-07-31,NO CHANGE,0,0,68620,"Ruth Asset Management AB",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-18460,5990000,59730,"DBS Bank Ltd.",No,"Aggregate MFs",324.49,0.30906
+2024-07-31,PURCHASE,2580,839100,58590,"Jyske Invest Fund Management A/S",No,"Aggregate MFs",325.23,0.04404
+2024-07-31,NO CHANGE,0,0,55390,"Citadel Asset Management",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,NO CHANGE,0,0,52530,"Erste Asset Management GmbH",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-1600,518920,49110,"Fideuram Asset Management (Ireland) dac",No,"Aggregate MFs",324.33,0.03258
+2024-07-31,PURCHASE,283,91900,44950,"OP Varainhoito Oy",No,"Aggregate MFs",324.73,0.00629
+2024-07-31,SELL,-7550,2450000,41770,"De Pury Pictet Turrettini & Co. Ltd.",No,"Aggregate MFs",324.50,0.18075
+2024-07-31,SELL,-1990,646540,38860,"TOBAM",No,"Aggregate MFs",324.89,0.05121
+2024-07-31,SELL,-1500,485800,38540,"Eurizon Capital S.A.",No,"Aggregate MFs",323.87,0.03892
+2024-07-31,NO CHANGE,0,0,35320,"Kutxabank Gestion, SGIIC, S.A.U.",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-1550,502030,34980,"Credit Mutuel Asset Management",No,"Aggregate MFs",323.89,0.04431
+2024-07-31,PURCHASE,46,14940,34890,"Dimensional Fund Advisors, Ltd.",No,"Aggregate MFs",324.78,0.00132
+2024-07-31,SELL,-5040,1640000,32480,"ABN AMRO Investment Solutions (AAIS)",No,"Aggregate MFs",325.40,0.15518
+2024-07-31,SELL,-160,51960,32010,"Bank J. Safra Sarasin AG (Asset Management)",No,"Aggregate MFs",324.75,0.00500
+2024-07-31,SELL,-1760,572170,29390,"Oddo BHF Asset Management GmbH",No,"Aggregate MFs",325.10,0.05989
+2024-07-31,NO CHANGE,0,0,28320,"AllianceBernstein Ltd. (Value)",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,PURCHASE,20,6500,24960,"Heptagon Capital LLP",No,"Aggregate MFs",325.00,0.00080
+2024-07-31,NO CHANGE,0,0,24090,"UBS Asset Management Switzerland AG",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,NO CHANGE,0,0,23160,"ASR Vermogensbeheer N.V.",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,PURCHASE,1190,385130,22790,"Global X Investments Canada Inc.",No,"Aggregate MFs",323.64,0.05222
+2024-07-31,PURCHASE,1720,557240,21980,"Russell Investments Limited",No,"Aggregate MFs",324.00,0.07826
+2024-07-31,NO CHANGE,0,0,21430,"Cicero Fonder AB",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-1920,623160,21250,"Sydbank",No,"Aggregate MFs",324.56,0.09035
+2024-07-31,SELL,-72000,23380000,21180,"Caixabank Asset Management SGIIC, S.A.U.",No,"Aggregate MFs",324.72,3.39943
+2024-07-31,SELL,-441,143210,19650,"Barclays Wealth",No,"Aggregate MFs",324.74,0.02244
+2024-07-31,PURCHASE,673,218540,18840,"ARCA Fondi SGR S.p.A",No,"Aggregate MFs",324.72,0.03572
+2024-07-31,SELL,-110,35720,18180,"Standard Life Assurance Limited",No,"Aggregate MFs",324.73,0.00605
+2024-07-31,NO CHANGE,0,0,17250,"EdenTree Investment Management Limited",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,PURCHASE,216,70140,17080,"Northern Trust Fund Managers (Ireland) Limited",No,"Aggregate MFs",324.72,0.01264
+2024-07-31,NO CHANGE,0,0,15860,"Middlefield Capital Corporation",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-150,48710,14120,"Azimut Capital Management Sgr SpA",No,"Aggregate MFs",324.73,0.01062
+2024-07-31,NO CHANGE,0,0,13860,"Lannebo Kapitalförvaltning AB",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-1060,344210,13160,"Schwyzer Kantonalbank",No,"Aggregate MFs",324.73,0.08055
+2024-07-31,NO CHANGE,0,0,13150,"Lampe Asset Management GmbH",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,NO CHANGE,0,0,12500,"Bellatrix Asset Management",No,"Aggregate MFs",0.00,0.00000
+2024-07-31,SELL,-1020,332850,12410,"Fulcrum Asset Management LLP",No,"Aggregate MFs",326.32,0.08219

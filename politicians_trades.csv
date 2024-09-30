@@ -1,4 +1,5 @@
 Politician,Issuer,Ticker,Trade Type,Published Date,Trade Date,Filed After (Days),Owner,Price,Trade Size
+Darin LaHood,WEST SUBURBAN BANCORP INC,N/A,sell,2024-09-30,2022-11-17,680,Undisclosed,,1K-15K
 Rudy Yakym,US TREASURY BILLS,N/A,buy,2024-09-27,2024-09-26,0,Undisclosed,,1K-15K
 Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-02-05,234,Undisclosed,,1M-5M
 Darrell Issa,US TREASURY BILLS,N/A,sell,2024-09-27,2024-02-13,226,Undisclosed,,5M-25M
@@ -498,4 +499,3 @@ Ro Khanna,Centene Corp,CNC,buy,2024-09-09,2024-08-05,32,Child,77.43,1K-15K
 Ro Khanna,Thermo Fisher Scientific Inc,TMO,buy,2024-09-09,2024-08-05,32,Child,598.03,1K-15K
 Ro Khanna,Microchip Technology Inc,MCHP,buy,2024-09-09,2024-08-05,32,Child,73.86,1K-15K
 Ro Khanna,CoStar Group Inc,CSGP,buy,2024-09-09,2024-08-05,32,Child,72.7,1K-15K
-Ro Khanna,Parker-Hannifin Corp,PH,buy,2024-09-09,2024-08-05,32,Child,506.31,1K-15K

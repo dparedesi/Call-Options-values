@@ -79,7 +79,7 @@ def get_yfinance_data(ticker):
             # Convert Unix timestamp to a readable date format
             ex_dividend_date = datetime.utcfromtimestamp(ex_dividend_date).strftime('%Y-%m-%d')
         else:
-            ex_dividend_date = "No ex-dividend date available"
+            ex_dividend_date = "-"
         
         return (
             info.get('dividendYield', np.nan),

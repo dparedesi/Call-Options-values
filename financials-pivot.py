@@ -4,6 +4,7 @@ from scipy import stats
 import yfinance as yf
 import contextlib
 import io
+from datetime import datetime
 
 def clean_revenue(revenue):
     if isinstance(revenue, str):
@@ -73,15 +74,23 @@ def get_yfinance_data(ticker):
     try:
         stock = yf.Ticker(ticker)
         info = stock.info
+        ex_dividend_date = info.get('exDividendDate')
+        if ex_dividend_date:
+            # Convert Unix timestamp to a readable date format
+            ex_dividend_date = datetime.utcfromtimestamp(ex_dividend_date).strftime('%Y-%m-%d')
+        else:
+            ex_dividend_date = "No ex-dividend date available"
+        
         return (
             info.get('dividendYield', np.nan),
             info.get('targetMeanPrice', np.nan),
             info.get('trailingPE', np.nan),
             info.get('pegRatio', np.nan),
-            info.get('trailingPegRatio', np.nan)
+            info.get('trailingPegRatio', np.nan),
+            ex_dividend_date
         )
     except:
-        return np.nan, np.nan, np.nan, np.nan, np.nan
+        return np.nan, np.nan, np.nan, np.nan, np.nan, "Error fetching data"
 
 def main():
     # Read the CSV file
@@ -107,16 +116,18 @@ def main():
     results_df['trailingPE'] = np.nan
     results_df['pegRatio'] = np.nan
     results_df['trailingPegRatio'] = np.nan
+    results_df['exDividendDate'] = ""  # New column for ex-dividend date
 
     # Fetch yfinance data for stocks in the watchlist
     for ticker in results_df['Ticker']:
         if ticker.upper() in watchlist_tickers:
-            dividend_yield, target_mean_price, trailing_pe, peg_ratio, trailing_peg_ratio = get_yfinance_data(ticker)
+            dividend_yield, target_mean_price, trailing_pe, peg_ratio, trailing_peg_ratio, ex_dividend_date = get_yfinance_data(ticker)
             results_df.loc[results_df['Ticker'] == ticker, 'dividendYield'] = dividend_yield
             results_df.loc[results_df['Ticker'] == ticker, 'targetMeanPrice'] = target_mean_price
             results_df.loc[results_df['Ticker'] == ticker, 'trailingPE'] = trailing_pe
             results_df.loc[results_df['Ticker'] == ticker, 'pegRatio'] = peg_ratio
             results_df.loc[results_df['Ticker'] == ticker, 'trailingPegRatio'] = trailing_peg_ratio
+            results_df.loc[results_df['Ticker'] == ticker, 'exDividendDate'] = ex_dividend_date
 
     # Export full summary to CSV
     output_file_path = 'financials_summary.csv'

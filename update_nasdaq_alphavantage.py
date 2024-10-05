@@ -8,16 +8,15 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Replace 'YOUR_API_KEY' with your free Alpha Vantage API key
-API_KEY = 'FKS5NZ1S4Z39PKCP' #dparedesi@uni.pe
-#API_KEY = 'CIUO9YWXH31RZOFM' #daparedes281@gmail.com
+#API_KEY = 'FKS5NZ1S4Z39PKCP' #dparedesi@uni.pe
+API_KEY = 'CIUO9YWXH31RZOFM' #daparedes281@gmail.com
 #API_KEY = 'XD31H2MN91ZDTP8K' #tinsels-lands05@icloud.com
 #API_KEY = 'IALJM6QUYYO7TJX6'
 #API_KEY = 'RE84E69TZ8EN8G6M'
 #API_KEY = 'G25V5KUS20XB1G0D'
 #API_KEY = 'S0DVGAQH1DW139XG'
 #API_KEY = 'E435P6HH349L1Q9F'
-TICKERS = ['HD','PANW','ANET','KSPI','CMG','FTNT','BLK','LLY','CBRE','MPWR','COP','XOM',
-           'SOLV','ASTS','CSGP','GEV','CRH','APO','NU','RKLB','COST','FN','NMIH','ESQ','TSM']
+TICKERS = ['GEV','CRH']
 API_URL = 'https://www.alphavantage.co/query?function=INCOME_STATEMENT&symbol={}&apikey={}'
 
 # Function to fetch and process data for a single ticker

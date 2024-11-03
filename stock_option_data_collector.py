@@ -195,7 +195,7 @@ def main():
     logger.info("Starting stock data collection...")
     
     # Process all tickers in batches
-    data = process_in_batches(top_100_tickers, batch_size=100)
+    data = process_in_batches(top_100_tickers, batch_size=50)
     
     if not data:
         logger.error("No data was collected")

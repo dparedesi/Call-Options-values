@@ -16,7 +16,8 @@ API_KEY = 'CIUO9YWXH31RZOFM' #daparedes281@gmail.com
 #API_KEY = 'G25V5KUS20XB1G0D'
 #API_KEY = 'S0DVGAQH1DW139XG'
 #API_KEY = 'E435P6HH349L1Q9F'
-TICKERS = ['GEV','CRH']
+TICKERS = ['MELI','FI','NOW','AMD','CI','BABA','HCA','SONY','MDLZ','GOOG','MRK','BUD',
+           'TMO','SYK','PLD','AMT','AZN','SPOT','ETN','MCD','REGN','GS','NEE']
 API_URL = 'https://www.alphavantage.co/query?function=INCOME_STATEMENT&symbol={}&apikey={}'
 
 # Function to fetch and process data for a single ticker
